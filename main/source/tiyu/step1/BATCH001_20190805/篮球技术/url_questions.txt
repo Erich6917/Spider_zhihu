@@ -1,0 +1,987 @@
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 334457272	1562846449	1562846449	https://www.zhihu.com/question/334457272	有没有大体重内线篮球鞋推荐？
+QUESTION 338702902	1564928372	1564928372	https://www.zhihu.com/question/338702902	如何打好篮球的c位？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 338563346	1564848028	1564848028	https://www.zhihu.com/question/338563346	怎么快速提升自己的球感，能使自己轻松过人 ，过人有什么秘诀吗？
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 338269076	1564708615	1564708615	https://www.zhihu.com/question/338269076	如何评价老詹的推土机上篮？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336734582	1563976775	1563976775	https://www.zhihu.com/question/336734582	篮球打全场时对面发球后还没过半场前能抢断吗?
+QUESTION 338537350	1564839436	1564839436	https://www.zhihu.com/question/338537350	篮球防守十大要点是什么?
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338437514	1564793844	1564793844	https://www.zhihu.com/question/338437514	篮球防守时，你面向持球进攻者，然后距离比较远，对方直接向你旁边冲，速度快，但是你横移就能挡到，要不要？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 30352029	1431555756	1431555756	https://www.zhihu.com/question/30352029	投篮准是一种什么感觉？
+QUESTION 338709913	1564930766	1564930766	https://www.zhihu.com/question/338709913	打球打了一年多了，怎么改投篮手型？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338512868	1564828693	1564828693	https://www.zhihu.com/question/338512868	怎样快速融入一片野篮球场？
+QUESTION 336939154	1564069977	1564069977	https://www.zhihu.com/question/336939154	身高180.体重115kg。适合篮球哪个位置？中锋吗？
+QUESTION 335130322	1563204671	1563204671	https://www.zhihu.com/question/335130322	如果喜欢的人喜欢打篮球，那我应该去学吗？
+QUESTION 338709913	1564930766	1564930766	https://www.zhihu.com/question/338709913	打球打了一年多了，怎么改投篮手型？
+QUESTION 337283642	1564245020	1564245020	https://www.zhihu.com/question/337283642	送喜欢打篮球的男生篮球该怎么选，实体店还是网上。?
+QUESTION 333666305	1562434728	1562434728	https://www.zhihu.com/question/333666305	打篮球双方无持球时能伸手挡别人吗?
+QUESTION 338702902	1564928372	1564928372	https://www.zhihu.com/question/338702902	如何打好篮球的c位？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 304795555	1544019396	1544019396	https://www.zhihu.com/question/304795555	投篮姿势怎么改可以变的特别帅？
+QUESTION 338167262	1564650694	1564650694	https://www.zhihu.com/question/338167262	该怎么成为球队的核心？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338424370	1564769128	1564769128	https://www.zhihu.com/question/338424370	想看懂篮球赛需要什么基本知识？
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 338424370	1564769128	1564769128	https://www.zhihu.com/question/338424370	想看懂篮球赛需要什么基本知识？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 338231465	1564672076	1564672076	https://www.zhihu.com/question/338231465	女孩子会打篮球热爱篮球，对男生来说是什么体验 ?
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 338702902	1564928372	1564928372	https://www.zhihu.com/question/338702902	如何打好篮球的c位？
+QUESTION 338710331	1564930950	1564930950	https://www.zhihu.com/question/338710331	打篮球很厉害的人会反感和不怎么会篮球的人一起打球吗?
+QUESTION 338652132	1564907298	1564907298	https://www.zhihu.com/question/338652132	我身高188CM，臂展195，体重160-170，运球还行投射一般三分不行，野球场要怎么打出侵略性？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338460241	1564804690	1564804690	https://www.zhihu.com/question/338460241	詹姆斯士兵13和hd2018选哪个好？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 333065276	1562132754	1562132754	https://www.zhihu.com/question/333065276	有没有大神指导一下我的基本篮球技术?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 26898451	1417577744	1417577744	https://www.zhihu.com/question/26898451	胯下运球有什么实际作用？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 59671433	1494425183	1494425183	https://www.zhihu.com/question/59671433	野球场上，最不装逼的话什么？
+QUESTION 338188959	1564656809	1564656809	https://www.zhihu.com/question/338188959	练运球时怎样练习悬球能力（不翻腕的情况下）？
+QUESTION 30352029	1431555756	1431555756	https://www.zhihu.com/question/30352029	投篮准是一种什么感觉？
+QUESTION 338340464	1564732808	1564732808	https://www.zhihu.com/question/338340464	投球时眼睛能看到篮球吗？
+QUESTION 333065276	1562132754	1562132754	https://www.zhihu.com/question/333065276	有没有大神指导一下我的基本篮球技术?
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 333863378	1562557008	1562557008	https://www.zhihu.com/question/333863378	如果一个篮球技术普通的人每场比赛固定能投进10个3分，这样能打cba吗？
+QUESTION 338537350	1564839436	1564839436	https://www.zhihu.com/question/338537350	篮球防守十大要点是什么?
+QUESTION 338619517	1564891689	1564891689	https://www.zhihu.com/question/338619517	打篮球脚步慢怎么过人哈好？
+QUESTION 336184257	1563727748	1563727748	https://www.zhihu.com/question/336184257	篮球怎样从节奏速度型转到地板流打发?
+QUESTION 266612088	1517640469	1517640469	https://www.zhihu.com/question/266612088	投篮好看是什么体验？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 315557638	1552345056	1552345056	https://www.zhihu.com/question/315557638	一个不练篮球的人，和练篮球的人有什么区别？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338460241	1564804690	1564804690	https://www.zhihu.com/question/338460241	詹姆斯士兵13和hd2018选哪个好？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 337215296	1564218366	1564218366	https://www.zhihu.com/question/337215296	求推荐篮球鞋，本人182 80kg，投7突3，喜欢急停跳投，一步过，打法暴力，室外场地。？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 335702625	1563502375	1563502375	https://www.zhihu.com/question/335702625	0基础，想在一个月内练好篮球，有什么好的方法，技巧，16岁，一米七三。？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338086163	1564623377	1564623377	https://www.zhihu.com/question/338086163	nba谁控球集柔和的手感，假动作和节奏感于一体呢？
+QUESTION 334503130	1562865412	1562865412	https://www.zhihu.com/question/334503130	身高180 体重大概135 比较喜欢突破和跳投能不能推荐几双实战篮球鞋呀，预算在1000左右？
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 338656051	1564909031	1564909031	https://www.zhihu.com/question/338656051	打篮球，背打是不是只能背打3下？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336395888	1563843317	1563843317	https://www.zhihu.com/question/336395888	为什么我是左手投篮右手运球？(篮球)?
+QUESTION 338593833	1564882927	1564882927	https://www.zhihu.com/question/338593833	有没有人 为了更好的发挥而锻炼篮球，但在场上还是不敢运球？请问有什么方法让自己克服这种心理吗？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338512868	1564828693	1564828693	https://www.zhihu.com/question/338512868	怎样快速融入一片野篮球场？
+QUESTION 338656051	1564909031	1564909031	https://www.zhihu.com/question/338656051	打篮球，背打是不是只能背打3下？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 338269076	1564708615	1564708615	https://www.zhihu.com/question/338269076	如何评价老詹的推土机上篮？
+QUESTION 334540219	1562901528	1562901528	https://www.zhihu.com/question/334540219	有没有盖帽不掉的投篮方式？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 333197265	1562197995	1562197995	https://www.zhihu.com/question/333197265	在篮球队中怎样得到教练器重？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 337626643	1564406282	1564406282	https://www.zhihu.com/question/337626643	运球人完全过中线 球没在前场落地 运球人回线 算回场么?
+QUESTION 314989064	1551957039	1551957039	https://www.zhihu.com/question/314989064	哈登的运球能力在历史上属于什么水平？
+QUESTION 62483224	1500126840	1500126840	https://www.zhihu.com/question/62483224	为什么我打半场篮球很牛，全场篮球却很差？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 338188959	1564656809	1564656809	https://www.zhihu.com/question/338188959	练运球时怎样练习悬球能力（不翻腕的情况下）？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 315557638	1552345056	1552345056	https://www.zhihu.com/question/315557638	一个不练篮球的人，和练篮球的人有什么区别？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 337961884	1564560399	1564560399	https://www.zhihu.com/question/337961884	身高187CM体重95KG，27岁了才开始打篮球，应该怎么去接触篮球？不敢有身体对抗怎么办？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338619517	1564891689	1564891689	https://www.zhihu.com/question/338619517	打篮球脚步慢怎么过人哈好？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 338269076	1564708615	1564708615	https://www.zhihu.com/question/338269076	如何评价老詹的推土机上篮？
+QUESTION 334254818	1562745309	1562745309	https://www.zhihu.com/question/334254818	为什么篮球比赛不能四个队友团团围住一个命中率最高的人，把他互送到对方三分线/蓝下进行投篮？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 336530510	1563886006	1563886006	https://www.zhihu.com/question/336530510	有较好的运球基础，想如何把控球练得更好，也就是想节奏型的打球?
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 338617434	1564890938	1564890938	https://www.zhihu.com/question/338617434	海沃德挑战：篮球场上，你有哪些值得分享的独门绝技？
+QUESTION 336538700	1563888843	1563888843	https://www.zhihu.com/question/336538700	如何改进这样的投篮？
+QUESTION 338167262	1564650694	1564650694	https://www.zhihu.com/question/338167262	该怎么成为球队的核心？
+QUESTION 311018076	1549087866	1549087866	https://www.zhihu.com/question/311018076	篮球的 1-5 号位都是干什么的?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 40837057	1456635103	1456635103	https://www.zhihu.com/question/40837057	库里这样打篮球是否已经失去了篮球的意义？
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 303376534	1542958392	1542958392	https://www.zhihu.com/question/303376534	像科比那样在筋疲力尽的时候练投篮有效果吗？
+QUESTION 338593833	1564882927	1564882927	https://www.zhihu.com/question/338593833	有没有人 为了更好的发挥而锻炼篮球，但在场上还是不敢运球？请问有什么方法让自己克服这种心理吗？
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338593833	1564882927	1564882927	https://www.zhihu.com/question/338593833	有没有人 为了更好的发挥而锻炼篮球，但在场上还是不敢运球？请问有什么方法让自己克服这种心理吗？
+QUESTION 40837057	1456635103	1456635103	https://www.zhihu.com/question/40837057	库里这样打篮球是否已经失去了篮球的意义？
+QUESTION 315200670	1552108805	1552108805	https://www.zhihu.com/question/315200670	大个子打篮球要学突破吗，NBA 有哪些例子值得学习？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 335130322	1563204671	1563204671	https://www.zhihu.com/question/335130322	如果喜欢的人喜欢打篮球，那我应该去学吗？
+QUESTION 338593833	1564882927	1564882927	https://www.zhihu.com/question/338593833	有没有人 为了更好的发挥而锻炼篮球，但在场上还是不敢运球？请问有什么方法让自己克服这种心理吗？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 298662383	1539610442	1539610442	https://www.zhihu.com/question/298662383	打篮球遇到很嚣张的人怎么办？
+QUESTION 40837057	1456635103	1456635103	https://www.zhihu.com/question/40837057	库里这样打篮球是否已经失去了篮球的意义？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 337616256	1564402442	1564402442	https://www.zhihu.com/question/337616256	走步和运球过肩裁判吹的是不是进攻时间违例？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 338325611	1564727119	1564727119	https://www.zhihu.com/question/338325611	这个球是否走步？是否翻腕？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 279762998	1528092845	1528092845	https://www.zhihu.com/question/279762998	高一学生182 140斤打什么位置？怎么提升？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337516604	1564375399	1564375399	https://www.zhihu.com/question/337516604	篮球有哪些基本功？
+QUESTION 338340464	1564732808	1564732808	https://www.zhihu.com/question/338340464	投球时眼睛能看到篮球吗？
+QUESTION 337634650	1564408833	1564408833	https://www.zhihu.com/question/337634650	为什么拿球的时候伸出右脚就能快速的过人？
+QUESTION 24435845	1404955923	1404955923	https://www.zhihu.com/question/24435845	请教后卫篮球鞋的选择？
+QUESTION 338246440	1564678528	1564678528	https://www.zhihu.com/question/338246440	如何提高自己的上篮速度？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 298662383	1539610442	1539610442	https://www.zhihu.com/question/298662383	打篮球遇到很嚣张的人怎么办？
+QUESTION 300923007	1541085116	1541085116	https://www.zhihu.com/question/300923007	篮球练习投篮重要还是练习运球重要？
+QUESTION 274571352	1524575185	1524575185	https://www.zhihu.com/question/274571352	一个月内，篮球基础不是很好 ，有什么训练方法可以变得很强？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 335460552	1563370893	1563370893	https://www.zhihu.com/question/335460552	打野球4打4人就懵了该怎么改善？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 315557638	1552345056	1552345056	https://www.zhihu.com/question/315557638	一个不练篮球的人，和练篮球的人有什么区别？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 333159169	1562167843	1562167843	https://www.zhihu.com/question/333159169	你是为什么喜欢打篮球的呢?
+QUESTION 336762913	1563987306	1563987306	https://www.zhihu.com/question/336762913	篮球后卫打身体对抗正常吗？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 338512868	1564828693	1564828693	https://www.zhihu.com/question/338512868	怎样快速融入一片野篮球场？
+QUESTION 333065276	1562132754	1562132754	https://www.zhihu.com/question/333065276	有没有大神指导一下我的基本篮球技术?
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 309495741	1547782598	1547782598	https://www.zhihu.com/question/309495741	怎么才能一个人学好篮球。没有人教独自练真的是没有什么明显的长进。？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 332570207	1561897459	1561897459	https://www.zhihu.com/question/332570207	野球场如何破紧逼防守？
+QUESTION 308412676	1546920049	1546920049	https://www.zhihu.com/question/308412676	关于篮球，你有哪些心得 / 经验？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338537350	1564839436	1564839436	https://www.zhihu.com/question/338537350	篮球防守十大要点是什么?
+QUESTION 330718275	1561215196	1561215196	https://www.zhihu.com/question/330718275	跳投党选什么鞋？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336184257	1563727748	1563727748	https://www.zhihu.com/question/336184257	篮球怎样从节奏速度型转到地板流打发?
+QUESTION 337414359	1564318867	1564318867	https://www.zhihu.com/question/337414359	如何拥有好的篮球跑位意识?
+QUESTION 338340464	1564732808	1564732808	https://www.zhihu.com/question/338340464	投球时眼睛能看到篮球吗？
+QUESTION 338424370	1564769128	1564769128	https://www.zhihu.com/question/338424370	想看懂篮球赛需要什么基本知识？
+QUESTION 338538280	1564839809	1564839809	https://www.zhihu.com/question/338538280	CBA球员是如何训练投篮和运球的？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 323231827	1557163383	1557163383	https://www.zhihu.com/question/323231827	如果有一个身高 180、空位投篮命中率百分百的球员，他能在 NBA 打出什么成绩？
+QUESTION 333296370	1562237467	1562237467	https://www.zhihu.com/question/333296370	现在去野球场打篮球，穿科比的24号会不会被人嘲讽？
+QUESTION 297552192	1538908777	1538908777	https://www.zhihu.com/question/297552192	打篮球传球至上    却被人轻视是一种怎样的体验？？
+QUESTION 332364391	1561803786	1561803786	https://www.zhihu.com/question/332364391	谁能封盖科比的后仰跳投？
+QUESTION 338340464	1564732808	1564732808	https://www.zhihu.com/question/338340464	投球时眼睛能看到篮球吗？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 338231465	1564672076	1564672076	https://www.zhihu.com/question/338231465	女孩子会打篮球热爱篮球，对男生来说是什么体验 ?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 338512868	1564828693	1564828693	https://www.zhihu.com/question/338512868	怎样快速融入一片野篮球场？
+QUESTION 334351985	1562805915	1562805915	https://www.zhihu.com/question/334351985	如何打篮球不像蔡徐坤？
+QUESTION 267755688	1519574241	1519574241	https://www.zhihu.com/question/267755688	姚明当年真的打爆了魔兽霍华德吗？原因是什么？
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 338460241	1564804690	1564804690	https://www.zhihu.com/question/338460241	詹姆斯士兵13和hd2018选哪个好？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 337961884	1564560399	1564560399	https://www.zhihu.com/question/337961884	身高187CM体重95KG，27岁了才开始打篮球，应该怎么去接触篮球？不敢有身体对抗怎么办？
+QUESTION 338506633	1564825854	1564825854	https://www.zhihu.com/question/338506633	如何练习三分球精准度?
+QUESTION 66194688	1507094606	1507094606	https://www.zhihu.com/question/66194688	有什么球鞋适合水泥地实战？
+QUESTION 337961884	1564560399	1564560399	https://www.zhihu.com/question/337961884	身高187CM体重95KG，27岁了才开始打篮球，应该怎么去接触篮球？不敢有身体对抗怎么办？
+QUESTION 335398152	1563347016	1563347016	https://www.zhihu.com/question/335398152	如何看加农贝克的魔鬼级难度运球？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 337634650	1564408833	1564408833	https://www.zhihu.com/question/337634650	为什么拿球的时候伸出右脚就能快速的过人？
+QUESTION 327778162	1559612264	1559612264	https://www.zhihu.com/question/327778162	身高184cm 臂展189cm 体重136斤如何快速练习扣篮？
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 308412676	1546920049	1546920049	https://www.zhihu.com/question/308412676	关于篮球，你有哪些心得 / 经验？
+QUESTION 338460241	1564804690	1564804690	https://www.zhihu.com/question/338460241	詹姆斯士兵13和hd2018选哪个好？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 338376701	1564747641	1564747641	https://www.zhihu.com/question/338376701	平时自己单练的时候运球挺好，但打比赛的时候就不太好了，为什么？
+QUESTION 338325611	1564727119	1564727119	https://www.zhihu.com/question/338325611	这个球是否走步？是否翻腕？
+QUESTION 335130322	1563204671	1563204671	https://www.zhihu.com/question/335130322	如果喜欢的人喜欢打篮球，那我应该去学吗？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 266612088	1517640469	1517640469	https://www.zhihu.com/question/266612088	投篮好看是什么体验？
+QUESTION 20279212	1338909492	1338909492	https://www.zhihu.com/question/20279212	如何提高投篮的命中率？
+QUESTION 304795555	1544019396	1544019396	https://www.zhihu.com/question/304795555	投篮姿势怎么改可以变的特别帅？
+QUESTION 337536529	1564383123	1564383123	https://www.zhihu.com/question/337536529	女生如何提高打篮球的技术？
+QUESTION 337616256	1564402442	1564402442	https://www.zhihu.com/question/337616256	走步和运球过肩裁判吹的是不是进攻时间违例？
+QUESTION 337919936	1564550468	1564550468	https://www.zhihu.com/question/337919936	最近换了投篮姿势，但是在三分线因为不够力而导致手大幅度变型，怎么解决？
+QUESTION 301290186	1541344443	1541344443	https://www.zhihu.com/question/301290186	十天内练会胯下运球现实吗？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 305437686	1544539098	1544539098	https://www.zhihu.com/question/305437686	打篮球如何应对逼防？NBA 球员是怎么应对的？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338269076	1564708615	1564708615	https://www.zhihu.com/question/338269076	如何评价老詹的推土机上篮？
+QUESTION 335944407	1563613706	1563613706	https://www.zhihu.com/question/335944407	为什么篮球控球按标准方法练了这么多天 还是没进步呢？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 332364391	1561803786	1561803786	https://www.zhihu.com/question/332364391	谁能封盖科比的后仰跳投？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 333296370	1562237467	1562237467	https://www.zhihu.com/question/333296370	现在去野球场打篮球，穿科比的24号会不会被人嘲讽？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 336387514	1563837165	1563837165	https://www.zhihu.com/question/336387514	185 60kg篮球可以打大前锋位置吗?
+QUESTION 335692400	1563498310	1563498310	https://www.zhihu.com/question/335692400	蔡徐坤后悔打了那段篮球吗？
+QUESTION 334540219	1562901528	1562901528	https://www.zhihu.com/question/334540219	有没有盖帽不掉的投篮方式？
+QUESTION 337961884	1564560399	1564560399	https://www.zhihu.com/question/337961884	身高187CM体重95KG，27岁了才开始打篮球，应该怎么去接触篮球？不敢有身体对抗怎么办？
+QUESTION 337863769	1564528268	1564528268	https://www.zhihu.com/question/337863769	玩篮球怎样练好左手运球？
+QUESTION 338452188	1564800943	1564800943	https://www.zhihu.com/question/338452188	初三学生篮球身体素质和弹跳训练方法有哪些？
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 338325611	1564727119	1564727119	https://www.zhihu.com/question/338325611	这个球是否走步？是否翻腕？
+QUESTION 302806489	1542516157	1542516157	https://www.zhihu.com/question/302806489	篮球赛前餐什么比较好?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 338232791	1564672521	1564672521	https://www.zhihu.com/question/338232791	如何提高篮球投篮水平?
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 300923007	1541085116	1541085116	https://www.zhihu.com/question/300923007	篮球练习投篮重要还是练习运球重要？
+QUESTION 333863378	1562557008	1562557008	https://www.zhihu.com/question/333863378	如果一个篮球技术普通的人每场比赛固定能投进10个3分，这样能打cba吗？
+QUESTION 267271423	1518874018	1518874018	https://www.zhihu.com/question/267271423	篮球的魅力是什么呢？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 338437514	1564793844	1564793844	https://www.zhihu.com/question/338437514	篮球防守时，你面向持球进攻者，然后距离比较远，对方直接向你旁边冲，速度快，但是你横移就能挡到，要不要？
+QUESTION 337961884	1564560399	1564560399	https://www.zhihu.com/question/337961884	身高187CM体重95KG，27岁了才开始打篮球，应该怎么去接触篮球？不敢有身体对抗怎么办？
+QUESTION 28583128	1425710831	1425710831	https://www.zhihu.com/question/28583128	篮球场上高瘦型球员如何打矮壮型球员？表示我188，体重70kg，双手原地抓框…速度耐力在周围人里算可以的
+？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 337626643	1564406282	1564406282	https://www.zhihu.com/question/337626643	运球人完全过中线 球没在前场落地 运球人回线 算回场么?
+QUESTION 30352029	1431555756	1431555756	https://www.zhihu.com/question/30352029	投篮准是一种什么感觉？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338424370	1564769128	1564769128	https://www.zhihu.com/question/338424370	想看懂篮球赛需要什么基本知识？
+QUESTION 338437514	1564793844	1564793844	https://www.zhihu.com/question/338437514	篮球防守时，你面向持球进攻者，然后距离比较远，对方直接向你旁边冲，速度快，但是你横移就能挡到，要不要？
+QUESTION 338325611	1564727119	1564727119	https://www.zhihu.com/question/338325611	这个球是否走步？是否翻腕？
+QUESTION 267755688	1519574241	1519574241	https://www.zhihu.com/question/267755688	姚明当年真的打爆了魔兽霍华德吗？原因是什么？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 38848215	1450968172	1450968172	https://www.zhihu.com/question/38848215	奥拉朱旺的背打技术威力具体多大？
+QUESTION 326035646	1558764769	1558764769	https://www.zhihu.com/question/326035646	篮球，你觉得最帅的动作是什么 ?
+QUESTION 316931841	1553181539	1553181539	https://www.zhihu.com/question/316931841	你们认为最好、最完美的篮球鞋是那一双？
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 337407572	1564316255	1564316255	https://www.zhihu.com/question/337407572	怎么拉拢强大的队友?
+QUESTION 332364391	1561803786	1561803786	https://www.zhihu.com/question/332364391	谁能封盖科比的后仰跳投？
+QUESTION 337626643	1564406282	1564406282	https://www.zhihu.com/question/337626643	运球人完全过中线 球没在前场落地 运球人回线 算回场么?
+QUESTION 321140234	1555858059	1555858059	https://www.zhihu.com/question/321140234	为什么我的投篮姿势这么丑？我该怎么改正。？
+QUESTION 321650499	1556173030	1556173030	https://www.zhihu.com/question/321650499	身高183篮球怎样练好防守?
+QUESTION 321771182	1556248516	1556248516	https://www.zhihu.com/question/321771182	打球过人是看对方脚步还是上半身？
+QUESTION 322378459	1556613741	1556613741	https://www.zhihu.com/question/322378459	篮球背打怎么防止被抄球？
+QUESTION 299236368	1539994347	1539994347	https://www.zhihu.com/question/299236368	为什么我是右撇子投篮时却感觉左脚在前舒服？
+QUESTION 332072248	1561685321	1561685321	https://www.zhihu.com/question/332072248	早晨起来练运球有用吗？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 326035646	1558764769	1558764769	https://www.zhihu.com/question/326035646	篮球，你觉得最帅的动作是什么 ?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 329660969	1560664798	1560664798	https://www.zhihu.com/question/329660969	篮球比赛中如何造进攻犯规而不被吹假摔?
+QUESTION 334378387	1562814665	1562814665	https://www.zhihu.com/question/334378387	如何防守诺维茨基的「金鸡独立」跳投？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 334254818	1562745309	1562745309	https://www.zhihu.com/question/334254818	为什么篮球比赛不能四个队友团团围住一个命中率最高的人，把他互送到对方三分线/蓝下进行投篮？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 267755688	1519574241	1519574241	https://www.zhihu.com/question/267755688	姚明当年真的打爆了魔兽霍华德吗？原因是什么？
+QUESTION 338086163	1564623377	1564623377	https://www.zhihu.com/question/338086163	nba谁控球集柔和的手感，假动作和节奏感于一体呢？
+QUESTION 337256911	1564235151	1564235151	https://www.zhihu.com/question/337256911	为什么投篮训练的姿势是正确的，实战是乱的、错的。?
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 332364391	1561803786	1561803786	https://www.zhihu.com/question/332364391	谁能封盖科比的后仰跳投？
+QUESTION 21860526	1382369109	1382369109	https://www.zhihu.com/question/21860526	篮球零基础，如何系统学习？
+QUESTION 338280280	1564712479	1564712479	https://www.zhihu.com/question/338280280	NBA2k2如何空接?
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 338231465	1564672076	1564672076	https://www.zhihu.com/question/338231465	女孩子会打篮球热爱篮球，对男生来说是什么体验 ?
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 338351922	1564737144	1564737144	https://www.zhihu.com/question/338351922	199cm身高，205臂展 ，80kg，如何才能在篮球场上打出侵略性。?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337283642	1564245020	1564245020	https://www.zhihu.com/question/337283642	送喜欢打篮球的男生篮球该怎么选，实体店还是网上。?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 316931841	1553181539	1553181539	https://www.zhihu.com/question/316931841	你们认为最好、最完美的篮球鞋是那一双？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 332364391	1561803786	1561803786	https://www.zhihu.com/question/332364391	谁能封盖科比的后仰跳投？
+QUESTION 336578329	1563904823	1563904823	https://www.zhihu.com/question/336578329	每次打篮球过掉防守者后快到篮下时会慌，不知道怎么上篮怎么办？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 337661347	1564418219	1564418219	https://www.zhihu.com/question/337661347	这个斯伯丁篮球是什么时候新出的？
+QUESTION 337948341	1564557232	1564557232	https://www.zhihu.com/question/337948341	如何从篮球位置，打球方式判断一个人的性格？
+QUESTION 336330257	1563799179	1563799179	https://www.zhihu.com/question/336330257	篮球是投篮重要还是运球重要？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 310297579	1548443925	1548443925	https://www.zhihu.com/question/310297579	高个胖子打小前锋能打吗？
+QUESTION 324288854	1557800046	1557800046	https://www.zhihu.com/question/324288854	184cm，刚学打球，要往什么方向发展？
+QUESTION 337245689	1564231080	1564231080	https://www.zhihu.com/question/337245689	怎么选择自己在篮球场上的位置?
+QUESTION 329967037	1560833262	1560833262	https://www.zhihu.com/question/329967037	我擅长突破，投篮一直是短板，手臂力量较强，但压腕投篮确总感觉找不到发力点，罚球线投篮都吃力，求指点。？
+QUESTION 337974690	1564563455	1564563455	https://www.zhihu.com/question/337974690	运球基本功不错，但进攻手段单一，而且常常过不了人，为什么？
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 19878118	1318481818	1318481818	https://www.zhihu.com/question/19878118	业余篮球玩家如何提高三分球命中率？
+QUESTION 338340464	1564732808	1564732808	https://www.zhihu.com/question/338340464	投球时眼睛能看到篮球吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 323231827	1557163383	1557163383	https://www.zhihu.com/question/323231827	如果有一个身高 180、空位投篮命中率百分百的球员，他能在 NBA 打出什么成绩？
+QUESTION 334360045	1562809744	1562809744	https://www.zhihu.com/question/334360045	对方突底线我要给他留位置吗？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 337788224	1564483875	1564483875	https://www.zhihu.com/question/337788224	对于打篮球有一点基础但是运球技术很菜的人应该怎样系统训练?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337863769	1564528268	1564528268	https://www.zhihu.com/question/337863769	玩篮球怎样练好左手运球？
+QUESTION 266612088	1517640469	1517640469	https://www.zhihu.com/question/266612088	投篮好看是什么体验？
+QUESTION 338124287	1564636370	1564636370	https://www.zhihu.com/question/338124287	在知乎聊篮球是一种什么样的体验?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 338351922	1564737144	1564737144	https://www.zhihu.com/question/338351922	199cm身高，205臂展 ，80kg，如何才能在篮球场上打出侵略性。?
+QUESTION 284255963	1530946191	1530946191	https://www.zhihu.com/question/284255963	打篮球只会突破不会投篮是一种什么样的体验？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 338231465	1564672076	1564672076	https://www.zhihu.com/question/338231465	女孩子会打篮球热爱篮球，对男生来说是什么体验 ?
+QUESTION 336184257	1563727748	1563727748	https://www.zhihu.com/question/336184257	篮球怎样从节奏速度型转到地板流打发?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338351922	1564737144	1564737144	https://www.zhihu.com/question/338351922	199cm身高，205臂展 ，80kg，如何才能在篮球场上打出侵略性。?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337948341	1564557232	1564557232	https://www.zhihu.com/question/337948341	如何从篮球位置，打球方式判断一个人的性格？
+QUESTION 300923007	1541085116	1541085116	https://www.zhihu.com/question/300923007	篮球练习投篮重要还是练习运球重要？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 337948341	1564557232	1564557232	https://www.zhihu.com/question/337948341	如何从篮球位置，打球方式判断一个人的性格？
+QUESTION 317540544	1553580405	1553580405	https://www.zhihu.com/question/317540544	你有多爱篮球，为什么？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 300923007	1541085116	1541085116	https://www.zhihu.com/question/300923007	篮球练习投篮重要还是练习运球重要？
+QUESTION 21860526	1382369109	1382369109	https://www.zhihu.com/question/21860526	篮球零基础，如何系统学习？
+QUESTION 338086163	1564623377	1564623377	https://www.zhihu.com/question/338086163	nba谁控球集柔和的手感，假动作和节奏感于一体呢？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 334855181	1563074890	1563074890	https://www.zhihu.com/question/334855181	篮球转身过人的要领是什么呢?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 310297579	1548443925	1548443925	https://www.zhihu.com/question/310297579	高个胖子打小前锋能打吗？
+QUESTION 333197265	1562197995	1562197995	https://www.zhihu.com/question/333197265	在篮球队中怎样得到教练器重？
+QUESTION 337656760	1564416127	1564416127	https://www.zhihu.com/question/337656760	篮球怎么过不贴身防守？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 332464889	1561860121	1561860121	https://www.zhihu.com/question/332464889	篮球有什么非常实用的过人技巧?
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 333159169	1562167843	1562167843	https://www.zhihu.com/question/333159169	你是为什么喜欢打篮球的呢?
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 317540544	1553580405	1553580405	https://www.zhihu.com/question/317540544	你有多爱篮球，为什么？
+QUESTION 323479657	1557308682	1557308682	https://www.zhihu.com/question/323479657	完全不会篮球的人该怎么练篮球？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 333197265	1562197995	1562197995	https://www.zhihu.com/question/333197265	在篮球队中怎样得到教练器重？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 306204010	1545181509	1545181509	https://www.zhihu.com/question/306204010	24 岁在野球场上可以练成库里的投篮吗？
+QUESTION 336762913	1563987306	1563987306	https://www.zhihu.com/question/336762913	篮球后卫打身体对抗正常吗？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 274571352	1524575185	1524575185	https://www.zhihu.com/question/274571352	一个月内，篮球基础不是很好 ，有什么训练方法可以变得很强？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 332072248	1561685321	1561685321	https://www.zhihu.com/question/332072248	早晨起来练运球有用吗？
+QUESTION 30352029	1431555756	1431555756	https://www.zhihu.com/question/30352029	投篮准是一种什么感觉？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 333159169	1562167843	1562167843	https://www.zhihu.com/question/333159169	你是为什么喜欢打篮球的呢?
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 315351494	1552205304	1552205304	https://www.zhihu.com/question/315351494	什么是篮球偷步?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338269076	1564708615	1564708615	https://www.zhihu.com/question/338269076	如何评价老詹的推土机上篮？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 338269076	1564708615	1564708615	https://www.zhihu.com/question/338269076	如何评价老詹的推土机上篮？
+QUESTION 298662383	1539610442	1539610442	https://www.zhihu.com/question/298662383	打篮球遇到很嚣张的人怎么办？
+QUESTION 266612088	1517640469	1517640469	https://www.zhihu.com/question/266612088	投篮好看是什么体验？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 334946726	1563114316	1563114316	https://www.zhihu.com/question/334946726	投篮时候是双手一起发力吗？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338232791	1564672521	1564672521	https://www.zhihu.com/question/338232791	如何提高篮球投篮水平?
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 300437750	1540781665	1540781665	https://www.zhihu.com/question/300437750	和会打篮球的人一起打球是什么感觉？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 338286895	1564713984	1564713984	https://www.zhihu.com/question/338286895	我今年15岁，净身高才163，小个子，速度还行，运球一般，耐力很行，我想打小前锋，有什么建议吗？
+QUESTION 337407572	1564316255	1564316255	https://www.zhihu.com/question/337407572	怎么拉拢强大的队友?
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 40837057	1456635103	1456635103	https://www.zhihu.com/question/40837057	库里这样打篮球是否已经失去了篮球的意义？
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 333216025	1562207323	1562207323	https://www.zhihu.com/question/333216025	如何打好全场篮球？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 311739211	1549782039	1549782039	https://www.zhihu.com/question/311739211	篮球场打野球爱防守真的不招人待见吗？
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 311739211	1549782039	1549782039	https://www.zhihu.com/question/311739211	篮球场打野球爱防守真的不招人待见吗？
+QUESTION 337407572	1564316255	1564316255	https://www.zhihu.com/question/337407572	怎么拉拢强大的队友?
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 311739211	1549782039	1549782039	https://www.zhihu.com/question/311739211	篮球场打野球爱防守真的不招人待见吗？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 311739211	1549782039	1549782039	https://www.zhihu.com/question/311739211	篮球场打野球爱防守真的不招人待见吗？
+QUESTION 338267974	1564708163	1564708163	https://www.zhihu.com/question/338267974	有哪些中锋的传球技术让你印象深刻？
+QUESTION 338246440	1564678528	1564678528	https://www.zhihu.com/question/338246440	如何提高自己的上篮速度？
+QUESTION 337215296	1564218366	1564218366	https://www.zhihu.com/question/337215296	求推荐篮球鞋，本人182 80kg，投7突3，喜欢急停跳投，一步过，打法暴力，室外场地。？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 300437750	1540781665	1540781665	https://www.zhihu.com/question/300437750	和会打篮球的人一起打球是什么感觉？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 280108974	1528342798	1528342798	https://www.zhihu.com/question/280108974	想要一个假期提升篮球水平，怎么练？
+QUESTION 61300886	1497884759	1497884759	https://www.zhihu.com/question/61300886	你的投篮姿势是怎样的？
+QUESTION 323231827	1557163383	1557163383	https://www.zhihu.com/question/323231827	如果有一个身高 180、空位投篮命中率百分百的球员，他能在 NBA 打出什么成绩？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 20301627	1339981742	1339981742	https://www.zhihu.com/question/20301627	怎么给篮球技术一个质的提高？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337215296	1564218366	1564218366	https://www.zhihu.com/question/337215296	求推荐篮球鞋，本人182 80kg，投7突3，喜欢急停跳投，一步过，打法暴力，室外场地。？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 333216025	1562207323	1562207323	https://www.zhihu.com/question/333216025	如何打好全场篮球？
+QUESTION 336538700	1563888843	1563888843	https://www.zhihu.com/question/336538700	如何改进这样的投篮？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 335508624	1563410496	1563410496	https://www.zhihu.com/question/335508624	停止运球开始确定中轴脚里停止运球是怎么定义的？
+QUESTION 266612088	1517640469	1517640469	https://www.zhihu.com/question/266612088	投篮好看是什么体验？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 337407572	1564316255	1564316255	https://www.zhihu.com/question/337407572	怎么拉拢强大的队友?
+QUESTION 333216025	1562207323	1562207323	https://www.zhihu.com/question/333216025	如何打好全场篮球？
+QUESTION 276928089	1526135078	1526135078	https://www.zhihu.com/question/276928089	每个打篮球厉害的人都是苦练出来的吗？
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 338232929	1564672592	1564672592	https://www.zhihu.com/question/338232929	篮球投篮一定要用手腕的力量投出去吗?
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 337215296	1564218366	1564218366	https://www.zhihu.com/question/337215296	求推荐篮球鞋，本人182 80kg，投7突3，喜欢急停跳投，一步过，打法暴力，室外场地。？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 337215296	1564218366	1564218366	https://www.zhihu.com/question/337215296	求推荐篮球鞋，本人182 80kg，投7突3，喜欢急停跳投，一步过，打法暴力，室外场地。？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 298662383	1539610442	1539610442	https://www.zhihu.com/question/298662383	打篮球遇到很嚣张的人怎么办？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 333159169	1562167843	1562167843	https://www.zhihu.com/question/333159169	你是为什么喜欢打篮球的呢?
+QUESTION 323813535	1557496954	1557496954	https://www.zhihu.com/question/323813535	身高不够能打好篮球吗？
+QUESTION 306204010	1545181509	1545181509	https://www.zhihu.com/question/306204010	24 岁在野球场上可以练成库里的投篮吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 21860526	1382369109	1382369109	https://www.zhihu.com/question/21860526	篮球零基础，如何系统学习？
+QUESTION 333159169	1562167843	1562167843	https://www.zhihu.com/question/333159169	你是为什么喜欢打篮球的呢?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 305395156	1544514606	1544514606	https://www.zhihu.com/question/305395156	实力要强到什么程度才可以通过路人王海选？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337974690	1564563455	1564563455	https://www.zhihu.com/question/337974690	运球基本功不错，但进攻手段单一，而且常常过不了人，为什么？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 316892774	1553163405	1553163405	https://www.zhihu.com/question/316892774	请问篮球投篮碰到篮筐时，篮球为什么会绕着篮筐转呢，当篮球有自转时情况有没有不同?
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 40837057	1456635103	1456635103	https://www.zhihu.com/question/40837057	库里这样打篮球是否已经失去了篮球的意义？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 333216025	1562207323	1562207323	https://www.zhihu.com/question/333216025	如何打好全场篮球？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 296285454	1538027645	1538027645	https://www.zhihu.com/question/296285454	为了打篮球，你们都克服哪些困难？
+QUESTION 338143439	1564643575	1564643575	https://www.zhihu.com/question/338143439	大家都在戏弄蔡徐坤唱跳篮球技术不够，那篮球和唱跳到底怎样结合才比较好？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336762913	1563987306	1563987306	https://www.zhihu.com/question/336762913	篮球后卫打身体对抗正常吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 338143439	1564643575	1564643575	https://www.zhihu.com/question/338143439	大家都在戏弄蔡徐坤唱跳篮球技术不够，那篮球和唱跳到底怎样结合才比较好？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 337516604	1564375399	1564375399	https://www.zhihu.com/question/337516604	篮球有哪些基本功？
+QUESTION 323788819	1557483669	1557483669	https://www.zhihu.com/question/323788819	如何提高篮球防守能力？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337529079	1564380282	1564380282	https://www.zhihu.com/question/337529079	这个有用吗?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 337788224	1564483875	1564483875	https://www.zhihu.com/question/337788224	对于打篮球有一点基础但是运球技术很菜的人应该怎样系统训练?
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 334088056	1562666398	1562666398	https://www.zhihu.com/question/334088056	打篮球只练基本功会怎么样？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 304795555	1544019396	1544019396	https://www.zhihu.com/question/304795555	投篮姿势怎么改可以变的特别帅？
+QUESTION 334088056	1562666398	1562666398	https://www.zhihu.com/question/334088056	打篮球只练基本功会怎么样？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337888328	1564540888	1564540888	https://www.zhihu.com/question/337888328	库里的投篮姿势不标准是否需要改变?
+QUESTION 337283642	1564245020	1564245020	https://www.zhihu.com/question/337283642	送喜欢打篮球的男生篮球该怎么选，实体店还是网上。?
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 337516604	1564375399	1564375399	https://www.zhihu.com/question/337516604	篮球有哪些基本功？
+QUESTION 337433731	1564325429	1564325429	https://www.zhihu.com/question/337433731	弟弟喜欢篮球应该让他怎么学?
+QUESTION 337529079	1564380282	1564380282	https://www.zhihu.com/question/337529079	这个有用吗?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 337433731	1564325429	1564325429	https://www.zhihu.com/question/337433731	弟弟喜欢篮球应该让他怎么学?
+QUESTION 337529079	1564380282	1564380282	https://www.zhihu.com/question/337529079	这个有用吗?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337974690	1564563455	1564563455	https://www.zhihu.com/question/337974690	运球基本功不错，但进攻手段单一，而且常常过不了人，为什么？
+QUESTION 338086163	1564623377	1564623377	https://www.zhihu.com/question/338086163	nba谁控球集柔和的手感，假动作和节奏感于一体呢？
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 337283642	1564245020	1564245020	https://www.zhihu.com/question/337283642	送喜欢打篮球的男生篮球该怎么选，实体店还是网上。?
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 300437750	1540781665	1540781665	https://www.zhihu.com/question/300437750	和会打篮球的人一起打球是什么感觉？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337116550	1564157501	1564157501	https://www.zhihu.com/question/337116550	怎样练习后仰跳投...本人腰腹力量还可以，平时上篮终结拉杆也比较多....？
+QUESTION 26898451	1417577744	1417577744	https://www.zhihu.com/question/26898451	胯下运球有什么实际作用？
+QUESTION 308186701	1546745437	1546745437	https://www.zhihu.com/question/308186701	想打篮球，但是别人打的太好了，融入不进去怎么办。。。？
+QUESTION 337455963	1564335265	1564335265	https://www.zhihu.com/question/337455963	身高146能否做跳投?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 334066872	1562660763	1562660763	https://www.zhihu.com/question/334066872	我平时喜欢跳投  突破也不少 不超650有哪些值得买的球鞋？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337919936	1564550468	1564550468	https://www.zhihu.com/question/337919936	最近换了投篮姿势，但是在三分线因为不够力而导致手大幅度变型，怎么解决？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336387514	1563837165	1563837165	https://www.zhihu.com/question/336387514	185 60kg篮球可以打大前锋位置吗?
+QUESTION 302180086	1542020135	1542020135	https://www.zhihu.com/question/302180086	你为什么喜欢打篮球，有什么故事可以分享吗？
+QUESTION 327166473	1559257871	1559257871	https://www.zhihu.com/question/327166473	180   臂展185  立定跳远2.95 为什么没法扣篮  是哪块力量不够吗？
+QUESTION 337215296	1564218366	1564218366	https://www.zhihu.com/question/337215296	求推荐篮球鞋，本人182 80kg，投7突3，喜欢急停跳投，一步过，打法暴力，室外场地。？
+QUESTION 336387514	1563837165	1563837165	https://www.zhihu.com/question/336387514	185 60kg篮球可以打大前锋位置吗?
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 311621633	1549686837	1549686837	https://www.zhihu.com/question/311621633	如果能在篮球场任何地点，无干扰情况下拥有 100% 投篮命中率，是否能打上 NBA？
+QUESTION 336387514	1563837165	1563837165	https://www.zhihu.com/question/336387514	185 60kg篮球可以打大前锋位置吗?
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 336508502	1563878087	1563878087	https://www.zhihu.com/question/336508502	当已经背打到禁区后，面对比自己身高还要高的中锋，在附近没队友接应时，该如何终结这次进攻并且不被盖？
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 275945240	1525489345	1525489345	https://www.zhihu.com/question/275945240	打篮球的人如何增强小腿爆发力和弹跳？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 333216025	1562207323	1562207323	https://www.zhihu.com/question/333216025	如何打好全场篮球？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 325237960	1558336906	1558336906	https://www.zhihu.com/question/325237960	180cm  120斤 司职后卫 求推荐款篮球鞋适合跳投 变相 抓地力好的 外场 最好颜值好点？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 337683915	1564448322	1564448322	https://www.zhihu.com/question/337683915	打球时运球低好不好   不好的的话怎么改？
+QUESTION 336870671	1564044924	1564044924	https://www.zhihu.com/question/336870671	我怎样才能在篮球上取得提升?
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 21983750	1383855445	1383855445	https://www.zhihu.com/question/21983750	如何打好全场篮球？为什么比起半场，全场篮球这么难打？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 337536529	1564383123	1564383123	https://www.zhihu.com/question/337536529	女生如何提高打篮球的技术？
+QUESTION 326680664	1559051217	1559051217	https://www.zhihu.com/question/326680664	全场篮球怎么打?
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 304795555	1544019396	1544019396	https://www.zhihu.com/question/304795555	投篮姿势怎么改可以变的特别帅？
+QUESTION 316931841	1553181539	1553181539	https://www.zhihu.com/question/316931841	你们认为最好、最完美的篮球鞋是那一双？
+QUESTION 336578329	1563904823	1563904823	https://www.zhihu.com/question/336578329	每次打篮球过掉防守者后快到篮下时会慌，不知道怎么上篮怎么办？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 328101421	1559803797	1559803797	https://www.zhihu.com/question/328101421	请问打篮球怎么转身过人，拿球一直转不过去？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 311018076	1549087866	1549087866	https://www.zhihu.com/question/311018076	篮球的 1-5 号位都是干什么的?
+QUESTION 334012470	1562638131	1562638131	https://www.zhihu.com/question/334012470	三步上篮第一步可以停下假投吗？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 337656289	1564415957	1564415957	https://www.zhihu.com/question/337656289	186cm,75kg大学想打小前行吗，本人投篮不行，但是内线脚步，突破，都不错?
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 333625605	1562416458	1562416458	https://www.zhihu.com/question/333625605	学库里欧文打篮球脚踝老受伤，咋办？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337106827	1564153765	1564153765	https://www.zhihu.com/question/337106827	为什么有的人运球不是很强但打起球来却非常猛呢？
+QUESTION 298662383	1539610442	1539610442	https://www.zhihu.com/question/298662383	打篮球遇到很嚣张的人怎么办？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 337653947	1564415067	1564415067	https://www.zhihu.com/question/337653947	打篮球变向过人有什么技巧？
+QUESTION 337661545	1564418304	1564418304	https://www.zhihu.com/question/337661545	交叉步接接三步上篮走步吗?
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 308545419	1547017692	1547017692	https://www.zhihu.com/question/308545419	为什么中国高中生能够扣篮的很少？
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 304248164	1543630045	1543630045	https://www.zhihu.com/question/304248164	不会打篮球，总在人群中间窜来窜去，根本就没有接到球的机会。怎么办。？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337863769	1564528268	1564528268	https://www.zhihu.com/question/337863769	玩篮球怎样练好左手运球？
+QUESTION 335666509	1563465816	1563465816	https://www.zhihu.com/question/335666509	NBA现役或者近二十年有过这种球员吗？
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 337961884	1564560399	1564560399	https://www.zhihu.com/question/337961884	身高187CM体重95KG，27岁了才开始打篮球，应该怎么去接触篮球？不敢有身体对抗怎么办？
+QUESTION 335666509	1563465816	1563465816	https://www.zhihu.com/question/335666509	NBA现役或者近二十年有过这种球员吗？
+QUESTION 337516604	1564375399	1564375399	https://www.zhihu.com/question/337516604	篮球有哪些基本功？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337298038	1564267739	1564267739	https://www.zhihu.com/question/337298038	有没有适合练习运球时听的节奏感比较强的音乐？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 331439667	1561459445	1561459445	https://www.zhihu.com/question/331439667	如果打篮球的时候有人小看你然后放你射或者放你上篮怎么办，但是又没这个技术去做。？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 334946726	1563114316	1563114316	https://www.zhihu.com/question/334946726	投篮时候是双手一起发力吗？
+QUESTION 334855181	1563074890	1563074890	https://www.zhihu.com/question/334855181	篮球转身过人的要领是什么呢?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 337919936	1564550468	1564550468	https://www.zhihu.com/question/337919936	最近换了投篮姿势，但是在三分线因为不够力而导致手大幅度变型，怎么解决？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 337653947	1564415067	1564415067	https://www.zhihu.com/question/337653947	打篮球变向过人有什么技巧？
+QUESTION 337455963	1564335265	1564335265	https://www.zhihu.com/question/337455963	身高146能否做跳投?
+QUESTION 337433731	1564325429	1564325429	https://www.zhihu.com/question/337433731	弟弟喜欢篮球应该让他怎么学?
+QUESTION 337904929	1564545945	1564545945	https://www.zhihu.com/question/337904929	你们看看我这投篮咋调整？
+QUESTION 333159169	1562167843	1562167843	https://www.zhihu.com/question/333159169	你是为什么喜欢打篮球的呢?
+QUESTION 337919936	1564550468	1564550468	https://www.zhihu.com/question/337919936	最近换了投篮姿势，但是在三分线因为不够力而导致手大幅度变型，怎么解决？
+QUESTION 329202987	1560406920	1560406920	https://www.zhihu.com/question/329202987	打篮球有哪些一般人不知道的技巧?
+QUESTION 333296370	1562237467	1562237467	https://www.zhihu.com/question/333296370	现在去野球场打篮球，穿科比的24号会不会被人嘲讽？
+QUESTION 335702625	1563502375	1563502375	https://www.zhihu.com/question/335702625	0基础，想在一个月内练好篮球，有什么好的方法，技巧，16岁，一米七三。？
+QUESTION 336762913	1563987306	1563987306	https://www.zhihu.com/question/336762913	篮球后卫打身体对抗正常吗？
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 337919936	1564550468	1564550468	https://www.zhihu.com/question/337919936	最近换了投篮姿势，但是在三分线因为不够力而导致手大幅度变型，怎么解决？
+QUESTION 329744723	1560702732	1560702732	https://www.zhihu.com/question/329744723	怎么看野球场让你扣篮的人?
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 320971324	1555757999	1555757999	https://www.zhihu.com/question/320971324	如何拥有干净的球风？
+QUESTION 336912607	1564060849	1564060849	https://www.zhihu.com/question/336912607	打篮球突破比自己矮的会断球的，怎样很好的护球？
+QUESTION 313059440	1550676379	1550676379	https://www.zhihu.com/question/313059440	请问一下各位大神，21岁打篮球晚吗？
+QUESTION 335083372	1563186823	1563186823	https://www.zhihu.com/question/335083372	打篮球为什么要出3分线？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 337399479	1564313007	1564313007	https://www.zhihu.com/question/337399479	怎样才能在一个月内成为运球高手？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 337283642	1564245020	1564245020	https://www.zhihu.com/question/337283642	送喜欢打篮球的男生篮球该怎么选，实体店还是网上。?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 337919936	1564550468	1564550468	https://www.zhihu.com/question/337919936	最近换了投篮姿势，但是在三分线因为不够力而导致手大幅度变型，怎么解决？
+QUESTION 337424139	1564322398	1564322398	https://www.zhihu.com/question/337424139	如何提高自己的篮球防守水平？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 30352029	1431555756	1431555756	https://www.zhihu.com/question/30352029	投篮准是一种什么感觉？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 336870671	1564044924	1564044924	https://www.zhihu.com/question/336870671	我怎样才能在篮球上取得提升?
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 300437750	1540781665	1540781665	https://www.zhihu.com/question/300437750	和会打篮球的人一起打球是什么感觉？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337529079	1564380282	1564380282	https://www.zhihu.com/question/337529079	这个有用吗?
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 336734582	1563976775	1563976775	https://www.zhihu.com/question/336734582	篮球打全场时对面发球后还没过半场前能抢断吗?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 313914712	1551263290	1551263290	https://www.zhihu.com/question/313914712	打篮球会运球为什么却不敢过人？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 336360000	1563808780	1563808780	https://www.zhihu.com/question/336360000	求推荐一款篮球?
+QUESTION 336399040	1563844813	1563844813	https://www.zhihu.com/question/336399040	基本功个人能力都特别好 但现在去野球场打篮球 拿到球就很晕 不知道该做什么 一切都很乱 也过不了人?
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 315557638	1552345056	1552345056	https://www.zhihu.com/question/315557638	一个不练篮球的人，和练篮球的人有什么区别？
+QUESTION 336480021	1563869148	1563869148	https://www.zhihu.com/question/336480021	我们为什么喜欢打篮球?
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 303948635	1543394350	1543394350	https://www.zhihu.com/question/303948635	你们平时在野球场打篮球最烦哪种队友？
+QUESTION 337237071	1564227306	1564227306	https://www.zhihu.com/question/337237071	这两个人打球，23岁的是否具有优势？
+QUESTION 337656289	1564415957	1564415957	https://www.zhihu.com/question/337656289	186cm,75kg大学想打小前行吗，本人投篮不行，但是内线脚步，突破，都不错?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 317540544	1553580405	1553580405	https://www.zhihu.com/question/317540544	你有多爱篮球，为什么？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 27512260	1420884194	1420884194	https://www.zhihu.com/question/27512260	怎样练就精英级的投篮？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337283642	1564245020	1564245020	https://www.zhihu.com/question/337283642	送喜欢打篮球的男生篮球该怎么选，实体店还是网上。?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 334855181	1563074890	1563074890	https://www.zhihu.com/question/334855181	篮球转身过人的要领是什么呢?
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336722625	1563972662	1563972662	https://www.zhihu.com/question/336722625	我19岁，172cm，120斤打篮球不敢上篮和出手后老不进应该怎么办？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 336722625	1563972662	1563972662	https://www.zhihu.com/question/336722625	我19岁，172cm，120斤打篮球不敢上篮和出手后老不进应该怎么办？
+QUESTION 336722625	1563972662	1563972662	https://www.zhihu.com/question/336722625	我19岁，172cm，120斤打篮球不敢上篮和出手后老不进应该怎么办？
+QUESTION 336722625	1563972662	1563972662	https://www.zhihu.com/question/336722625	我19岁，172cm，120斤打篮球不敢上篮和出手后老不进应该怎么办？
+QUESTION 337653947	1564415067	1564415067	https://www.zhihu.com/question/337653947	打篮球变向过人有什么技巧？
+QUESTION 337455963	1564335265	1564335265	https://www.zhihu.com/question/337455963	身高146能否做跳投?
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337577272	1564394428	1564394428	https://www.zhihu.com/question/337577272	个子矮的打篮球要掌握哪些篮球技能？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 337653947	1564415067	1564415067	https://www.zhihu.com/question/337653947	打篮球变向过人有什么技巧？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 319026011	1554543459	1554543459	https://www.zhihu.com/question/319026011	如何劝一个正在学习的人去打球？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 27512260	1420884194	1420884194	https://www.zhihu.com/question/27512260	怎样练就精英级的投篮？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 280108974	1528342798	1528342798	https://www.zhihu.com/question/280108974	想要一个假期提升篮球水平，怎么练？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 337683915	1564448322	1564448322	https://www.zhihu.com/question/337683915	打球时运球低好不好   不好的的话怎么改？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 298662383	1539610442	1539610442	https://www.zhihu.com/question/298662383	打篮球遇到很嚣张的人怎么办？
+QUESTION 336530510	1563886006	1563886006	https://www.zhihu.com/question/336530510	有较好的运球基础，想如何把控球练得更好，也就是想节奏型的打球?
+QUESTION 337245689	1564231080	1564231080	https://www.zhihu.com/question/337245689	怎么选择自己在篮球场上的位置?
+QUESTION 334351985	1562805915	1562805915	https://www.zhihu.com/question/334351985	如何打篮球不像蔡徐坤？
+QUESTION 334846677	1563071883	1563071883	https://www.zhihu.com/question/334846677	怎样让一个对篮球一无所知的女生快速了解篮球？（喜欢的男孩子特爱打篮球）?
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 334378387	1562814665	1562814665	https://www.zhihu.com/question/334378387	如何防守诺维茨基的「金鸡独立」跳投？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 300437750	1540781665	1540781665	https://www.zhihu.com/question/300437750	和会打篮球的人一起打球是什么感觉？
+QUESTION 333771352	1562501272	1562501272	https://www.zhihu.com/question/333771352	我身高182，体重65kg，除了三分，控球，背打与突破很差其他还行，我应该打什么位置，穿什么球鞋？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 337433731	1564325429	1564325429	https://www.zhihu.com/question/337433731	弟弟喜欢篮球应该让他怎么学?
+QUESTION 337653947	1564415067	1564415067	https://www.zhihu.com/question/337653947	打篮球变向过人有什么技巧？
+QUESTION 275659145	1525269725	1525269725	https://www.zhihu.com/question/275659145	打篮球比赛被教练按在板凳不上场什么感受？
+QUESTION 336870671	1564044924	1564044924	https://www.zhihu.com/question/336870671	我怎样才能在篮球上取得提升?
+QUESTION 336330257	1563799179	1563799179	https://www.zhihu.com/question/336330257	篮球是投篮重要还是运球重要？
+QUESTION 337392862	1564310177	1564310177	https://www.zhihu.com/question/337392862	打篮球的你现在是这样的吗?
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 333912249	1562575155	1562575155	https://www.zhihu.com/question/333912249	打篮球单挑，不管怎么试探步假动作防守员就待在原地和我保持一臂距离，是个大胖子没办法强突和投篮，该怎样？
+QUESTION 319097567	1554603659	1554603659	https://www.zhihu.com/question/319097567	打篮球最怕被骂什么?
+QUESTION 337717122	1564458447	1564458447	https://www.zhihu.com/question/337717122	新世纪活塞和小牛拿到的那两个总冠军哪一个含金量更高、传奇性更强？
+QUESTION 334855181	1563074890	1563074890	https://www.zhihu.com/question/334855181	篮球转身过人的要领是什么呢?
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 337529079	1564380282	1564380282	https://www.zhihu.com/question/337529079	这个有用吗?
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 336597390	1563930687	1563930687	https://www.zhihu.com/question/336597390	如果 NBA 球员上野球场不允许投篮和抢板，会在多大程度改变比赛？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 320245820	1555319367	1555319367	https://www.zhihu.com/question/320245820	打篮球野球场上我去挡拆，队友非得单干，让我走，挡拆那么好用，光单干还不会突分，是有毛病吗？
+QUESTION 37522036	1447585480	1447585480	https://www.zhihu.com/question/37522036	你打球遇到过多脏的对手？
+QUESTION 334103656	1562670402	1562670402	https://www.zhihu.com/question/334103656	投篮不好是什么感觉？
+QUESTION 330436147	1561079822	1561079822	https://www.zhihu.com/question/330436147	四米身高打篮球是什么体验？
+QUESTION 37301817	1446978412	1446978412	https://www.zhihu.com/question/37301817	打篮球时投篮运球分别用到的是哪些肌肉？
+QUESTION 326035646	1558764769	1558764769	https://www.zhihu.com/question/326035646	篮球，你觉得最帅的动作是什么 ?
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 334394605	1562821139	1562821139	https://www.zhihu.com/question/334394605	怎么和球场老大爷打球？
+QUESTION 298773931	1539685428	1539685428	https://www.zhihu.com/question/298773931	篮球运球为什么要大力？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 267600390	1519391768	1519391768	https://www.zhihu.com/question/267600390	和不会打篮球的人打球什么体验？
+QUESTION 328482335	1560044941	1560044941	https://www.zhihu.com/question/328482335	客观评价蔡徐坤的篮球技术？
+QUESTION 335360441	1563334413	1563334413	https://www.zhihu.com/question/335360441	篮球什么过人招式又帅又实用？
+QUESTION 329229686	1560417373	1560417373	https://www.zhihu.com/question/329229686	如何能够快速打好篮球？
+QUESTION 315557638	1552345056	1552345056	https://www.zhihu.com/question/315557638	一个不练篮球的人，和练篮球的人有什么区别？
+QUESTION 337257531	1564235399	1564235399	https://www.zhihu.com/question/337257531	打内线碰到比自己壮但是比自己稍微矮一点得顶不动怎么办？
+QUESTION 315557638	1552345056	1552345056	https://www.zhihu.com/question/315557638	一个不练篮球的人，和练篮球的人有什么区别？
+QUESTION 336361617	1563809298	1563809298	https://www.zhihu.com/question/336361617	为什么勾手投篮那么无解，现在却极少有球员以勾手出名？
+QUESTION 328482335	1560044941	1560044941	https://www.zhihu.com/question/328482335	客观评价蔡徐坤的篮球技术？
+QUESTION 337798679	1564487697	1564487697	https://www.zhihu.com/question/337798679	长时间不打球球感会下降嘛？
+QUESTION 328482335	1560044941	1560044941	https://www.zhihu.com/question/328482335	客观评价蔡徐坤的篮球技术？
+QUESTION 328482335	1560044941	1560044941	https://www.zhihu.com/question/328482335	客观评价蔡徐坤的篮球技术？
+QUESTION 278317464	1527062406	1527062406	https://www.zhihu.com/question/278317464	为什么从拿球的一瞬间就知道一个人会不会打球？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？
+QUESTION 337683915	1564448322	1564448322	https://www.zhihu.com/question/337683915	打球时运球低好不好   不好的的话怎么改？
+QUESTION 336584973	1563919770	1563919770	https://www.zhihu.com/question/336584973	蔡徐坤打篮球真的不好吗？

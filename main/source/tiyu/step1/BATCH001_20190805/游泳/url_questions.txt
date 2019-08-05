@@ -1,0 +1,916 @@
+QUESTION 338181000	1564654035	1564654035	https://www.zhihu.com/question/338181000	游泳减肥25天可以瘦下去多少？
+QUESTION 336999853	1564115463	1564115463	https://www.zhihu.com/question/336999853	海大游泳是必修吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334871006	1563080794	1563080794	https://www.zhihu.com/question/334871006	离东莞长安镇较近的可以游泳的海滩有哪些地方？
+QUESTION 338524043	1564833892	1564833892	https://www.zhihu.com/question/338524043	仰泳在实际生活中有什么用？
+QUESTION 336748156	1563980999	1563980999	https://www.zhihu.com/question/336748156	游泳世锦赛中国队怎么穿着羽绒服？
+QUESTION 326168150	1558846489	1558846489	https://www.zhihu.com/question/326168150	男生172cm，145斤。强烈自愿减肥，目标达至120或125。游泳好还是跑步好？？？
+QUESTION 20237169	1337056368	1337056368	https://www.zhihu.com/question/20237169	会蛙泳的人如何学习自由泳？
+QUESTION 22132862	1385570597	1385570597	https://www.zhihu.com/question/22132862	女生如何选购适合自己的泳装？
+QUESTION 22132862	1385570597	1385570597	https://www.zhihu.com/question/22132862	女生如何选购适合自己的泳装？
+QUESTION 49334640	1470534438	1470534438	https://www.zhihu.com/question/49334640	如何看待澳洲游泳运动员霍顿称孙杨为 「drug cheat」且澳委会拒绝道歉一事？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 322227650	1556522628	1556522628	https://www.zhihu.com/question/322227650	深圳龙华新区哪里有游泳池跟学游泳的？
+QUESTION 338611503	1564889014	1564889014	https://www.zhihu.com/question/338611503	儿童学游泳冷怎么办?
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 336233296	1563765215	1563765215	https://www.zhihu.com/question/336233296	第3个21天，跑步，爬山，游泳 ‍♀️下半身怎么瘦不下来呢？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336132823	1563708880	1563708880	https://www.zhihu.com/question/336132823	如果孙杨退役了，那中国游泳的未来在哪？
+QUESTION 338296015	1564715923	1564715923	https://www.zhihu.com/question/338296015	你的妈妈和你的女友都不会游泳，但同时都掉进水里了，你会先救哪一个？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 334889988	1563090242	1563090242	https://www.zhihu.com/question/334889988	一名游泳小白如何快速成为一名游泳教练？
+QUESTION 338197782	1564660354	1564660354	https://www.zhihu.com/question/338197782	一期游泳课只允许学一种泳（未告知）是否违规?
+QUESTION 338392634	1564753749	1564753749	https://www.zhihu.com/question/338392634	为什么游泳明明没有消耗很多热量，反而会觉得特别饿呢？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 336492146	1563872760	1563872760	https://www.zhihu.com/question/336492146	当你在游泳池游泳，你是直接尿在泳池里还是起来去卫生间解决？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 338618304	1564891182	1564891182	https://www.zhihu.com/question/338618304	福建医科大学要必修游泳吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336336557	1563801459	1563801459	https://www.zhihu.com/question/336336557	如何评价叶诗文复出后摘的世锦赛银牌？
+QUESTION 338604208	1564886832	1564886832	https://www.zhihu.com/question/338604208	小孩学游泳要先会憋气吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338610269	1564888677	1564888677	https://www.zhihu.com/question/338610269	要升大学了 打算加入游泳校队 校队的训练强度会把肩膀变宽变厚吗 女孩子？
+QUESTION 338644782	1564903934	1564903934	https://www.zhihu.com/question/338644782	一个女生去游泳池游泳会不会很尴尬很奇怪？
+QUESTION 337709162	1564455970	1564455970	https://www.zhihu.com/question/337709162	游泳前可以不吃早餐吗?
+QUESTION 336966729	1564102867	1564102867	https://www.zhihu.com/question/336966729	蛙泳3小时游5000米什么水平？
+QUESTION 330678154	1561199473	1561199473	https://www.zhihu.com/question/330678154	每天坚持蛙泳一小时能起到塑身效果吗？
+QUESTION 338644782	1564903934	1564903934	https://www.zhihu.com/question/338644782	一个女生去游泳池游泳会不会很尴尬很奇怪？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 338644782	1564903934	1564903934	https://www.zhihu.com/question/338644782	一个女生去游泳池游泳会不会很尴尬很奇怪？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 338194211	1564658935	1564658935	https://www.zhihu.com/question/338194211	请问怎样才能提高蛙泳速度呢？
+QUESTION 335235042	1563266590	1563266590	https://www.zhihu.com/question/335235042	夏天到了想去上游泳训练课，有没有可下水用的防水型助听器？
+QUESTION 338477870	1564813413	1564813413	https://www.zhihu.com/question/338477870	体育中考耐力项目如何抉择？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 334700287	1562988565	1562988565	https://www.zhihu.com/question/334700287	身高180，游泳零基础在170深的泳池中学游泳，有危险吗？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 334746396	1563007572	1563007572	https://www.zhihu.com/question/334746396	腰间盘突出可以学自由泳吗?
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 292099200	1535304521	1535304521	https://www.zhihu.com/question/292099200	安医生自杀，德阳爆料王该不该向社会道歉？
+QUESTION 274415171	1524482190	1524482190	https://www.zhihu.com/question/274415171	独自游泳时一般在思考什么？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 338615125	1564890087	1564890087	https://www.zhihu.com/question/338615125	去游泳可以散头发吗?
+QUESTION 338315797	1564723302	1564723302	https://www.zhihu.com/question/338315797	高中毕业的暑假，要学游泳吗？
+QUESTION 338569228	1564851031	1564851031	https://www.zhihu.com/question/338569228	介意男朋友跟别的女孩一起游泳这个想法正常吗？
+QUESTION 338610269	1564888677	1564888677	https://www.zhihu.com/question/338610269	要升大学了 打算加入游泳校队 校队的训练强度会把肩膀变宽变厚吗 女孩子？
+QUESTION 338610269	1564888677	1564888677	https://www.zhihu.com/question/338610269	要升大学了 打算加入游泳校队 校队的训练强度会把肩膀变宽变厚吗 女孩子？
+QUESTION 338318514	1564724416	1564724416	https://www.zhihu.com/question/338318514	初中生有必要学游泳吗?
+QUESTION 338598587	1564885053	1564885053	https://www.zhihu.com/question/338598587	一个人去学游泳有危险吗?
+QUESTION 338191066	1564657710	1564657710	https://www.zhihu.com/question/338191066	换气很难受怎么办？
+QUESTION 336688068	1563960187	1563960187	https://www.zhihu.com/question/336688068	如何看待NBA勇士队球员博古特diss游泳运动员孙杨?
+QUESTION 338598587	1564885053	1564885053	https://www.zhihu.com/question/338598587	一个人去学游泳有危险吗?
+QUESTION 338585856	1564878146	1564878146	https://www.zhihu.com/question/338585856	江西九江哪里适合游泳横渡长江?
+QUESTION 338197782	1564660354	1564660354	https://www.zhihu.com/question/338197782	一期游泳课只允许学一种泳（未告知）是否违规?
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 274415171	1524482190	1524482190	https://www.zhihu.com/question/274415171	独自游泳时一般在思考什么？
+QUESTION 31414367	1434621901	1434621901	https://www.zhihu.com/question/31414367	溺水差点被淹死是什么样的体验？
+QUESTION 338569228	1564851031	1564851031	https://www.zhihu.com/question/338569228	介意男朋友跟别的女孩一起游泳这个想法正常吗？
+QUESTION 329860484	1560770094	1560770094	https://www.zhihu.com/question/329860484	本人非教练，自己教的儿子自由泳，各位指正一下，多谢！？
+QUESTION 338386292	1564751419	1564751419	https://www.zhihu.com/question/338386292	游泳溺水后，挣扎走的快还是不挣扎走的快？
+QUESTION 337496839	1564369672	1564369672	https://www.zhihu.com/question/337496839	收到泳镜后怎样检验泳镜?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 338569228	1564851031	1564851031	https://www.zhihu.com/question/338569228	介意男朋友跟别的女孩一起游泳这个想法正常吗？
+QUESTION 338569228	1564851031	1564851031	https://www.zhihu.com/question/338569228	介意男朋友跟别的女孩一起游泳这个想法正常吗？
+QUESTION 338542771	1564841293	1564841293	https://www.zhihu.com/question/338542771	为什么游泳头部进入水面一下会有说不出的恐惧感 如何消除？
+QUESTION 338439197	1564794755	1564794755	https://www.zhihu.com/question/338439197	游泳运动员通过什么比赛获得奥运会资格？
+QUESTION 295977421	1537836389	1537836389	https://www.zhihu.com/question/295977421	3个月怎样让游泳成绩有所提高？
+QUESTION 338248880	1564680232	1564680232	https://www.zhihu.com/question/338248880	体育高考自由泳女子50米多少秒满分？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336233296	1563765215	1563765215	https://www.zhihu.com/question/336233296	第3个21天，跑步，爬山，游泳 ‍♀️下半身怎么瘦不下来呢？
+QUESTION 338386150	1564751349	1564751349	https://www.zhihu.com/question/338386150	自由泳游了40m就没力气了怎么练？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 338318514	1564724416	1564724416	https://www.zhihu.com/question/338318514	初中生有必要学游泳吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 304508475	1543820629	1543820629	https://www.zhihu.com/question/304508475	蛙泳怎么游啊，？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 22581534	1390399048	1390399048	https://www.zhihu.com/question/22581534	游泳对腰椎间盘突出的益处及锻炼方法？
+QUESTION 338439197	1564794755	1564794755	https://www.zhihu.com/question/338439197	游泳运动员通过什么比赛获得奥运会资格？
+QUESTION 338542771	1564841293	1564841293	https://www.zhihu.com/question/338542771	为什么游泳头部进入水面一下会有说不出的恐惧感 如何消除？
+QUESTION 337349818	1564292140	1564292140	https://www.zhihu.com/question/337349818	游泳运动员游泳带鼻夹吗？
+QUESTION 338529232	1564836144	1564836144	https://www.zhihu.com/question/338529232	day2.  游泳还是不知道怎么换气？
+QUESTION 336981799	1564108579	1564108579	https://www.zhihu.com/question/336981799	喜欢在水里玩，但是学不会游泳，不会憋气，在家拿盆子练，一进水里就想呼吸怎么办？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 20213794	1336037549	1336037549	https://www.zhihu.com/question/20213794	你在公共泳池看到成年男性套着游泳圈会有什么感觉？
+QUESTION 280402896	1528541205	1528541205	https://www.zhihu.com/question/280402896	上海有哪些清早开业的游泳馆?
+QUESTION 336244520	1563768774	1563768774	https://www.zhihu.com/question/336244520	真的快崩溃了好想哭…学个游泳 都已经学了四天了可是到现在连个狗刨泳 头都抬不起来 觉得自己好笨怎么办？
+QUESTION 338529232	1564836144	1564836144	https://www.zhihu.com/question/338529232	day2.  游泳还是不知道怎么换气？
+QUESTION 336577690	1563904115	1563904115	https://www.zhihu.com/question/336577690	如果说菲尔普斯在游泳界的统治力相当于篮球界的乔丹，孙杨的游泳统治力相当于篮球界的哪位巨星呢？
+QUESTION 336577690	1563904115	1563904115	https://www.zhihu.com/question/336577690	如果说菲尔普斯在游泳界的统治力相当于篮球界的乔丹，孙杨的游泳统治力相当于篮球界的哪位巨星呢？
+QUESTION 338194211	1564658935	1564658935	https://www.zhihu.com/question/338194211	请问怎样才能提高蛙泳速度呢？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338318514	1564724416	1564724416	https://www.zhihu.com/question/338318514	初中生有必要学游泳吗?
+QUESTION 40160087	1454674278	1454674278	https://www.zhihu.com/question/40160087	性价比高的适合游泳佩戴水下计时的手表有哪些？
+QUESTION 40160087	1454674278	1454674278	https://www.zhihu.com/question/40160087	性价比高的适合游泳佩戴水下计时的手表有哪些？
+QUESTION 336833121	1564032281	1564032281	https://www.zhihu.com/question/336833121	莆田学院要考游泳课吗？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337275106	1564241521	1564241521	https://www.zhihu.com/question/337275106	最近学游泳，不太会换气，有诀窍不？
+QUESTION 337275106	1564241521	1564241521	https://www.zhihu.com/question/337275106	最近学游泳，不太会换气，有诀窍不？
+QUESTION 338477870	1564813413	1564813413	https://www.zhihu.com/question/338477870	体育中考耐力项目如何抉择？
+QUESTION 334343843	1562794111	1562794111	https://www.zhihu.com/question/334343843	游泳池水的深浅对游泳的影响是怎样的？在水深的游泳池游泳为什么会觉得比在浅的泳池要费劲?
+QUESTION 338477870	1564813413	1564813413	https://www.zhihu.com/question/338477870	体育中考耐力项目如何抉择？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 296885374	1538447964	1538447964	https://www.zhihu.com/question/296885374	龙格亲子游泳怎么样，大家有没有去过的，大家给点建议。？
+QUESTION 337276936	1564242224	1564242224	https://www.zhihu.com/question/337276936	澳大利亚游泳队嗑药了，这件事怎么看？
+QUESTION 337951609	1564557999	1564557999	https://www.zhihu.com/question/337951609	有人会在水上乐园泳池打手冲吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338477870	1564813413	1564813413	https://www.zhihu.com/question/338477870	体育中考耐力项目如何抉择？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 338197934	1564660430	1564660430	https://www.zhihu.com/question/338197934	怎么克服游泳恐惧？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336966729	1564102867	1564102867	https://www.zhihu.com/question/336966729	蛙泳3小时游5000米什么水平？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338439197	1564794755	1564794755	https://www.zhihu.com/question/338439197	游泳运动员通过什么比赛获得奥运会资格？
+QUESTION 62966103	1501042591	1501042591	https://www.zhihu.com/question/62966103	孙杨会不会成为菲尔普斯之后最伟大的游泳选手之一？
+QUESTION 334031656	1562645843	1562645843	https://www.zhihu.com/question/334031656	很瘦弱的人不应该通过游泳跑步来增强体质吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337418191	1564320328	1564320328	https://www.zhihu.com/question/337418191	如何评价叶诗文夺得2019年世锦赛400米混泳银牌？
+QUESTION 336306794	1563790273	1563790273	https://www.zhihu.com/question/336306794	游泳怎么学？
+QUESTION 334086167	1562665822	1562665822	https://www.zhihu.com/question/334086167	学游泳，小白需要注意什么？
+QUESTION 338194211	1564658935	1564658935	https://www.zhihu.com/question/338194211	请问怎样才能提高蛙泳速度呢？
+QUESTION 333290231	1562234851	1562234851	https://www.zhihu.com/question/333290231	刚学游泳，下水的时候总习惯用鼻子吸气，总是呛水，只能用鼻夹，有什么方法可以不用鼻夹不呛水吗？
+QUESTION 333365033	1562286939	1562286939	https://www.zhihu.com/question/333365033	蛙泳泳池800米17分钟速度怎么样？
+QUESTION 31264519	1434187913	1434187913	https://www.zhihu.com/question/31264519	有哪些动物不会游泳?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 333937759	1562583688	1562583688	https://www.zhihu.com/question/333937759	阳江市区哪里有报名小孩学习游泳的地方？
+QUESTION 336399383	1563844942	1563844942	https://www.zhihu.com/question/336399383	游泳时陌生男都会怎么占女生便宜?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338164360	1564650003	1564650003	https://www.zhihu.com/question/338164360	游泳时翻身了怎么办?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 20099538	1330783386	1330783386	https://www.zhihu.com/question/20099538	游泳真能减肥吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336966729	1564102867	1564102867	https://www.zhihu.com/question/336966729	蛙泳3小时游5000米什么水平？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 333480809	1562335634	1562335634	https://www.zhihu.com/question/333480809	应该在孩子几岁的时候带他去学游泳？
+QUESTION 338296015	1564715923	1564715923	https://www.zhihu.com/question/338296015	你的妈妈和你的女友都不会游泳，但同时都掉进水里了，你会先救哪一个？
+QUESTION 338369008	1564743970	1564743970	https://www.zhihu.com/question/338369008	学习游泳如何放下恐惧，水进鼻子和耳朵很难受怎么办？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 23215688	1396179113	1396179113	https://www.zhihu.com/question/23215688	《泰坦尼克号》杰克怎么才能活下来？
+QUESTION 338386150	1564751349	1564751349	https://www.zhihu.com/question/338386150	自由泳游了40m就没力气了怎么练？
+QUESTION 334031656	1562645843	1562645843	https://www.zhihu.com/question/334031656	很瘦弱的人不应该通过游泳跑步来增强体质吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 336335377	1563801040	1563801040	https://www.zhihu.com/question/336335377	如何看待 2019 世锦赛叶诗文 200 混获得银牌，时隔7年再登大赛领奖台?
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 306034354	1545039905	1545039905	https://www.zhihu.com/question/306034354	拓胜 阿瑞娜 速比涛这三个泳镜哪个好？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 27443973	1420593930	1420593930	https://www.zhihu.com/question/27443973	自由泳爱好者自学了一两年还是没有办法做到游 200 米以上，如何改进与提高？
+QUESTION 337898387	1564543800	1564543800	https://www.zhihu.com/question/337898387	蛙泳怎样不累？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338316016	1564723412	1564723412	https://www.zhihu.com/question/338316016	公共泳池水究竟有多脏？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338194211	1564658935	1564658935	https://www.zhihu.com/question/338194211	请问怎样才能提高蛙泳速度呢？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338336746	1564731267	1564731267	https://www.zhihu.com/question/338336746	如何看待宁泽涛成为法甲联赛中国推广大使？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 56452181	1488297219	1488297219	https://www.zhihu.com/question/56452181	游泳长距离总是会磨烂腋下 怎么缓解？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 338197934	1564660430	1564660430	https://www.zhihu.com/question/338197934	怎么克服游泳恐惧？
+QUESTION 338246387	1564678475	1564678475	https://www.zhihu.com/question/338246387	游泳是一件开心的事情，功夫是学到了，游的时候因不注意转向而踢到人还被人骂，遇到这种人该不该理呢？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 329409680	1560513291	1560513291	https://www.zhihu.com/question/329409680	高中毕业生想要减肥，跑步，瑜伽还是游泳好？
+QUESTION 334822502	1563043171	1563043171	https://www.zhihu.com/question/334822502	什么原因使你喜欢上了游泳 ？
+QUESTION 336479516	1563869053	1563869053	https://www.zhihu.com/question/336479516	学蛙泳脚翻不过来怎么办？
+QUESTION 333696900	1562467740	1562467740	https://www.zhihu.com/question/333696900	游泳运动员会在水里出事情吗?
+QUESTION 333869877	1562559577	1562559577	https://www.zhihu.com/question/333869877	去游泳为什么不给身上套绳子?
+QUESTION 333742021	1562488350	1562488350	https://www.zhihu.com/question/333742021	请问各位专业人士游泳要戴耳塞吗？
+QUESTION 334664008	1562951102	1562951102	https://www.zhihu.com/question/334664008	请问游泳时如何能让脚丫不沾水？
+QUESTION 335887919	1563591448	1563591448	https://www.zhihu.com/question/335887919	明显感觉侧打腿没有俯卧打腿走水，这是为什么？好像腿没甩出去！谢谢！？
+QUESTION 337349818	1564292140	1564292140	https://www.zhihu.com/question/337349818	游泳运动员游泳带鼻夹吗？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 30080133	1430700567	1430700567	https://www.zhihu.com/question/30080133	喜欢的男生教你游泳怎样的体验？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 300452116	1540788865	1540788865	https://www.zhihu.com/question/300452116	蛙泳-为什么手—划，还没来得及换气身体马上下沉?
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338376837	1564747713	1564747713	https://www.zhihu.com/question/338376837	游泳时女生被占便宜，恶心死了，该怎么办。？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 337885441	1564539983	1564539983	https://www.zhihu.com/question/337885441	你们说 要是霍顿本人被查出来嗑药了会发生什么?
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 338376837	1564747713	1564747713	https://www.zhihu.com/question/338376837	游泳时女生被占便宜，恶心死了，该怎么办。？
+QUESTION 338369008	1564743970	1564743970	https://www.zhihu.com/question/338369008	学习游泳如何放下恐惧，水进鼻子和耳朵很难受怎么办？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338369008	1564743970	1564743970	https://www.zhihu.com/question/338369008	学习游泳如何放下恐惧，水进鼻子和耳朵很难受怎么办？
+QUESTION 337073329	1564141288	1564141288	https://www.zhihu.com/question/337073329	蛙泳800m怎么游？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336306794	1563790273	1563790273	https://www.zhihu.com/question/336306794	游泳怎么学？
+QUESTION 330583762	1561133792	1561133792	https://www.zhihu.com/question/330583762	有没有推荐一下智能手表的，平时就是跑跑步，游游泳，要求运动时能够听歌的，价格2000以下的?
+QUESTION 326252775	1558881231	1558881231	https://www.zhihu.com/question/326252775	刚学会蛙泳，如果在深水区呛水了该怎么办呢？
+QUESTION 338336746	1564731267	1564731267	https://www.zhihu.com/question/338336746	如何看待宁泽涛成为法甲联赛中国推广大使？
+QUESTION 335799667	1563537344	1563537344	https://www.zhihu.com/question/335799667	学蛙泳为什么换气太累，总感觉气不够用，腿往下沉要蹬很多次才能头起来换口气？
+QUESTION 338315797	1564723302	1564723302	https://www.zhihu.com/question/338315797	高中毕业的暑假，要学游泳吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338318514	1564724416	1564724416	https://www.zhihu.com/question/338318514	初中生有必要学游泳吗?
+QUESTION 338329285	1564728500	1564728500	https://www.zhihu.com/question/338329285	手术后多久可以学游泳？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338329285	1564728500	1564728500	https://www.zhihu.com/question/338329285	手术后多久可以学游泳？
+QUESTION 338316016	1564723412	1564723412	https://www.zhihu.com/question/338316016	公共泳池水究竟有多脏？
+QUESTION 30080133	1430700567	1430700567	https://www.zhihu.com/question/30080133	喜欢的男生教你游泳怎样的体验？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 338316016	1564723412	1564723412	https://www.zhihu.com/question/338316016	公共泳池水究竟有多脏？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338336746	1564731267	1564731267	https://www.zhihu.com/question/338336746	如何看待宁泽涛成为法甲联赛中国推广大使？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 308102531	1546674734	1546674734	https://www.zhihu.com/question/308102531	以目前孙杨的状态，在 2020 年东京奥运会能拿到几枚金牌？
+QUESTION 338316016	1564723412	1564723412	https://www.zhihu.com/question/338316016	公共泳池水究竟有多脏？
+QUESTION 338336746	1564731267	1564731267	https://www.zhihu.com/question/338336746	如何看待宁泽涛成为法甲联赛中国推广大使？
+QUESTION 338329285	1564728500	1564728500	https://www.zhihu.com/question/338329285	手术后多久可以学游泳？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338336746	1564731267	1564731267	https://www.zhihu.com/question/338336746	如何看待宁泽涛成为法甲联赛中国推广大使？
+QUESTION 338329285	1564728500	1564728500	https://www.zhihu.com/question/338329285	手术后多久可以学游泳？
+QUESTION 49599784	1471166568	1471166568	https://www.zhihu.com/question/49599784	如何评价宁泽涛的粉丝们？
+QUESTION 338197934	1564660430	1564660430	https://www.zhihu.com/question/338197934	怎么克服游泳恐惧？
+QUESTION 27721973	1421901670	1421901670	https://www.zhihu.com/question/27721973	跑步、游泳、骑行哪个更利于减肥？
+QUESTION 338308562	1564720377	1564720377	https://www.zhihu.com/question/338308562	一帮朋友一起河边游泳死了一个，我施救了，我有责任没？
+QUESTION 49365088	1470617653	1470617653	https://www.zhihu.com/question/49365088	前几年中国禁药事件是什么情况？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 338298165	1564716657	1564716657	https://www.zhihu.com/question/338298165	游泳池脏女生怎么办?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337484780	1564366632	1564366632	https://www.zhihu.com/question/337484780	女生游泳时候怎么好看?
+QUESTION 338315797	1564723302	1564723302	https://www.zhihu.com/question/338315797	高中毕业的暑假，要学游泳吗？
+QUESTION 338318514	1564724416	1564724416	https://www.zhihu.com/question/338318514	初中生有必要学游泳吗?
+QUESTION 338246387	1564678475	1564678475	https://www.zhihu.com/question/338246387	游泳是一件开心的事情，功夫是学到了，游的时候因不注意转向而踢到人还被人骂，遇到这种人该不该理呢？
+QUESTION 335618807	1563448031	1563448031	https://www.zhihu.com/question/335618807	上海海事大学入学后会安排游泳教学吗？
+QUESTION 338318514	1564724416	1564724416	https://www.zhihu.com/question/338318514	初中生有必要学游泳吗?
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336966729	1564102867	1564102867	https://www.zhihu.com/question/336966729	蛙泳3小时游5000米什么水平？
+QUESTION 308732719	1547169011	1547169011	https://www.zhihu.com/question/308732719	如何欣赏游泳的魅力?
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 338296015	1564715923	1564715923	https://www.zhihu.com/question/338296015	你的妈妈和你的女友都不会游泳，但同时都掉进水里了，你会先救哪一个？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 338308562	1564720377	1564720377	https://www.zhihu.com/question/338308562	一帮朋友一起河边游泳死了一个，我施救了，我有责任没？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 338246387	1564678475	1564678475	https://www.zhihu.com/question/338246387	游泳是一件开心的事情，功夫是学到了，游的时候因不注意转向而踢到人还被人骂，遇到这种人该不该理呢？
+QUESTION 338308562	1564720377	1564720377	https://www.zhihu.com/question/338308562	一帮朋友一起河边游泳死了一个，我施救了，我有责任没？
+QUESTION 338308562	1564720377	1564720377	https://www.zhihu.com/question/338308562	一帮朋友一起河边游泳死了一个，我施救了，我有责任没？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 26045590	1413368413	1413368413	https://www.zhihu.com/question/26045590	长期游泳有哪些好处？
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 338197934	1564660430	1564660430	https://www.zhihu.com/question/338197934	怎么克服游泳恐惧？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 335523478	1563416999	1563416999	https://www.zhihu.com/question/335523478	游泳怎么头浮出水面游?
+QUESTION 336671530	1563954831	1563954831	https://www.zhihu.com/question/336671530	夏天想带孩子去游泳怕耳朵进水得中耳炎，助听器验配中心能否定做防水耳塞？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 326431429	1558959933	1558959933	https://www.zhihu.com/question/326431429	打算冲击自游泳二级运动员，机会大么？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 335946756	1563614633	1563614633	https://www.zhihu.com/question/335946756	成都那个深水泳池可以让带脚蹼呀？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 333843750	1562552988	1562552988	https://www.zhihu.com/question/333843750	亲人落水后，在不会游泳的情况下，是否应该下去救人？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 338246387	1564678475	1564678475	https://www.zhihu.com/question/338246387	游泳是一件开心的事情，功夫是学到了，游的时候因不注意转向而踢到人还被人骂，遇到这种人该不该理呢？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334222566	1562731632	1562731632	https://www.zhihu.com/question/334222566	暑假学什么好？运动还是音乐？游泳还是钢琴？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 335907944	1563598478	1563598478	https://www.zhihu.com/question/335907944	耳朵容易进水?（洗澡、游泳等方式带来的影响会怎样?
+QUESTION 20209875	1335862607	1335862607	https://www.zhihu.com/question/20209875	你是怎样开始铁人三项赛的？
+QUESTION 338101276	1564628296	1564628296	https://www.zhihu.com/question/338101276	佩戴角膜塑形镜期间，白天可以游泳吗？
+QUESTION 337167984	1564198618	1564198618	https://www.zhihu.com/question/337167984	初学游泳选什么类型泳衣?
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 335531573	1563418635	1563418635	https://www.zhihu.com/question/335531573	小孩什么年龄学游泳?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336244520	1563768774	1563768774	https://www.zhihu.com/question/336244520	真的快崩溃了好想哭…学个游泳 都已经学了四天了可是到现在连个狗刨泳 头都抬不起来 觉得自己好笨怎么办？
+QUESTION 332337199	1561795890	1561795890	https://www.zhihu.com/question/332337199	游泳可以减肥吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 337393810	1564310576	1564310576	https://www.zhihu.com/question/337393810	两个月大得宝宝能戴颈圈游泳吗?
+QUESTION 334222566	1562731632	1562731632	https://www.zhihu.com/question/334222566	暑假学什么好？运动还是音乐？游泳还是钢琴？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337552225	1564388514	1564388514	https://www.zhihu.com/question/337552225	健身只练胸可以吗 一周练一次其余时间专练游泳?
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 34328878	1439050909	1439050909	https://www.zhihu.com/question/34328878	美国游泳运动员莱德基为什么这么强？
+QUESTION 30458429	1431915343	1431915343	https://www.zhihu.com/question/30458429	成人10节课学游泳能达到什么水平？
+QUESTION 337521195	1564377189	1564377189	https://www.zhihu.com/question/337521195	学游泳时不敢头下水，不敢在水中憋气，对水有恐惧感，请问该如何克服这种感觉，憋气有没有什么技巧呢？
+QUESTION 333522290	1562366183	1562366183	https://www.zhihu.com/question/333522290	怎样克服在深水区游泳的心理障碍！?
+QUESTION 338181000	1564654035	1564654035	https://www.zhihu.com/question/338181000	游泳减肥25天可以瘦下去多少？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 279834887	1528147216	1528147216	https://www.zhihu.com/question/279834887	带2岁娃在海里游泳、浮潜，哪种救生衣方便、安全不会呛水啊？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 338207757	1564664190	1564664190	https://www.zhihu.com/question/338207757	游泳池规定入水必须带泳帽，请问光头进游泳池需要带泳帽吗？
+QUESTION 337275106	1564241521	1564241521	https://www.zhihu.com/question/337275106	最近学游泳，不太会换气，有诀窍不？
+QUESTION 337521195	1564377189	1564377189	https://www.zhihu.com/question/337521195	学游泳时不敢头下水，不敢在水中憋气，对水有恐惧感，请问该如何克服这种感觉，憋气有没有什么技巧呢？
+QUESTION 338207757	1564664190	1564664190	https://www.zhihu.com/question/338207757	游泳池规定入水必须带泳帽，请问光头进游泳池需要带泳帽吗？
+QUESTION 337928119	1564552626	1564552626	https://www.zhihu.com/question/337928119	我协调性不好，学游泳可以吗，要学多久呀?
+QUESTION 338194211	1564658935	1564658935	https://www.zhihu.com/question/338194211	请问怎样才能提高蛙泳速度呢？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337275106	1564241521	1564241521	https://www.zhihu.com/question/337275106	最近学游泳，不太会换气，有诀窍不？
+QUESTION 29113861	1427529705	1427529705	https://www.zhihu.com/question/29113861	溺水是怎样的一种体验？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337934212	1564554065	1564554065	https://www.zhihu.com/question/337934212	你们是怎么学会游泳  的?
+QUESTION 337275106	1564241521	1564241521	https://www.zhihu.com/question/337275106	最近学游泳，不太会换气，有诀窍不？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 338191066	1564657710	1564657710	https://www.zhihu.com/question/338191066	换气很难受怎么办？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 335032885	1563168122	1563168122	https://www.zhihu.com/question/335032885	溺水身亡的人，会与不会游泳，哪个比例高?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 338181000	1564654035	1564654035	https://www.zhihu.com/question/338181000	游泳减肥25天可以瘦下去多少？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 336181159	1563726075	1563726075	https://www.zhihu.com/question/336181159	如何看待孙杨夺冠后霍顿和网民的反应？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 19746537	1309615662	1309615662	https://www.zhihu.com/question/19746537	狗天生就会游泳吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 26846516	1417277696	1417277696	https://www.zhihu.com/question/26846516	冲浪衣可以当做泳衣使用吗？两者有什么区别？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 326431429	1558959933	1558959933	https://www.zhihu.com/question/326431429	打算冲击自游泳二级运动员，机会大么？
+QUESTION 337355363	1564294585	1564294585	https://www.zhihu.com/question/337355363	骨盆前倾蛙泳游不起来咋办？
+QUESTION 336181159	1563726075	1563726075	https://www.zhihu.com/question/336181159	如何看待孙杨夺冠后霍顿和网民的反应？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 336185521	1563728603	1563728603	https://www.zhihu.com/question/336185521	纹身前一天游泳影响吗？
+QUESTION 336335377	1563801040	1563801040	https://www.zhihu.com/question/336335377	如何看待 2019 世锦赛叶诗文 200 混获得银牌，时隔7年再登大赛领奖台?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337796427	1564486944	1564486944	https://www.zhihu.com/question/337796427	大连大学需要游泳考试麽？
+QUESTION 337920676	1564550668	1564550668	https://www.zhihu.com/question/337920676	别人小肚子是横着的“游泳圈”我的为啥是竖着的？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337322202	1564282419	1564282419	https://www.zhihu.com/question/337322202	游泳前可以喝凉茶吗?
+QUESTION 337485840	1564366970	1564366970	https://www.zhihu.com/question/337485840	游泳的地方可以带卷发棒吗?
+QUESTION 337485818	1564366969	1564366969	https://www.zhihu.com/question/337485818	找男性朋友教游泳合适吗?
+QUESTION 336335377	1563801040	1563801040	https://www.zhihu.com/question/336335377	如何看待 2019 世锦赛叶诗文 200 混获得银牌，时隔7年再登大赛领奖台?
+QUESTION 32013805	1436329146	1436329146	https://www.zhihu.com/question/32013805	如何看待老外泳池扔女童一事？
+QUESTION 336335377	1563801040	1563801040	https://www.zhihu.com/question/336335377	如何看待 2019 世锦赛叶诗文 200 混获得银牌，时隔7年再登大赛领奖台?
+QUESTION 337951609	1564557999	1564557999	https://www.zhihu.com/question/337951609	有人会在水上乐园泳池打手冲吗？
+QUESTION 335907944	1563598478	1563598478	https://www.zhihu.com/question/335907944	耳朵容易进水?（洗澡、游泳等方式带来的影响会怎样?
+QUESTION 335326395	1563315812	1563315812	https://www.zhihu.com/question/335326395	airpods2游泳可以不？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337440395	1564327497	1564327497	https://www.zhihu.com/question/337440395	云南大学现在有游泳课吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 337708290	1564455843	1564455843	https://www.zhihu.com/question/337708290	世界之窗的水上乐园有游泳圈吗?
+QUESTION 337901211	1564544677	1564544677	https://www.zhihu.com/question/337901211	如果看待澳大利亚前残奥会运动员实名举报奥泳队作弊？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337700806	1564454285	1564454285	https://www.zhihu.com/question/337700806	为什么美国游泳队很强?
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336181159	1563726075	1563726075	https://www.zhihu.com/question/336181159	如何看待孙杨夺冠后霍顿和网民的反应？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 333959711	1562593382	1562593382	https://www.zhihu.com/question/333959711	怎样能够学好自由泳？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 287426268	1532839858	1532839858	https://www.zhihu.com/question/287426268	游泳时的两大恐惧怎么解决？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 21304912	1373218237	1373218237	https://www.zhihu.com/question/21304912	怎么在水里浮起来？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336493482	1563873193	1563873193	https://www.zhihu.com/question/336493482	学游泳，放手漂浮超级害怕…怎么克服?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337051668	1564134474	1564134474	https://www.zhihu.com/question/337051668	自由泳怎么提速？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 332803774	1562002790	1562002790	https://www.zhihu.com/question/332803774	第一次游泳很害怕怎么办？
+QUESTION 336966729	1564102867	1564102867	https://www.zhihu.com/question/336966729	蛙泳3小时游5000米什么水平？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 338044393	1564585724	1564585724	https://www.zhihu.com/question/338044393	我同事200斤男，他的腿部和我150斤一样粗，我俩身高都是178，去健身房减肥，减脂只游泳行吗？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 338071755	1564613523	1564613523	https://www.zhihu.com/question/338071755	我这个蛙泳动作标准吗？
+QUESTION 338044393	1564585724	1564585724	https://www.zhihu.com/question/338044393	我同事200斤男，他的腿部和我150斤一样粗，我俩身高都是178，去健身房减肥，减脂只游泳行吗？
+QUESTION 336229677	1563764376	1563764376	https://www.zhihu.com/question/336229677	泳池呆久了会怎么样?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337496839	1564369672	1564369672	https://www.zhihu.com/question/337496839	收到泳镜后怎样检验泳镜?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 337440395	1564327497	1564327497	https://www.zhihu.com/question/337440395	云南大学现在有游泳课吗?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337155978	1564194844	1564194844	https://www.zhihu.com/question/337155978	徐嘉余为什么游自由泳?
+QUESTION 337191643	1564208648	1564208648	https://www.zhihu.com/question/337191643	为什么来姨妈的时候不能去游泳  ？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 23420132	1397548697	1397548697	https://www.zhihu.com/question/23420132	泳衣穿上会走光吗？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 337394114	1564310730	1564310730	https://www.zhihu.com/question/337394114	如何看待澳大利亚女将谢娜.杰克在游泳赛外被检测出涉嫌“磕药”？
+QUESTION 337479495	1564364791	1564364791	https://www.zhihu.com/question/337479495	澳大利亚游泳选手莎娜杰克(Shayna Jack)在这个时间点被曝出药检不合格的背后是否有力量干涉？
+QUESTION 336718141	1563970947	1563970947	https://www.zhihu.com/question/336718141	洱海可以游泳吗?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337934212	1564554065	1564554065	https://www.zhihu.com/question/337934212	你们是怎么学会游泳  的?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337408467	1564316637	1564316637	https://www.zhihu.com/question/337408467	耳洞打完多久可以游泳?
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 27833984	1422419710	1422419710	https://www.zhihu.com/question/27833984	游泳能练腹肌吗？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337442708	1564328240	1564328240	https://www.zhihu.com/question/337442708	有可能开发出一种新的泳姿吗？
+QUESTION 337928119	1564552626	1564552626	https://www.zhihu.com/question/337928119	我协调性不好，学游泳可以吗，要学多久呀?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 334202379	1562725793	1562725793	https://www.zhihu.com/question/334202379	游泳池边上的救生员、教练看见一池菜鸟时在想什么？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337301604	1564272392	1564272392	https://www.zhihu.com/question/337301604	如何评价澳大利亚游泳女选手沙·杰克在6月26日的赛外兴奋剂检查中出现阳性？
+QUESTION 49504158	1470918351	1470918351	https://www.zhihu.com/question/49504158	菲尔普斯是否有嗑药吃兴奋剂作弊的嫌疑？
+QUESTION 337256342	1564234996	1564234996	https://www.zhihu.com/question/337256342	如何看待澳大利亚女子游泳运动员谢娜·杰克被曝药检呈阳性？
+QUESTION 337394114	1564310730	1564310730	https://www.zhihu.com/question/337394114	如何看待澳大利亚女将谢娜.杰克在游泳赛外被检测出涉嫌“磕药”？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337167466	1564198465	1564198465	https://www.zhihu.com/question/337167466	训练的话是先力量训练还是先游泳？
+QUESTION 319321128	1554736068	1554736068	https://www.zhihu.com/question/319321128	女生游泳需要准备什么物品（初学）？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336773332	1564006896	1564006896	https://www.zhihu.com/question/336773332	你怎么看中国弃婴这次代表加拿大队赢得游泳世锦赛蝶泳世界冠军，且国内媒体几乎不报导这件事情？
+QUESTION 337822904	1564496096	1564496096	https://www.zhihu.com/question/337822904	怎么邀请女生同去游泳？
+QUESTION 337415922	1564319528	1564319528	https://www.zhihu.com/question/337415922	如何看待德雷塞尔光州游泳世锦赛六金二银两届世锦赛豪取十三金二银?东京奥运是否有希望冲击八金神迹？
+QUESTION 334658407	1562947839	1562947839	https://www.zhihu.com/question/334658407	想问大家游泳是怎么会的，超想学会游泳？
+QUESTION 337081480	1564144560	1564144560	https://www.zhihu.com/question/337081480	请教一下蛙游如何换气?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 62803221	1500732228	1500732228	https://www.zhihu.com/question/62803221	今年20岁，还不会游泳，这辈子还能学会游泳吗？
+QUESTION 337966451	1564561385	1564561385	https://www.zhihu.com/question/337966451	没有陪好朋友去游泳她生气了怎么办?
+QUESTION 20346114	1341988670	1341988670	https://www.zhihu.com/question/20346114	如何自学游泳？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337237786	1564227611	1564227611	https://www.zhihu.com/question/337237786	“澳国家游泳队金牌得主药检阳性”，這是双标吗？
+QUESTION 337553284	1564388787	1564388787	https://www.zhihu.com/question/337553284	游泳教练预防职业病日常需要怎样保养?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 288250672	1533284597	1533284597	https://www.zhihu.com/question/288250672	来例假可以下海游泳吗？？？？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337898387	1564543800	1564543800	https://www.zhihu.com/question/337898387	蛙泳怎样不累？
+QUESTION 337899364	1564544124	1564544124	https://www.zhihu.com/question/337899364	17年办了一张游泳卡，当时说不会过期，也没有时间限制，今年说是换老板，不用完就过期，该怎么办？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337966451	1564561385	1564561385	https://www.zhihu.com/question/337966451	没有陪好朋友去游泳她生气了怎么办?
+QUESTION 337979760	1564565161	1564565161	https://www.zhihu.com/question/337979760	希望大家能提点意见，自己的自由泳不知道改如何改进了?
+QUESTION 337979760	1564565161	1564565161	https://www.zhihu.com/question/337979760	希望大家能提点意见，自己的自由泳不知道改如何改进了?
+QUESTION 337553284	1564388787	1564388787	https://www.zhihu.com/question/337553284	游泳教练预防职业病日常需要怎样保养?
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336214713	1563760962	1563760962	https://www.zhihu.com/question/336214713	有人去国外网站看过喷孙杨的嘛?
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 337905576	1564546139	1564546139	https://www.zhihu.com/question/337905576	如何评价澳大利亚游泳队再曝丑闻：「教练授意健全选手假扮残疾」？
+QUESTION 336181159	1563726075	1563726075	https://www.zhihu.com/question/336181159	如何看待孙杨夺冠后霍顿和网民的反应？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337934212	1564554065	1564554065	https://www.zhihu.com/question/337934212	你们是怎么学会游泳  的?
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337163050	1564197135	1564197135	https://www.zhihu.com/question/337163050	游泳的时候要怎样保护耳朵呢？
+QUESTION 337905576	1564546139	1564546139	https://www.zhihu.com/question/337905576	如何评价澳大利亚游泳队再曝丑闻：「教练授意健全选手假扮残疾」？
+QUESTION 329441957	1560527198	1560527198	https://www.zhihu.com/question/329441957	不会游泳，去游泳池可以用潜水用具不戴泳圈吗？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337349818	1564292140	1564292140	https://www.zhihu.com/question/337349818	游泳运动员游泳带鼻夹吗？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337951609	1564557999	1564557999	https://www.zhihu.com/question/337951609	有人会在水上乐园泳池打手冲吗？
+QUESTION 29824255	1429843278	1429843278	https://www.zhihu.com/question/29824255	一个200斤的胖子能否依靠游泳减肥？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337394114	1564310730	1564310730	https://www.zhihu.com/question/337394114	如何看待澳大利亚女将谢娜.杰克在游泳赛外被检测出涉嫌“磕药”？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 35339816	1441378249	1441378249	https://www.zhihu.com/question/35339816	怕水的人怎样学游泳？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 31699082	1435412329	1435412329	https://www.zhihu.com/question/31699082	学会游泳的关键点是什么？
+QUESTION 337905576	1564546139	1564546139	https://www.zhihu.com/question/337905576	如何评价澳大利亚游泳队再曝丑闻：「教练授意健全选手假扮残疾」？
+QUESTION 20921760	1365246004	1365246004	https://www.zhihu.com/question/20921760	如何教人游泳？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337833903	1564499371	1564499371	https://www.zhihu.com/question/337833903	自己的自由泳 不知哪里需要改进求问?
+QUESTION 288070152	1533190509	1533190509	https://www.zhihu.com/question/288070152	在游泳池你最讨厌遇到什么样的人？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337928119	1564552626	1564552626	https://www.zhihu.com/question/337928119	我协调性不好，学游泳可以吗，要学多久呀?
+QUESTION 24228050	1403347240	1403347240	https://www.zhihu.com/question/24228050	怎么分步骤教旱鸭子游泳？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 335999203	1563635250	1563635250	https://www.zhihu.com/question/335999203	在游泳馆里游泳，好吗？
+QUESTION 334031656	1562645843	1562645843	https://www.zhihu.com/question/334031656	很瘦弱的人不应该通过游泳跑步来增强体质吗？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337534213	1564382242	1564382242	https://www.zhihu.com/question/337534213	游泳后需要洗头洗澡，洗了头后还能不能汗蒸呢？
+QUESTION 337920676	1564550668	1564550668	https://www.zhihu.com/question/337920676	别人小肚子是横着的“游泳圈”我的为啥是竖着的？
+QUESTION 337336757	1564286627	1564286627	https://www.zhihu.com/question/337336757	澳大利亚游泳队是否存在集体用药的可能性？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337646203	1564412423	1564412423	https://www.zhihu.com/question/337646203	游泳多长时间不会想上厕所?
+QUESTION 33704674	1438321237	1438321237	https://www.zhihu.com/question/33704674	会游泳是一种怎样的体验？如何从一只旱鸭子学会游泳呢？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 26045590	1413368413	1413368413	https://www.zhihu.com/question/26045590	长期游泳有哪些好处？
+QUESTION 22788318	1392785628	1392785628	https://www.zhihu.com/question/22788318	为什么女性基本都不学习自由泳？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337833903	1564499371	1564499371	https://www.zhihu.com/question/337833903	自己的自由泳 不知哪里需要改进求问?
+QUESTION 337495004	1564369243	1564369243	https://www.zhihu.com/question/337495004	来大姨妈可以游泳吗?
+QUESTION 335944590	1563613780	1563613780	https://www.zhihu.com/question/335944590	为什么游泳运动员都是肌肉棒子，而现实中游泳池里大部分是胖子？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336709840	1563967572	1563967572	https://www.zhihu.com/question/336709840	突然想到一个问题：孙杨200米自由泳，如果让孙杨先游170米，再放入一条鲨鱼开始追，鲨鱼能追上吗？
+QUESTION 337084185	1564145663	1564145663	https://www.zhihu.com/question/337084185	2019 游泳世锦赛男子 4×200 米自由泳中国队获得第 6，如何评价中国队的表现？
+QUESTION 52101281	1477742877	1477742877	https://www.zhihu.com/question/52101281	开了一家婴幼儿游泳馆，生意慢慢的好起来，但对未来总是有点担忧，这种店长能开多久？
+QUESTION 337898387	1564543800	1564543800	https://www.zhihu.com/question/337898387	蛙泳怎样不累？
+QUESTION 62803221	1500732228	1500732228	https://www.zhihu.com/question/62803221	今年20岁，还不会游泳，这辈子还能学会游泳吗？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 308102531	1546674734	1546674734	https://www.zhihu.com/question/308102531	以目前孙杨的状态，在 2020 年东京奥运会能拿到几枚金牌？
+QUESTION 337901211	1564544677	1564544677	https://www.zhihu.com/question/337901211	如果看待澳大利亚前残奥会运动员实名举报奥泳队作弊？
+QUESTION 337899364	1564544124	1564544124	https://www.zhihu.com/question/337899364	17年办了一张游泳卡，当时说不会过期，也没有时间限制，今年说是换老板，不用完就过期，该怎么办？
+QUESTION 337898387	1564543800	1564543800	https://www.zhihu.com/question/337898387	蛙泳怎样不累？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337822904	1564496096	1564496096	https://www.zhihu.com/question/337822904	怎么邀请女生同去游泳？
+QUESTION 335657857	1563462688	1563462688	https://www.zhihu.com/question/335657857	大姨妈来想要游泳怎么办？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 333860647	1562556221	1562556221	https://www.zhihu.com/question/333860647	女生游泳如何保护下身不沾水？
+QUESTION 337876876	1564536762	1564536762	https://www.zhihu.com/question/337876876	我想问一下游泳或洗澡的时候还可以贴着心电贴吗？
+QUESTION 335327764	1563318545	1563318545	https://www.zhihu.com/question/335327764	去游泳馆游泳遇见异性朋友是什么体验？
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 315487027	1552292976	1552292976	https://www.zhihu.com/question/315487027	我想知道荣耀4手环到底可不可以戴着游泳啊？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336130303	1563707813	1563707813	https://www.zhihu.com/question/336130303	游泳世锦赛孙杨 400 米自由泳斩获四连冠，如何评价他的这个冠军？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 28681867	1426062468	1426062468	https://www.zhihu.com/question/28681867	如何实现在水下用手机拍照？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 332874232	1562045332	1562045332	https://www.zhihu.com/question/332874232	我人在浙江 想考游泳教练证 但是自己不会游泳 怎么办呢？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 22164497	1385915722	1385915722	https://www.zhihu.com/question/22164497	求问成年后长高的可能性？（本人女22周岁）
+QUESTION 337773143	1564478356	1564478356	https://www.zhihu.com/question/337773143	去海边游泳，回来后衣服有一股难闻的腥臭味，该怎么去除？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337521195	1564377189	1564377189	https://www.zhihu.com/question/337521195	学游泳时不敢头下水，不敢在水中憋气，对水有恐惧感，请问该如何克服这种感觉，憋气有没有什么技巧呢？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337094922	1564149700	1564149700	https://www.zhihu.com/question/337094922	中国游泳队怎么突然变得人才那么少，是否跟管理方面有关？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337521195	1564377189	1564377189	https://www.zhihu.com/question/337521195	学游泳时不敢头下水，不敢在水中憋气，对水有恐惧感，请问该如何克服这种感觉，憋气有没有什么技巧呢？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 65145107	1505016336	1505016336	https://www.zhihu.com/question/65145107	首都师范大学的游泳馆对外开放吗？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337833903	1564499371	1564499371	https://www.zhihu.com/question/337833903	自己的自由泳 不知哪里需要改进求问?
+QUESTION 49461173	1470823953	1470823953	https://www.zhihu.com/question/49461173	韩国人为什么要这样对朴泰桓？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337664577	1564420246	1564420246	https://www.zhihu.com/question/337664577	手机防水袋里面怎么才不起雾?
+QUESTION 38761482	1450753118	1450753118	https://www.zhihu.com/question/38761482	游泳和跑步分别有哪些好处，哪个更好一些？
+QUESTION 337822904	1564496096	1564496096	https://www.zhihu.com/question/337822904	怎么邀请女生同去游泳？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336233296	1563765215	1563765215	https://www.zhihu.com/question/336233296	第3个21天，跑步，爬山，游泳 ‍♀️下半身怎么瘦不下来呢？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 288057685	1533185319	1533185319	https://www.zhihu.com/question/288057685	南京工程学院游泳是不是必修？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337489463	1564367882	1564367882	https://www.zhihu.com/question/337489463	宽松泳裤适合游泳吗?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337832036	1564498857	1564498857	https://www.zhihu.com/question/337832036	我想问一下，青岛这块游泳健身证还有什么救生员证，怎么考啊。有点迷？
+QUESTION 337832036	1564498857	1564498857	https://www.zhihu.com/question/337832036	我想问一下，青岛这块游泳健身证还有什么救生员证，怎么考啊。有点迷？
+QUESTION 337833903	1564499371	1564499371	https://www.zhihu.com/question/337833903	自己的自由泳 不知哪里需要改进求问?
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337676615	1564442970	1564442970	https://www.zhihu.com/question/337676615	在花果园这里，今天想去游泳，有哪里可以推荐吗？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337322202	1564282419	1564282419	https://www.zhihu.com/question/337322202	游泳前可以喝凉茶吗?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 49504158	1470918351	1470918351	https://www.zhihu.com/question/49504158	菲尔普斯是否有嗑药吃兴奋剂作弊的嫌疑？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 31449708	1434725926	1434725926	https://www.zhihu.com/question/31449708	会蛙泳的人如何学习仰泳？
+QUESTION 326252775	1558881231	1558881231	https://www.zhihu.com/question/326252775	刚学会蛙泳，如果在深水区呛水了该怎么办呢？
+QUESTION 30458429	1431915343	1431915343	https://www.zhihu.com/question/30458429	成人10节课学游泳能达到什么水平？
+QUESTION 306034354	1545039905	1545039905	https://www.zhihu.com/question/306034354	拓胜 阿瑞娜 速比涛这三个泳镜哪个好？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337190348	1564208057	1564208057	https://www.zhihu.com/question/337190348	庐山有游泳的地方吗？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 337336757	1564286627	1564286627	https://www.zhihu.com/question/337336757	澳大利亚游泳队是否存在集体用药的可能性？
+QUESTION 337440395	1564327497	1564327497	https://www.zhihu.com/question/337440395	云南大学现在有游泳课吗?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 49338703	1470542292	1470542292	https://www.zhihu.com/question/49338703	我骑车摔倒，擦破皮，2天后伤口结痂但有白色的东西，该怎么办，什么时候能游泳呢？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 49336064	1470537538	1470537538	https://www.zhihu.com/question/49336064	如何看待澳洲选手称孙杨为“作弊者”？
+QUESTION 337440395	1564327497	1564327497	https://www.zhihu.com/question/337440395	云南大学现在有游泳课吗?
+QUESTION 49504158	1470918351	1470918351	https://www.zhihu.com/question/49504158	菲尔普斯是否有嗑药吃兴奋剂作弊的嫌疑？
+QUESTION 336335377	1563801040	1563801040	https://www.zhihu.com/question/336335377	如何看待 2019 世锦赛叶诗文 200 混获得银牌，时隔7年再登大赛领奖台?
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337779124	1564480352	1564480352	https://www.zhihu.com/question/337779124	有必要把游泳作为义务教育体育必修课吗？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 21074299	1368795496	1368795496	https://www.zhihu.com/question/21074299	你多长时间学会游泳的？
+QUESTION 337259808	1564236197	1564236197	https://www.zhihu.com/question/337259808	专业游泳运动员怎样防止耳朵进水？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337153999	1564194393	1564194393	https://www.zhihu.com/question/337153999	荣耀a2能带着游泳吗?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 335944590	1563613780	1563613780	https://www.zhihu.com/question/335944590	为什么游泳运动员都是肌肉棒子，而现实中游泳池里大部分是胖子？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 31414367	1434621901	1434621901	https://www.zhihu.com/question/31414367	溺水差点被淹死是什么样的体验？
+QUESTION 337552225	1564388514	1564388514	https://www.zhihu.com/question/337552225	健身只练胸可以吗 一周练一次其余时间专练游泳?
+QUESTION 337779124	1564480352	1564480352	https://www.zhihu.com/question/337779124	有必要把游泳作为义务教育体育必修课吗？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 21091976	1369187052	1369187052	https://www.zhihu.com/question/21091976	如何零基础学游泳?
+QUESTION 49345652	1470557542	1470557542	https://www.zhihu.com/question/49345652	为什么老外对于孙杨和宁泽涛的态度有很大差异？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337440395	1564327497	1564327497	https://www.zhihu.com/question/337440395	云南大学现在有游泳课吗?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 48584163	1468737786	1468737786	https://www.zhihu.com/question/48584163	游泳时怎么保持身体浮在水面上？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 25533167	1411661697	1411661697	https://www.zhihu.com/question/25533167	怎样辨别某个人是否正在泳池里尿尿？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 306335585	1545271348	1545271348	https://www.zhihu.com/question/306335585	非标准游泳怎么学换气?
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337100818	1564151830	1564151830	https://www.zhihu.com/question/337100818	想考个游泳教师证，但是不知道从哪入手？
+QUESTION 337408467	1564316637	1564316637	https://www.zhihu.com/question/337408467	耳洞打完多久可以游泳?
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 335907944	1563598478	1563598478	https://www.zhihu.com/question/335907944	耳朵容易进水?（洗澡、游泳等方式带来的影响会怎样?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337744955	1564468991	1564468991	https://www.zhihu.com/question/337744955	请问我今天早上做了三伏灸（艾灸） 明天可以游泳吗？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337349818	1564292140	1564292140	https://www.zhihu.com/question/337349818	游泳运动员游泳带鼻夹吗？
+QUESTION 330664992	1561193526	1561193526	https://www.zhihu.com/question/330664992	鸭子如果一辈子不游泳会怎样？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 33078596	1437478618	1437478618	https://www.zhihu.com/question/33078596	游泳池的水到底会不会传播疾病？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334822502	1563043171	1563043171	https://www.zhihu.com/question/334822502	什么原因使你喜欢上了游泳 ？
+QUESTION 337259808	1564236197	1564236197	https://www.zhihu.com/question/337259808	专业游泳运动员怎样防止耳朵进水？
+QUESTION 336132823	1563708880	1563708880	https://www.zhihu.com/question/336132823	如果孙杨退役了，那中国游泳的未来在哪？
+QUESTION 333797790	1562511547	1562511547	https://www.zhihu.com/question/333797790	8岁女孩子上午学2小时游泳，下午学2个半小时舞蹈，连续10天，会不会把身体累坏！?
+QUESTION 336241374	1563767644	1563767644	https://www.zhihu.com/question/336241374	如何看待会游泳的人们旁观溺水者挣扎溺死而不采取营救措施的行为？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336580764	1563907626	1563907626	https://www.zhihu.com/question/336580764	自由泳游25m左右腿就特别酸 鼻子也老是进水 如何一次性不休息游50m?打腿的频率是多少?
+QUESTION 337327198	1564283740	1564283740	https://www.zhihu.com/question/337327198	该怎麽看待澳女选手被爆药检呈阳性, 但霍顿们却说“要尊重隐私”?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337669721	1564425615	1564425615	https://www.zhihu.com/question/337669721	办张健身卡一般多少钱?游泳卡呢？
+QUESTION 337669721	1564425615	1564425615	https://www.zhihu.com/question/337669721	办张健身卡一般多少钱?游泳卡呢？
+QUESTION 333752050	1562492652	1562492652	https://www.zhihu.com/question/333752050	如果在水里不小心溺水，人（不会游泳）一动不动。河（海）水会不会以为你死了把你浮出水面？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337713287	1564457205	1564457205	https://www.zhihu.com/question/337713287	如何看待孙杨在这次世锦赛中的表现？
+QUESTION 34328878	1439050909	1439050909	https://www.zhihu.com/question/34328878	美国游泳运动员莱德基为什么这么强？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 49336064	1470537538	1470537538	https://www.zhihu.com/question/49336064	如何看待澳洲选手称孙杨为“作弊者”？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 335327764	1563318545	1563318545	https://www.zhihu.com/question/335327764	去游泳馆游泳遇见异性朋友是什么体验？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337488499	1564367638	1564367638	https://www.zhihu.com/question/337488499	经常游泳会加重耳鸣吗?
+QUESTION 336555558	1563894026	1563894026	https://www.zhihu.com/question/336555558	如何看待网易新闻对孙杨夺冠的态度？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 26045590	1413368413	1413368413	https://www.zhihu.com/question/26045590	长期游泳有哪些好处？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 337669721	1564425615	1564425615	https://www.zhihu.com/question/337669721	办张健身卡一般多少钱?游泳卡呢？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337593754	1564397346	1564397346	https://www.zhihu.com/question/337593754	游泳时有耳鸣是什么原因？该如何处理？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 49504158	1470918351	1470918351	https://www.zhihu.com/question/49504158	菲尔普斯是否有嗑药吃兴奋剂作弊的嫌疑？
+QUESTION 337521195	1564377189	1564377189	https://www.zhihu.com/question/337521195	学游泳时不敢头下水，不敢在水中憋气，对水有恐惧感，请问该如何克服这种感觉，憋气有没有什么技巧呢？
+QUESTION 337318690	1564281333	1564281333	https://www.zhihu.com/question/337318690	游泳运动员都吃药吗?
+QUESTION 337374270	1564302547	1564302547	https://www.zhihu.com/question/337374270	如何看待澳洲泳队队员爆出药检呈阳性，而澳洲泳队其它队员均保持缄默？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 20099538	1330783386	1330783386	https://www.zhihu.com/question/20099538	游泳真能减肥吗?
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 335327764	1563318545	1563318545	https://www.zhihu.com/question/335327764	去游泳馆游泳遇见异性朋友是什么体验？
+QUESTION 337259808	1564236197	1564236197	https://www.zhihu.com/question/337259808	专业游泳运动员怎样防止耳朵进水？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 333464353	1562328434	1562328434	https://www.zhihu.com/question/333464353	高度近视游泳怎么戴泳镜?
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336671530	1563954831	1563954831	https://www.zhihu.com/question/336671530	夏天想带孩子去游泳怕耳朵进水得中耳炎，助听器验配中心能否定做防水耳塞？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337186521	1564206339	1564206339	https://www.zhihu.com/question/337186521	同济考不考游泳？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337302839	1564273370	1564273370	https://www.zhihu.com/question/337302839	如果游泳圈灌满油，放到水里会飘起来吗？
+QUESTION 336879809	1564048156	1564048156	https://www.zhihu.com/question/336879809	来例假必须去游泳怎么办？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337240746	1564228892	1564228892	https://www.zhihu.com/question/337240746	支持孙杨和爱国真的可以划等号吗?
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336520506	1563882347	1563882347	https://www.zhihu.com/question/336520506	如何看待 2019 游泳世锦赛男子 200 米自由泳颁奖仪式英国游泳选手斯科特不与孙杨合影？
+QUESTION 334202379	1562725793	1562725793	https://www.zhihu.com/question/334202379	游泳池边上的救生员、教练看见一池菜鸟时在想什么？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336136264	1563710259	1563710259	https://www.zhihu.com/question/336136264	如何评价澳大利亚游泳选手霍顿在 2019 游泳世锦赛 400 米自由泳颁奖仪式上不愿站上领奖台的行为?
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 336238006	1563766459	1563766459	https://www.zhihu.com/question/336238006	天天游泳对脾胃有影响吗?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 322339847	1556595499	1556595499	https://www.zhihu.com/question/322339847	女生学游泳要请个女教练吗?
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 337385117	1564307031	1564307031	https://www.zhihu.com/question/337385117	如何评价凤凰新闻麦杰逊所著的这篇论孙杨与姚明处事方式差异的文章？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336203818	1563756380	1563756380	https://www.zhihu.com/question/336203818	孙杨是否服用了违禁药品？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 290365474	1534310448	1534310448	https://www.zhihu.com/question/290365474	【求助】后天就要游泳考试了，今天中午来了例假，不能延期考试，用棉条可以游泳吗？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 334602706	1562924470	1562924470	https://www.zhihu.com/question/334602706	游泳大腿内侧拉伤，还要继续练习吗?
+QUESTION 61372939	1498035804	1498035804	https://www.zhihu.com/question/61372939	到底要不要学游泳？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 20386080	1343547285	1343547285	https://www.zhihu.com/question/20386080	叶诗文从身材来说只有168，对游泳运动会员来说即使在国内也属于一般。请问她如何能在女子个人400米混合泳中破世界纪录夺冠？能不能从个人400米混合泳这个项目来说说叶诗文成功的原因？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 331918073	1561619826	1561619826	https://www.zhihu.com/question/331918073	自由泳怎么做到胯发力?
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337070281	1564140036	1564140036	https://www.zhihu.com/question/337070281	初学者游泳老呛水，是呛到肺里吗，会不会有事？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337081480	1564144560	1564144560	https://www.zhihu.com/question/337081480	请教一下蛙游如何换气?
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 334822502	1563043171	1563043171	https://www.zhihu.com/question/334822502	什么原因使你喜欢上了游泳 ？
+QUESTION 336252354	1563771603	1563771603	https://www.zhihu.com/question/336252354	为什么我国的游泳队在禁药问题上老是过不去？
+QUESTION 337275106	1564241521	1564241521	https://www.zhihu.com/question/337275106	最近学游泳，不太会换气，有诀窍不？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 268251784	1520257564	1520257564	https://www.zhihu.com/question/268251784	高中生上游泳课，选什么泳衣比较好？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 336271806	1563778669	1563778669	https://www.zhihu.com/question/336271806	如何看待傅园慧在 2019 游泳世锦赛 100 米仰泳预赛中爆冷出局？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 49374545	1470633787	1470633787	https://www.zhihu.com/question/49374545	如何看待网上一边倒驳斥霍顿？
+QUESTION 335799667	1563537344	1563537344	https://www.zhihu.com/question/335799667	学蛙泳为什么换气太累，总感觉气不够用，腿往下沉要蹬很多次才能头起来换口气？
+QUESTION 34373575	1439138255	1439138255	https://www.zhihu.com/question/34373575	作为游泳健将的孙杨为什么会有心脏疾病？
+QUESTION 337135932	1564185509	1564185509	https://www.zhihu.com/question/337135932	同是澳大利亚人，丹尼斯没有支持同胞霍顿而是支持孙杨，这是为什么？
+QUESTION 336181159	1563726075	1563726075	https://www.zhihu.com/question/336181159	如何看待孙杨夺冠后霍顿和网民的反应？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 20389162	1343673693	1343673693	https://www.zhihu.com/question/20389162	为什么叶诗文最后时刻冲刺速度可以比罗切特还快？
+QUESTION 336408921	1563848481	1563848481	https://www.zhihu.com/question/336408921	如何看待霍顿因为拒绝与孙杨合影，获得了各国运动员的掌声？
+QUESTION 337224618	1564222084	1564222084	https://www.zhihu.com/question/337224618	如何看待澳大利亚游泳选手莎娜杰克(Shayna Jack)被查出使用兴奋剂？
+QUESTION 337490592	1564368201	1564368201	https://www.zhihu.com/question/337490592	你在泳池最烦什么人？
+QUESTION 49504158	1470918351	1470918351	https://www.zhihu.com/question/49504158	菲尔普斯是否有嗑药吃兴奋剂作弊的嫌疑？
+QUESTION 336181159	1563726075	1563726075	https://www.zhihu.com/question/336181159	如何看待孙杨夺冠后霍顿和网民的反应？

@@ -1,0 +1,969 @@
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 316702494	1553054946	1553054946	https://www.zhihu.com/question/316702494	拉马库斯•阿尔德里奇退役后能否入选名人堂？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338082131	1564621727	1564621727	https://www.zhihu.com/question/338082131	如何评价现役60分俱乐部只有6人，下一个最可能是库里？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 290561359	1534413056	1534413056	https://www.zhihu.com/question/290561359	姚明在 NBA 的能力是否被高估了？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 302842942	1542540069	1542540069	https://www.zhihu.com/question/302842942	斯蒂芬库里为什么拿不到FMVP？
+QUESTION 334273878	1562752553	1562752553	https://www.zhihu.com/question/334273878	如何评价威斯布鲁克这个球员？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 327588120	1559482387	1559482387	https://www.zhihu.com/question/327588120	同龄的詹姆斯跟杜兰特，到底谁最强？
+QUESTION 329023428	1560316331	1560316331	https://www.zhihu.com/question/329023428	杜兰特可能像当年詹姆斯一样重返俄城冲击总冠军吗？
+QUESTION 337761920	1564474862	1564474862	https://www.zhihu.com/question/337761920	2020年赛季，你看好凯尔·库兹马吗？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338272104	1564709883	1564709883	https://www.zhihu.com/question/338272104	约基奇现在是什么等级的球员？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 328555679	1560075756	1560075756	https://www.zhihu.com/question/328555679	欧文和伦纳德相比，有哪些优势和不足，两人的区别在哪里？
+QUESTION 338446018	1564798149	1564798149	https://www.zhihu.com/question/338446018	过去10年的总冠军，伦纳德和德克是不是唯二没有前十队友的？
+QUESTION 63509387	1502031293	1502031293	https://www.zhihu.com/question/63509387	顶峰时期的科比和顶峰时期的詹姆斯1V1，谁会赢？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 335616579	1563447175	1563447175	https://www.zhihu.com/question/335616579	詹姆斯第一次总决赛失冠后，为什么去到哪里都想组三巨头呢？
+QUESTION 302236108	1542073051	1542073051	https://www.zhihu.com/question/302236108	为什么卡梅隆·安东尼不强了？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 334273878	1562752553	1562752553	https://www.zhihu.com/question/334273878	如何评价威斯布鲁克这个球员？
+QUESTION 336921404	1564063694	1564063694	https://www.zhihu.com/question/336921404	仅以巅峰状态而论的话，大鲨鱼奥尼尔是否能碾压石佛邓肯？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 333762166	1562497319	1562497319	https://www.zhihu.com/question/333762166	如果奥尼尔和勒布朗同年选秀谁当状元的可能性更大？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 334244730	1562741043	1562741043	https://www.zhihu.com/question/334244730	NBA 各个位置的历史前五排名是怎样的？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 336226663	1563763788	1563763788	https://www.zhihu.com/question/336226663	下赛季的西部谁会夺得冠军 ?
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 288947434	1533680941	1533680941	https://www.zhihu.com/question/288947434	勒布朗·詹姆斯的实力究竟如何？为什么会有人觉得他被高估？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 323898043	1557558668	1557558668	https://www.zhihu.com/question/323898043	为什么有的 NBA 球员不穿专业的篮球鞋？
+QUESTION 338272104	1564709883	1564709883	https://www.zhihu.com/question/338272104	约基奇现在是什么等级的球员？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 338294113	1564715510	1564715510	https://www.zhihu.com/question/338294113	「抗伤病能力」是否也是球员实力的一部分？
+QUESTION 336275123	1563779846	1563779846	https://www.zhihu.com/question/336275123	有哪些 NBA 新秀是你特别看好、但最终没打出预期的？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 288947434	1533680941	1533680941	https://www.zhihu.com/question/288947434	勒布朗·詹姆斯的实力究竟如何？为什么会有人觉得他被高估？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 338220217	1564668529	1564668529	https://www.zhihu.com/question/338220217	从进入NBA开始，富尔茨就饱受伤病困扰，本赛季你对他有什么期望？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338297088	1564716275	1564716275	https://www.zhihu.com/question/338297088	如何评价克莱18年夺冠后：很庆幸终于不用防欧文了，他真的很难防？
+QUESTION 320558223	1555502041	1555502041	https://www.zhihu.com/question/320558223	为什么很多球迷讨厌凯文·杜兰特？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 319443955	1554814330	1554814330	https://www.zhihu.com/question/319443955	为什么詹姆斯在部分球迷眼里算不上历史前五？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 312280665	1550156119	1550156119	https://www.zhihu.com/question/312280665	如果有一天你不看 NBA 是因为一个球员的离开，那么这个人是谁？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337979106	1564564917	1564564917	https://www.zhihu.com/question/337979106	从如今看来，维金斯配得上状元吗？
+QUESTION 302467699	1542244721	1542244721	https://www.zhihu.com/question/302467699	现在看NBA来得及吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 319443955	1554814330	1554814330	https://www.zhihu.com/question/319443955	为什么詹姆斯在部分球迷眼里算不上历史前五？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338446018	1564798149	1564798149	https://www.zhihu.com/question/338446018	过去10年的总冠军，伦纳德和德克是不是唯二没有前十队友的？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 338100157	1564627938	1564627938	https://www.zhihu.com/question/338100157	为什么马健说邓肯不是超巨？
+QUESTION 323123186	1557114188	1557114188	https://www.zhihu.com/question/323123186	如果易建联不受伤，他的上限会到哪里？
+QUESTION 328821059	1560220369	1560220369	https://www.zhihu.com/question/328821059	这是哪个NBA球星？
+QUESTION 48924358	1469541574	1469541574	https://www.zhihu.com/question/48924358	美国男篮梦八跟梦一相比哪支球队更强？
+QUESTION 336947745	1564074561	1564074561	https://www.zhihu.com/question/336947745	NBA球星你更喜欢哪一位呢？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 313154037	1550747151	1550747151	https://www.zhihu.com/question/313154037	卡特，霍华德，保罗，安东尼，罗斯能进名人堂嘛？
+QUESTION 312786451	1550498912	1550498912	https://www.zhihu.com/question/312786451	为什么现在的NBA没有以前好看了？
+QUESTION 338097332	1564627090	1564627090	https://www.zhihu.com/question/338097332	安东尼如果就此退役，他和汤普森相比谁的历史地位高一些？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 336791546	1564019620	1564019620	https://www.zhihu.com/question/336791546	为啥nba球员和球员之间在场上很大矛盾，下了场就不一样了？还有哪些场上矛盾场下没事的案例？
+QUESTION 263825727	1512801445	1512801445	https://www.zhihu.com/question/263825727	如何评价雄鹿球员米德尔顿？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 48924358	1469541574	1469541574	https://www.zhihu.com/question/48924358	美国男篮梦八跟梦一相比哪支球队更强？
+QUESTION 332737515	1561976681	1561976681	https://www.zhihu.com/question/332737515	NBA明年看好谁爆发(超巨除外)角色球员这种？
+QUESTION 338654704	1564908412	1564908412	https://www.zhihu.com/question/338654704	退役后的德雷蒙德•格林和丹尼斯•罗德曼谁的历史地位更高？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337336182	1564286409	1564286409	https://www.zhihu.com/question/337336182	利拉德真的是个超级球星吗？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338102722	1564628767	1564628767	https://www.zhihu.com/question/338102722	为什么科比认为麦迪最难防守？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 334135129	1562680382	1562680382	https://www.zhihu.com/question/334135129	都说伦纳德做的没毛病，伦纳德是精英那么精英做的事你们谁敢模仿一下呀？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 335492981	1563384218	1563384218	https://www.zhihu.com/question/335492981	一个新秀赛季场均30.2分，1板，1助，0.4断，0.2盖的控卫在联盟中会获得怎样评价？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097332	1564627090	1564627090	https://www.zhihu.com/question/338097332	安东尼如果就此退役，他和汤普森相比谁的历史地位高一些？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 304588882	1543885257	1543885257	https://www.zhihu.com/question/304588882	谁是 NBA 最自信的球员？
+QUESTION 338438719	1564794480	1564794480	https://www.zhihu.com/question/338438719	湖人是否应该签下安东尼？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 338100157	1564627938	1564627938	https://www.zhihu.com/question/338100157	为什么马健说邓肯不是超巨？
+QUESTION 311169618	1549247151	1549247151	https://www.zhihu.com/question/311169618	为什么林书豪在 NBA 会遭到种族歧视而姚明没有？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338102130	1564628597	1564628597	https://www.zhihu.com/question/338102130	西蒙斯能练出投篮吗？
+QUESTION 337713996	1564457439	1564457439	https://www.zhihu.com/question/337713996	一个nba级别的球星十年不碰篮球要多久可以恢复之前的状态？
+QUESTION 315291477	1552156559	1552156559	https://www.zhihu.com/question/315291477	为什么有这么多人不喜欢詹姆斯·哈登？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338102130	1564628597	1564628597	https://www.zhihu.com/question/338102130	西蒙斯能练出投篮吗？
+QUESTION 338269840	1564708910	1564708910	https://www.zhihu.com/question/338269840	为什么说现在联盟是控卫盛世？
+QUESTION 335474182	1563375493	1563375493	https://www.zhihu.com/question/335474182	红衣主教、波波、杰克逊、莱利，谁才是NBA最伟大的教练？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 281901147	1529584689	1529584689	https://www.zhihu.com/question/281901147	NBA 有哪些不为人知的场外事？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 26597006	1415851106	1415851106	https://www.zhihu.com/question/26597006	乔丹到底有多强？
+QUESTION 338401884	1564756944	1564756944	https://www.zhihu.com/question/338401884	安东尼还能否胜任一份NBA工作？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338442594	1564796535	1564796535	https://www.zhihu.com/question/338442594	为什么维金斯对位詹姆斯表现都很好？
+QUESTION 302842942	1542540069	1542540069	https://www.zhihu.com/question/302842942	斯蒂芬库里为什么拿不到FMVP？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338265197	1564706770	1564706770	https://www.zhihu.com/question/338265197	身体条件大鲨鱼奥尼尔，如果对篮球的态度有科比那么执着，会不会成为历史第一人？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 338621071	1564892451	1564892451	https://www.zhihu.com/question/338621071	NBA新赛季，有哪些新生代球员能跻身全明星之列？ ?
+QUESTION 336906724	1564058751	1564058751	https://www.zhihu.com/question/336906724	为什么NBA能那么早就建立了全明星这样的盛宴，却一直没有单挑比赛？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338270148	1564709032	1564709032	https://www.zhihu.com/question/338270148	如何评价拉里伯德的执教生涯？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 38304174	1449544364	1449544364	https://www.zhihu.com/question/38304174	NBA历史上有哪些昙花一现的球员？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 338097332	1564627090	1564627090	https://www.zhihu.com/question/338097332	安东尼如果就此退役，他和汤普森相比谁的历史地位高一些？
+QUESTION 38304174	1449544364	1449544364	https://www.zhihu.com/question/38304174	NBA历史上有哪些昙花一现的球员？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338089395	1564624504	1564624504	https://www.zhihu.com/question/338089395	杜兰特下赛季能打吗？
+QUESTION 338097332	1564627090	1564627090	https://www.zhihu.com/question/338097332	安东尼如果就此退役，他和汤普森相比谁的历史地位高一些？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 338414655	1564762000	1564762000	https://www.zhihu.com/question/338414655	给一个普通身体的黄种人接受一年的nba球员专业训练 会有什么样的改变?
+QUESTION 318218609	1554014068	1554014068	https://www.zhihu.com/question/318218609	库里最高能达到什么样的高度？
+QUESTION 337019205	1564122940	1564122940	https://www.zhihu.com/question/337019205	如何评价利拉德“放鸽子”理由竟是要去拍电影？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 338569586	1564851240	1564851240	https://www.zhihu.com/question/338569586	伦纳德对詹姆斯的单体防守究竟有多强？
+QUESTION 338497056	1564821856	1564821856	https://www.zhihu.com/question/338497056	只论单赛季，综合实力最强的谁？
+QUESTION 338619904	1564891894	1564891894	https://www.zhihu.com/question/338619904	斯托克顿连续9年当选NBA助攻王，他的纪录有没有可能被打破？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 302945285	1542620783	1542620783	https://www.zhihu.com/question/302945285	麦迪在巅峰期是否是和科比一个档次的球员？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 321199472	1555905808	1555905808	https://www.zhihu.com/question/321199472	乔丹背打的动哈登吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 41075799	1457244947	1457244947	https://www.zhihu.com/question/41075799	NBA 是否没有假球？为什么？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 326473989	1558974492	1558974492	https://www.zhihu.com/question/326473989	NBA 哪些球星拥有超强的特长?
+QUESTION 334135129	1562680382	1562680382	https://www.zhihu.com/question/334135129	都说伦纳德做的没毛病，伦纳德是精英那么精英做的事你们谁敢模仿一下呀？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 335474182	1563375493	1563375493	https://www.zhihu.com/question/335474182	红衣主教、波波、杰克逊、莱利，谁才是NBA最伟大的教练？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 333580318	1562396257	1562396257	https://www.zhihu.com/question/333580318	为什么伦纳德宁愿签约快船也不去湖人？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 68037823	1510536051	1510536051	https://www.zhihu.com/question/68037823	NBA 球员有哪些特殊的爱好?
+QUESTION 333580318	1562396257	1562396257	https://www.zhihu.com/question/333580318	为什么伦纳德宁愿签约快船也不去湖人？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338103472	1564629013	1564629013	https://www.zhihu.com/question/338103472	你心目中的nba历史十大分位排名？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 302842942	1542540069	1542540069	https://www.zhihu.com/question/302842942	斯蒂芬库里为什么拿不到FMVP？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335616579	1563447175	1563447175	https://www.zhihu.com/question/335616579	詹姆斯第一次总决赛失冠后，为什么去到哪里都想组三巨头呢？
+QUESTION 302945285	1542620783	1542620783	https://www.zhihu.com/question/302945285	麦迪在巅峰期是否是和科比一个档次的球员？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338098875	1564627560	1564627560	https://www.zhihu.com/question/338098875	湖人下赛季空接会很多吗？
+QUESTION 338296081	1564715937	1564715937	https://www.zhihu.com/question/338296081	说到巅峰不在一起的球星组合，你首先想到了谁？
+QUESTION 338439856	1564795133	1564795133	https://www.zhihu.com/question/338439856	东西部最强12人名单，认真打一个系列赛哪边较强？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 338227856	1564670968	1564670968	https://www.zhihu.com/question/338227856	如果慕尼黑奥运会男篮决赛，美国派的是当时的nba球员，会不会击败苏联成功卫冕？
+QUESTION 326473989	1558974492	1558974492	https://www.zhihu.com/question/326473989	NBA 哪些球星拥有超强的特长?
+QUESTION 336644535	1563945267	1563945267	https://www.zhihu.com/question/336644535	图片里的人是谁？球员?
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 269109368	1521458727	1521458727	https://www.zhihu.com/question/269109368	在大家各自的心目中，NBA 各队的队史 No.1 都是谁呢？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 338103472	1564629013	1564629013	https://www.zhihu.com/question/338103472	你心目中的nba历史十大分位排名？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 68037823	1510536051	1510536051	https://www.zhihu.com/question/68037823	NBA 球员有哪些特殊的爱好?
+QUESTION 338103472	1564629013	1564629013	https://www.zhihu.com/question/338103472	你心目中的nba历史十大分位排名？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 338439866	1564795133	1564795133	https://www.zhihu.com/question/338439866	范乔丹下赛季会赢来数据大爆发吗？
+QUESTION 281901147	1529584689	1529584689	https://www.zhihu.com/question/281901147	NBA 有哪些不为人知的场外事？
+QUESTION 337493093	1564368788	1564368788	https://www.zhihu.com/question/337493093	维金斯被高估了吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 269109368	1521458727	1521458727	https://www.zhihu.com/question/269109368	在大家各自的心目中，NBA 各队的队史 No.1 都是谁呢？
+QUESTION 338577791	1564860686	1564860686	https://www.zhihu.com/question/338577791	德雷蒙德-格林4年一亿美元提前续约勇士，对于勇士的未来和NBA的格局有什么影响？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338272118	1564709884	1564709884	https://www.zhihu.com/question/338272118	詹姆斯、威少、安东尼巅峰末期是不是吃了没哨子的亏？
+QUESTION 322208076	1556515404	1556515404	https://www.zhihu.com/question/322208076	伦纳德究竟有没有愧于马刺?
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 338102130	1564628597	1564628597	https://www.zhihu.com/question/338102130	西蒙斯能练出投篮吗？
+QUESTION 336904141	1564057728	1564057728	https://www.zhihu.com/question/336904141	NBA 球星有哪些让你印象深刻的「中国行」经历？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338100157	1564627938	1564627938	https://www.zhihu.com/question/338100157	为什么马健说邓肯不是超巨？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338102130	1564628597	1564628597	https://www.zhihu.com/question/338102130	西蒙斯能练出投篮吗？
+QUESTION 338296081	1564715937	1564715937	https://www.zhihu.com/question/338296081	说到巅峰不在一起的球星组合，你首先想到了谁？
+QUESTION 323898043	1557558668	1557558668	https://www.zhihu.com/question/323898043	为什么有的 NBA 球员不穿专业的篮球鞋？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 338292217	1564715133	1564715133	https://www.zhihu.com/question/338292217	那不勒斯在意甲的攻击力是否超过尤文？
+QUESTION 323123186	1557114188	1557114188	https://www.zhihu.com/question/323123186	如果易建联不受伤，他的上限会到哪里？
+QUESTION 335163999	1563241049	1563241049	https://www.zhihu.com/question/335163999	NBA 2K20 前二十能力值公布，詹姆斯伦纳德并列第一，你有什么看法？
+QUESTION 338465421	1564807253	1564807253	https://www.zhihu.com/question/338465421	如何看待安东尼爆与火箭分手的细节,安东尼是否已经被nba抛弃?
+QUESTION 338456787	1564803019	1564803019	https://www.zhihu.com/question/338456787	本内特和富尔茨到底谁更水？
+QUESTION 338263179	1564705669	1564705669	https://www.zhihu.com/question/338263179	今年为什么那么多nba球星退出梦之队？
+QUESTION 338352391	1564737315	1564737315	https://www.zhihu.com/question/338352391	如何将当代恶臭球迷的不当言论与球员本身分开?
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338270156	1564709032	1564709032	https://www.zhihu.com/question/338270156	一提到后卫出身的内线，你最先想到哪位NBA球员？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 336481368	1563869539	1563869539	https://www.zhihu.com/question/336481368	除了邓肯，还有哪些 NBA 退役球员适合当教练？
+QUESTION 337493093	1564368788	1564368788	https://www.zhihu.com/question/337493093	维金斯被高估了吗？
+QUESTION 30620066	1432399967	1432399967	https://www.zhihu.com/question/30620066	NBA 感人的比赛或者画面有哪些？
+QUESTION 334788893	1563025565	1563025565	https://www.zhihu.com/question/334788893	如果让你获得一个 NBA 球星的绝招，你会选哪个?
+QUESTION 338297545	1564716442	1564716442	https://www.zhihu.com/question/338297545	世界范围内湖人名宿老科和詹皇谁的名气和影响力较大？
+QUESTION 338442600	1564796535	1564796535	https://www.zhihu.com/question/338442600	邓肯是不是兼容性最强的超巨？
+QUESTION 335474182	1563375493	1563375493	https://www.zhihu.com/question/335474182	红衣主教、波波、杰克逊、莱利，谁才是NBA最伟大的教练？
+QUESTION 335616579	1563447175	1563447175	https://www.zhihu.com/question/335616579	詹姆斯第一次总决赛失冠后，为什么去到哪里都想组三巨头呢？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 334788893	1563025565	1563025565	https://www.zhihu.com/question/334788893	如果让你获得一个 NBA 球星的绝招，你会选哪个?
+QUESTION 302842942	1542540069	1542540069	https://www.zhihu.com/question/302842942	斯蒂芬库里为什么拿不到FMVP？
+QUESTION 338097332	1564627090	1564627090	https://www.zhihu.com/question/338097332	安东尼如果就此退役，他和汤普森相比谁的历史地位高一些？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 338292681	1564715229	1564715229	https://www.zhihu.com/question/338292681	有哪些球星新秀赛季就有季后赛打，还打得很好的？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 338439842	1564795132	1564795132	https://www.zhihu.com/question/338439842	现役球员季后赛最高得分仍由小托马斯保持，他能否在奇才重振雄风？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 338497056	1564821856	1564821856	https://www.zhihu.com/question/338497056	只论单赛季，综合实力最强的谁？
+QUESTION 333658199	1562429259	1562429259	https://www.zhihu.com/question/333658199	如何看待詹姆斯、杜兰特、伦纳德这一系列愈演愈烈的球员操作？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 338439842	1564795132	1564795132	https://www.zhihu.com/question/338439842	现役球员季后赛最高得分仍由小托马斯保持，他能否在奇才重振雄风？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 296228680	1537976861	1537976861	https://www.zhihu.com/question/296228680	有没有一套可以比肩“魔神皇佛鲨”的阵容？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338264754	1564706550	1564706550	https://www.zhihu.com/question/338264754	如何评价如果哈登身材像麦迪一样，是不是常规赛得分能力就超过科比詹姆斯了？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 338439866	1564795133	1564795133	https://www.zhihu.com/question/338439866	范乔丹下赛季会赢来数据大爆发吗？
+QUESTION 338439866	1564795133	1564795133	https://www.zhihu.com/question/338439866	范乔丹下赛季会赢来数据大爆发吗？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 334563032	1562910097	1562910097	https://www.zhihu.com/question/334563032	卡梅隆安东尼还能否在NBA打球？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 334903134	1563095951	1563095951	https://www.zhihu.com/question/334903134	这个是哪个NBA球星？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 338456114	1564802723	1564802723	https://www.zhihu.com/question/338456114	见到海沃德是什么体验？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337555536	1564389430	1564389430	https://www.zhihu.com/question/337555536	“林疯狂”究竟有何影响?
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338497056	1564821856	1564821856	https://www.zhihu.com/question/338497056	只论单赛季，综合实力最强的谁？
+QUESTION 336417885	1563851028	1563851028	https://www.zhihu.com/question/336417885	当代NBA两个詹姆斯谁更厉害？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338101614	1564628407	1564628407	https://www.zhihu.com/question/338101614	奥尼尔、詹姆斯和科比选秀状元会是谁？
+QUESTION 317554737	1553587206	1553587206	https://www.zhihu.com/question/317554737	NBA 有哪些经久不衰的谣言？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 324418758	1557852379	1557852379	https://www.zhihu.com/question/324418758	锡安·威廉姆森（Zion Williamson）会不会水掉？
+QUESTION 49603545	1471176647	1471176647	https://www.zhihu.com/question/49603545	如何评价利拉德的说唱？
+QUESTION 336437548	1563856076	1563856076	https://www.zhihu.com/question/336437548	如何评价NBA状元锡安威廉姆斯，总感觉他会水掉?
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338057651	1564590830	1564590830	https://www.zhihu.com/question/338057651	如果姚明是90年代登陆NBA，有没有可能在当时长人林立的情况下打出一片天甚至取代四大中锋中某一两位？
+QUESTION 338084811	1564622813	1564622813	https://www.zhihu.com/question/338084811	邓肯13年为什么能入选一阵二防？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 338294113	1564715510	1564715510	https://www.zhihu.com/question/338294113	「抗伤病能力」是否也是球员实力的一部分？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 315817859	1552488906	1552488906	https://www.zhihu.com/question/315817859	天才状元安德鲁·维金斯为什么堕落了？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338438352	1564794305	1564794305	https://www.zhihu.com/question/338438352	给巅峰詹姆斯一个加索尔能争冠吗？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 338296081	1564715937	1564715937	https://www.zhihu.com/question/338296081	说到巅峰不在一起的球星组合，你首先想到了谁？
+QUESTION 338310268	1564721119	1564721119	https://www.zhihu.com/question/338310268	和 NBA 球星单挑是什么体验？
+QUESTION 38304174	1449544364	1449544364	https://www.zhihu.com/question/38304174	NBA历史上有哪些昙花一现的球员？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 338098845	1564627558	1564627558	https://www.zhihu.com/question/338098845	假如就此退役，该如何评价安东尼的职业生涯？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 338438352	1564794305	1564794305	https://www.zhihu.com/question/338438352	给巅峰詹姆斯一个加索尔能争冠吗？
+QUESTION 336395224	1563843052	1563843052	https://www.zhihu.com/question/336395224	NBA 球星陆续退出美国男篮，是否可以说美国人的家国意识比较淡薄?
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338294096	1564715509	1564715509	https://www.zhihu.com/question/338294096	基德在历史上是个什么级别的控卫？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 315817859	1552488906	1552488906	https://www.zhihu.com/question/315817859	天才状元安德鲁·维金斯为什么堕落了？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338296081	1564715937	1564715937	https://www.zhihu.com/question/338296081	说到巅峰不在一起的球星组合，你首先想到了谁？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 39013639	1451454703	1451454703	https://www.zhihu.com/question/39013639	NBA 在某种意义上是不是再也没人可以超越迈克尔 · 乔丹了？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 334788893	1563025565	1563025565	https://www.zhihu.com/question/334788893	如果让你获得一个 NBA 球星的绝招，你会选哪个?
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338497056	1564821856	1564821856	https://www.zhihu.com/question/338497056	只论单赛季，综合实力最强的谁？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337292705	1564252158	1564252158	https://www.zhihu.com/question/337292705	保罗究竟是什么样的球员，为什么职业生涯一度受好评甚至可能进名人堂?
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 63509387	1502031293	1502031293	https://www.zhihu.com/question/63509387	顶峰时期的科比和顶峰时期的詹姆斯1V1，谁会赢？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 288947434	1533680941	1533680941	https://www.zhihu.com/question/288947434	勒布朗·詹姆斯的实力究竟如何？为什么会有人觉得他被高估？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 302236108	1542073051	1542073051	https://www.zhihu.com/question/302236108	为什么卡梅隆·安东尼不强了？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 337947134	1564556971	1564556971	https://www.zhihu.com/question/337947134	林书豪的职业生涯还会重返NBA吗？
+QUESTION 334788893	1563025565	1563025565	https://www.zhihu.com/question/334788893	如果让你获得一个 NBA 球星的绝招，你会选哪个?
+QUESTION 327588120	1559482387	1559482387	https://www.zhihu.com/question/327588120	同龄的詹姆斯跟杜兰特，到底谁最强？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338089389	1564624504	1564624504	https://www.zhihu.com/question/338089389	甜瓜如果现在退役，历史地位能进前100吗？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 336684245	1563958984	1563958984	https://www.zhihu.com/question/336684245	拥有众多高顺位球员的鹈鹕队，下个赛季能够打出大家的期望吗？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 335492981	1563384218	1563384218	https://www.zhihu.com/question/335492981	一个新秀赛季场均30.2分，1板，1助，0.4断，0.2盖的控卫在联盟中会获得怎样评价？
+QUESTION 308102450	1546674671	1546674671	https://www.zhihu.com/question/308102450	乔丹科比詹姆斯杜兰特等NBA球星有过恶意犯规么？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 338265197	1564706770	1564706770	https://www.zhihu.com/question/338265197	身体条件大鲨鱼奥尼尔，如果对篮球的态度有科比那么执着，会不会成为历史第一人？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337493093	1564368788	1564368788	https://www.zhihu.com/question/337493093	维金斯被高估了吗？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 304588882	1543885257	1543885257	https://www.zhihu.com/question/304588882	谁是 NBA 最自信的球员？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338089395	1564624504	1564624504	https://www.zhihu.com/question/338089395	杜兰特下赛季能打吗？
+QUESTION 336709005	1563967210	1563967210	https://www.zhihu.com/question/336709005	如何评价戈登·海沃德，他有什么特点和故事？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 338443329	1564796869	1564796869	https://www.zhihu.com/question/338443329	如何评价乔丹和詹姆斯在季后赛击败过的一阵球星对比？
+QUESTION 296228680	1537976861	1537976861	https://www.zhihu.com/question/296228680	有没有一套可以比肩“魔神皇佛鲨”的阵容？
+QUESTION 335163999	1563241049	1563241049	https://www.zhihu.com/question/335163999	NBA 2K20 前二十能力值公布，詹姆斯伦纳德并列第一，你有什么看法？
+QUESTION 337794081	1564486052	1564486052	https://www.zhihu.com/question/337794081	如果将现在的所有nba球员集合在一起做一次选秀，会发生什么？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338104300	1564629284	1564629284	https://www.zhihu.com/question/338104300	如何很多人提及奥尼尔，却忽略了当年季后赛他打败了巅峰期的乔丹？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 319011561	1554535432	1554535432	https://www.zhihu.com/question/319011561	如果艾弗森现在进入联盟会怎样？
+QUESTION 318534569	1554203145	1554203145	https://www.zhihu.com/question/318534569	为什么感觉现在的 NBA 没有以前的精彩？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 326473989	1558974492	1558974492	https://www.zhihu.com/question/326473989	NBA 哪些球星拥有超强的特长?
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 336177014	1563724302	1563724302	https://www.zhihu.com/question/336177014	有哪些球员曾让 NBA 修改规则？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 319443955	1554814330	1554814330	https://www.zhihu.com/question/319443955	为什么詹姆斯在部分球迷眼里算不上历史前五？
+QUESTION 338089389	1564624504	1564624504	https://www.zhihu.com/question/338089389	甜瓜如果现在退役，历史地位能进前100吗？
+QUESTION 22432452	1388678783	1388678783	https://www.zhihu.com/question/22432452	你所知道的最冷的 NBA 知识是什么？
+QUESTION 309312996	1547625855	1547625855	https://www.zhihu.com/question/309312996	NBA 历史上，哪些画面才能被真正奉为经典？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 336947745	1564074561	1564074561	https://www.zhihu.com/question/336947745	NBA球星你更喜欢哪一位呢？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 321173336	1555895776	1555895776	https://www.zhihu.com/question/321173336	邓肯如果在 96 年参加 NBA 选秀，还能是状元吗？如果不是，会是首轮第几顺位？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338103472	1564629013	1564629013	https://www.zhihu.com/question/338103472	你心目中的nba历史十大分位排名？
+QUESTION 338438352	1564794305	1564794305	https://www.zhihu.com/question/338438352	给巅峰詹姆斯一个加索尔能争冠吗？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 338102130	1564628597	1564628597	https://www.zhihu.com/question/338102130	西蒙斯能练出投篮吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 334563032	1562910097	1562910097	https://www.zhihu.com/question/334563032	卡梅隆安东尼还能否在NBA打球？
+QUESTION 334563032	1562910097	1562910097	https://www.zhihu.com/question/334563032	卡梅隆安东尼还能否在NBA打球？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338102130	1564628597	1564628597	https://www.zhihu.com/question/338102130	西蒙斯能练出投篮吗？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 62102444	1499353704	1499353704	https://www.zhihu.com/question/62102444	如何看待科比与詹姆斯季后赛关键时刻对比？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 338294113	1564715510	1564715510	https://www.zhihu.com/question/338294113	「抗伤病能力」是否也是球员实力的一部分？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 338438352	1564794305	1564794305	https://www.zhihu.com/question/338438352	给巅峰詹姆斯一个加索尔能争冠吗？
+QUESTION 337979106	1564564917	1564564917	https://www.zhihu.com/question/337979106	从如今看来，维金斯配得上状元吗？
+QUESTION 338278040	1564711991	1564711991	https://www.zhihu.com/question/338278040	NBA超巨是怎么定位的？
+QUESTION 338446018	1564798149	1564798149	https://www.zhihu.com/question/338446018	过去10年的总冠军，伦纳德和德克是不是唯二没有前十队友的？
+QUESTION 338438352	1564794305	1564794305	https://www.zhihu.com/question/338438352	给巅峰詹姆斯一个加索尔能争冠吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338456787	1564803019	1564803019	https://www.zhihu.com/question/338456787	本内特和富尔茨到底谁更水？
+QUESTION 296228680	1537976861	1537976861	https://www.zhihu.com/question/296228680	有没有一套可以比肩“魔神皇佛鲨”的阵容？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338084194	1564622585	1564622585	https://www.zhihu.com/question/338084194	26岁时的邓肯和浓眉谁的得分能力强？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 319443955	1554814330	1554814330	https://www.zhihu.com/question/319443955	为什么詹姆斯在部分球迷眼里算不上历史前五？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 28583128	1425710831	1425710831	https://www.zhihu.com/question/28583128	篮球场上高瘦型球员如何打矮壮型球员？表示我188，体重70kg，双手原地抓框…速度耐力在周围人里算可以的
+？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 319443955	1554814330	1554814330	https://www.zhihu.com/question/319443955	为什么詹姆斯在部分球迷眼里算不上历史前五？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 338438352	1564794305	1564794305	https://www.zhihu.com/question/338438352	给巅峰詹姆斯一个加索尔能争冠吗？
+QUESTION 338272104	1564709883	1564709883	https://www.zhihu.com/question/338272104	约基奇现在是什么等级的球员？
+QUESTION 338310268	1564721119	1564721119	https://www.zhihu.com/question/338310268	和 NBA 球星单挑是什么体验？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337292705	1564252158	1564252158	https://www.zhihu.com/question/337292705	保罗究竟是什么样的球员，为什么职业生涯一度受好评甚至可能进名人堂?
+QUESTION 38304174	1449544364	1449544364	https://www.zhihu.com/question/38304174	NBA历史上有哪些昙花一现的球员？
+QUESTION 338446018	1564798149	1564798149	https://www.zhihu.com/question/338446018	过去10年的总冠军，伦纳德和德克是不是唯二没有前十队友的？
+QUESTION 338439842	1564795132	1564795132	https://www.zhihu.com/question/338439842	现役球员季后赛最高得分仍由小托马斯保持，他能否在奇才重振雄风？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 333829480	1562546436	1562546436	https://www.zhihu.com/question/333829480	威斯布鲁克适合湖人吗?
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 317554737	1553587206	1553587206	https://www.zhihu.com/question/317554737	NBA 有哪些经久不衰的谣言？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337836792	1564500263	1564500263	https://www.zhihu.com/question/337836792	胯下运球重心和肩膀该不该移动吗？我看库里的胯下那种肩膀晃动幅度我自己根本试不出来，没办法做到那样？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 38304174	1449544364	1449544364	https://www.zhihu.com/question/38304174	NBA历史上有哪些昙花一现的球员？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337336182	1564286409	1564286409	https://www.zhihu.com/question/337336182	利拉德真的是个超级球星吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 38304174	1449544364	1449544364	https://www.zhihu.com/question/38304174	NBA历史上有哪些昙花一现的球员？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 333580318	1562396257	1562396257	https://www.zhihu.com/question/333580318	为什么伦纳德宁愿签约快船也不去湖人？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 319443955	1554814330	1554814330	https://www.zhihu.com/question/319443955	为什么詹姆斯在部分球迷眼里算不上历史前五？
+QUESTION 338414655	1564762000	1564762000	https://www.zhihu.com/question/338414655	给一个普通身体的黄种人接受一年的nba球员专业训练 会有什么样的改变?
+QUESTION 337493093	1564368788	1564368788	https://www.zhihu.com/question/337493093	维金斯被高估了吗？
+QUESTION 338438336	1564794305	1564794305	https://www.zhihu.com/question/338438336	相比较同期的老詹，安东尼的每一次决定是否都不够有远见？
+QUESTION 334244730	1562741043	1562741043	https://www.zhihu.com/question/334244730	NBA 各个位置的历史前五排名是怎样的？
+QUESTION 331111224	1561366134	1561366134	https://www.zhihu.com/question/331111224	詹姆斯算超巨吗?
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 34943847	1440325897	1440325897	https://www.zhihu.com/question/34943847	一世英名的科比算不算是晚景凄凉？
+QUESTION 309919845	1548139478	1548139478	https://www.zhihu.com/question/309919845	你看 NBA 以来见过哪些离奇的失误？
+QUESTION 334788893	1563025565	1563025565	https://www.zhihu.com/question/334788893	如果让你获得一个 NBA 球星的绝招，你会选哪个?
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 335474182	1563375493	1563375493	https://www.zhihu.com/question/335474182	红衣主教、波波、杰克逊、莱利，谁才是NBA最伟大的教练？
+QUESTION 326863632	1559118547	1559118547	https://www.zhihu.com/question/326863632	NBA 历史上，同一队的哪两位球员巅峰期不重合最遗憾？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 38589118	1450268251	1450268251	https://www.zhihu.com/question/38589118	假设科比退役后湖人在斯台普斯中心前树立一座雕像，会使用科比哪一个经典动作？
+QUESTION 337292705	1564252158	1564252158	https://www.zhihu.com/question/337292705	保罗究竟是什么样的球员，为什么职业生涯一度受好评甚至可能进名人堂?
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 315291477	1552156559	1552156559	https://www.zhihu.com/question/315291477	为什么有这么多人不喜欢詹姆斯·哈登？
+QUESTION 338098875	1564627560	1564627560	https://www.zhihu.com/question/338098875	湖人下赛季空接会很多吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 337692063	1564451821	1564451821	https://www.zhihu.com/question/337692063	詹姆斯对卡哇伊说“出两年后湖人是你的”，抱着怎样的心态？是真的不想卡哇伊来湖人么？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 336709005	1563967210	1563967210	https://www.zhihu.com/question/336709005	如何评价戈登·海沃德，他有什么特点和故事？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 326473989	1558974492	1558974492	https://www.zhihu.com/question/326473989	NBA 哪些球星拥有超强的特长?
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 338104300	1564629284	1564629284	https://www.zhihu.com/question/338104300	如何很多人提及奥尼尔，却忽略了当年季后赛他打败了巅峰期的乔丹？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338100129	1564627936	1564627936	https://www.zhihu.com/question/338100129	大卫斯特恩为NBA做出什么贡献，比乔丹贡献大吗？
+QUESTION 330271962	1560994567	1560994567	https://www.zhihu.com/question/330271962	勒布朗詹姆斯是联盟捧出来的吗？
+QUESTION 326473989	1558974492	1558974492	https://www.zhihu.com/question/326473989	NBA 哪些球星拥有超强的特长?
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 283997654	1530774542	1530774542	https://www.zhihu.com/question/283997654	NBA历史球员中，有多少人可以算超巨（超级巨星）？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 65360557	1505404943	1505404943	https://www.zhihu.com/question/65360557	NBA 里心态很差的球员都有谁？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 326473989	1558974492	1558974492	https://www.zhihu.com/question/326473989	NBA 哪些球星拥有超强的特长?
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 334788893	1563025565	1563025565	https://www.zhihu.com/question/334788893	如果让你获得一个 NBA 球星的绝招，你会选哪个?
+QUESTION 338297088	1564716275	1564716275	https://www.zhihu.com/question/338297088	如何评价克莱18年夺冠后：很庆幸终于不用防欧文了，他真的很难防？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337713996	1564457439	1564457439	https://www.zhihu.com/question/337713996	一个nba级别的球星十年不碰篮球要多久可以恢复之前的状态？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337550810	1564388124	1564388124	https://www.zhihu.com/question/337550810	NBA 哪个位置的竞争最激烈，为什么？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338395679	1564754768	1564754768	https://www.zhihu.com/question/338395679	安东尼还有机会回到 NBA 吗？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 31294358	1434282291	1434282291	https://www.zhihu.com/question/31294358	为什么乔丹是篮球之神?
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 335402374	1563348649	1563348649	https://www.zhihu.com/question/335402374	NBA历史上有哪些没有冠军，但又令人记忆深刻，或悲壮、或感人的球队（球员）呢？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 338102722	1564628767	1564628767	https://www.zhihu.com/question/338102722	为什么科比认为麦迪最难防守？
+QUESTION 323261561	1557197450	1557197450	https://www.zhihu.com/question/323261561	马刺培养球员的能力是否被高估?
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 39282777	1452229954	1452229954	https://www.zhihu.com/question/39282777	你心中的 NBA 历史前五都是谁？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 333245789	1562217151	1562217151	https://www.zhihu.com/question/333245789	伦纳德为什么迟迟不决定下家？
+QUESTION 333580318	1562396257	1562396257	https://www.zhihu.com/question/333580318	为什么伦纳德宁愿签约快船也不去湖人？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338104300	1564629284	1564629284	https://www.zhihu.com/question/338104300	如何很多人提及奥尼尔，却忽略了当年季后赛他打败了巅峰期的乔丹？
+QUESTION 335610710	1563444809	1563444809	https://www.zhihu.com/question/335610710	NBA 有哪些看似平平无奇、实际上「细思恐极」的数据和瞬间？
+QUESTION 338084194	1564622585	1564622585	https://www.zhihu.com/question/338084194	26岁时的邓肯和浓眉谁的得分能力强？
+QUESTION 335163999	1563241049	1563241049	https://www.zhihu.com/question/335163999	NBA 2K20 前二十能力值公布，詹姆斯伦纳德并列第一，你有什么看法？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 39027970	1451484092	1451484092	https://www.zhihu.com/question/39027970	如何理智的告诉吉诺比利的球迷马努其实并没有那么强？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 338089395	1564624504	1564624504	https://www.zhihu.com/question/338089395	杜兰特下赛季能打吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 338265197	1564706770	1564706770	https://www.zhihu.com/question/338265197	身体条件大鲨鱼奥尼尔，如果对篮球的态度有科比那么执着，会不会成为历史第一人？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337979106	1564564917	1564564917	https://www.zhihu.com/question/337979106	从如今看来，维金斯配得上状元吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 338301892	1564717981	1564717981	https://www.zhihu.com/question/338301892	为什么有的nba球员比如伦纳德和东契奇，看起来动作很卡顿、不流畅或笨重，不是很快但仍然可以过人？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 306953829	1545745151	1545745151	https://www.zhihu.com/question/306953829	科比在篮球方面有什么弱点吗？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 306953829	1545745151	1545745151	https://www.zhihu.com/question/306953829	科比在篮球方面有什么弱点吗？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 306953829	1545745151	1545745151	https://www.zhihu.com/question/306953829	科比在篮球方面有什么弱点吗？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337592980	1564397075	1564397075	https://www.zhihu.com/question/337592980	你和篮球明星有哪些近距离的「亲密接触」？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 309752242	1547998263	1547998263	https://www.zhihu.com/question/309752242	现在的欧文和巅峰期的韦德谁更强一点？
+QUESTION 335457403	1563369695	1563369695	https://www.zhihu.com/question/335457403	NBA里有哪些擅长大防小的球员?
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 30137779	1430888414	1430888414	https://www.zhihu.com/question/30137779	斯蒂芬库里的投篮姿势是否能被称为“教科书”式的投篮姿势？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338263174	1564705669	1564705669	https://www.zhihu.com/question/338263174	如何评价大卫格里芬：在骑士围绕詹姆斯建队是非常痛苦的（miserable）？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 333580318	1562396257	1562396257	https://www.zhihu.com/question/333580318	为什么伦纳德宁愿签约快船也不去湖人？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 309217777	1547545692	1547545692	https://www.zhihu.com/question/309217777	我们应该怎么评价麦迪的 35 秒 13 分？
+QUESTION 336252813	1563771757	1563771757	https://www.zhihu.com/question/336252813	这几个球员会有球队退役球衣吗？
+QUESTION 337292705	1564252158	1564252158	https://www.zhihu.com/question/337292705	保罗究竟是什么样的球员，为什么职业生涯一度受好评甚至可能进名人堂?
+QUESTION 338102722	1564628767	1564628767	https://www.zhihu.com/question/338102722	为什么科比认为麦迪最难防守？
+QUESTION 319011561	1554535432	1554535432	https://www.zhihu.com/question/319011561	如果艾弗森现在进入联盟会怎样？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 334135129	1562680382	1562680382	https://www.zhihu.com/question/334135129	都说伦纳德做的没毛病，伦纳德是精英那么精英做的事你们谁敢模仿一下呀？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 319011561	1554535432	1554535432	https://www.zhihu.com/question/319011561	如果艾弗森现在进入联盟会怎样？
+QUESTION 330629319	1561176893	1561176893	https://www.zhihu.com/question/330629319	世界顶级运动员（如NBA球星）在场下会乱花钱吗?
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 335616579	1563447175	1563447175	https://www.zhihu.com/question/335616579	詹姆斯第一次总决赛失冠后，为什么去到哪里都想组三巨头呢？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 317554737	1553587206	1553587206	https://www.zhihu.com/question/317554737	NBA 有哪些经久不衰的谣言？
+QUESTION 338104300	1564629284	1564629284	https://www.zhihu.com/question/338104300	如何很多人提及奥尼尔，却忽略了当年季后赛他打败了巅峰期的乔丹？
+QUESTION 338294338	1564715546	1564715546	https://www.zhihu.com/question/338294338	你知道哪些nba球星的庆祝动作？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 335539372	1563420379	1563420379	https://www.zhihu.com/question/335539372	是丹尼格林厉害还是雷迪克厉害，要如何对比这两名球员？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 329625533	1560650700	1560650700	https://www.zhihu.com/question/329625533	如果把乔丹、奥尼尔和邓肯放到现在的 NBA，他们还能那么厉害吗？
+QUESTION 338278040	1564711991	1564711991	https://www.zhihu.com/question/338278040	NBA超巨是怎么定位的？
+QUESTION 302945285	1542620783	1542620783	https://www.zhihu.com/question/302945285	麦迪在巅峰期是否是和科比一个档次的球员？
+QUESTION 290561359	1534413056	1534413056	https://www.zhihu.com/question/290561359	姚明在 NBA 的能力是否被高估了？
+QUESTION 338294096	1564715509	1564715509	https://www.zhihu.com/question/338294096	基德在历史上是个什么级别的控卫？
+QUESTION 314590102	1551703890	1551703890	https://www.zhihu.com/question/314590102	请问我们是否过分高估詹姆斯了？该如何评价詹姆斯的职业态度和职业操守？
+QUESTION 285881226	1531966122	1531966122	https://www.zhihu.com/question/285881226	如何评价NBA球星科怀-莱昂纳德？
+QUESTION 338263179	1564705669	1564705669	https://www.zhihu.com/question/338263179	今年为什么那么多nba球星退出梦之队？
+QUESTION 338057651	1564590830	1564590830	https://www.zhihu.com/question/338057651	如果姚明是90年代登陆NBA，有没有可能在当时长人林立的情况下打出一片天甚至取代四大中锋中某一两位？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338319307	1564724711	1564724711	https://www.zhihu.com/question/338319307	知乎上为什么有这种人?就因为支持了一下自己喜欢的球星？
+QUESTION 309312996	1547625855	1547625855	https://www.zhihu.com/question/309312996	NBA 历史上，哪些画面才能被真正奉为经典？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 338101614	1564628407	1564628407	https://www.zhihu.com/question/338101614	奥尼尔、詹姆斯和科比选秀状元会是谁？
+QUESTION 22432452	1388678783	1388678783	https://www.zhihu.com/question/22432452	你所知道的最冷的 NBA 知识是什么？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 28890242	1426763408	1426763408	https://www.zhihu.com/question/28890242	打篮球时通过哪些细节可以看出一个人水平？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 302842942	1542540069	1542540069	https://www.zhihu.com/question/302842942	斯蒂芬库里为什么拿不到FMVP？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338294113	1564715510	1564715510	https://www.zhihu.com/question/338294113	「抗伤病能力」是否也是球员实力的一部分？
+QUESTION 338084194	1564622585	1564622585	https://www.zhihu.com/question/338084194	26岁时的邓肯和浓眉谁的得分能力强？
+QUESTION 338319307	1564724711	1564724711	https://www.zhihu.com/question/338319307	知乎上为什么有这种人?就因为支持了一下自己喜欢的球星？
+QUESTION 338103472	1564629013	1564629013	https://www.zhihu.com/question/338103472	你心目中的nba历史十大分位排名？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 333813447	1562518304	1562518304	https://www.zhihu.com/question/333813447	为什么湖人在拥有勒布朗和浓眉的情况下还要那么执着的追求莱昂纳德？
+QUESTION 290561359	1534413056	1534413056	https://www.zhihu.com/question/290561359	姚明在 NBA 的能力是否被高估了？
+QUESTION 336395224	1563843052	1563843052	https://www.zhihu.com/question/336395224	NBA 球星陆续退出美国男篮，是否可以说美国人的家国意识比较淡薄?
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 333580318	1562396257	1562396257	https://www.zhihu.com/question/333580318	为什么伦纳德宁愿签约快船也不去湖人？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 338319307	1564724711	1564724711	https://www.zhihu.com/question/338319307	知乎上为什么有这种人?就因为支持了一下自己喜欢的球星？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 318940395	1554475128	1554475128	https://www.zhihu.com/question/318940395	为什么 NBA 巨星的儿子往往打不出名堂？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 337493093	1564368788	1564368788	https://www.zhihu.com/question/337493093	维金斯被高估了吗？
+QUESTION 269109368	1521458727	1521458727	https://www.zhihu.com/question/269109368	在大家各自的心目中，NBA 各队的队史 No.1 都是谁呢？
+QUESTION 337305800	1564275268	1564275268	https://www.zhihu.com/question/337305800	如何看待林书豪泪洒记者会?
+QUESTION 334244730	1562741043	1562741043	https://www.zhihu.com/question/334244730	NBA 各个位置的历史前五排名是怎样的？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 336537076	1563888303	1563888303	https://www.zhihu.com/question/336537076	你觉得 NBA 最被低估的球星都有谁？为什么？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 20057508	1328800526	1328800526	https://www.zhihu.com/question/20057508	如何评价拉尔夫·桑普森这名球员？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 338263174	1564705669	1564705669	https://www.zhihu.com/question/338263174	如何评价大卫格里芬：在骑士围绕詹姆斯建队是非常痛苦的（miserable）？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 338301892	1564717981	1564717981	https://www.zhihu.com/question/338301892	为什么有的nba球员比如伦纳德和东契奇，看起来动作很卡顿、不流畅或笨重，不是很快但仍然可以过人？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338310268	1564721119	1564721119	https://www.zhihu.com/question/338310268	和 NBA 球星单挑是什么体验？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 335857224	1563565063	1563565063	https://www.zhihu.com/question/335857224	你最喜欢 NBA 里的哪位球星，为什么喜欢他？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 333058130	1562130206	1562130206	https://www.zhihu.com/question/333058130	在 NBA ，到底怎样才算「攻防一体」？
+QUESTION 335474182	1563375493	1563375493	https://www.zhihu.com/question/335474182	红衣主教、波波、杰克逊、莱利，谁才是NBA最伟大的教练？
+QUESTION 333762593	1562497478	1562497478	https://www.zhihu.com/question/333762593	为什么野球场上看不到有人穿乔丹球衣?
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 338101614	1564628407	1564628407	https://www.zhihu.com/question/338101614	奥尼尔、詹姆斯和科比选秀状元会是谁？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 328821059	1560220369	1560220369	https://www.zhihu.com/question/328821059	这是哪个NBA球星？
+QUESTION 336371762	1563812519	1563812519	https://www.zhihu.com/question/336371762	NBA球员在比赛中急需排泄会怎么办？
+QUESTION 312189124	1550109891	1550109891	https://www.zhihu.com/question/312189124	斯蒂芬·库里有没有可能成为 NBA 历史地位前十的球员？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 48144925	1467627860	1467627860	https://www.zhihu.com/question/48144925	詹姆斯和莱利谁更精明？就目前看来。？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 338278040	1564711991	1564711991	https://www.zhihu.com/question/338278040	NBA超巨是怎么定位的？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 302842942	1542540069	1542540069	https://www.zhihu.com/question/302842942	斯蒂芬库里为什么拿不到FMVP？
+QUESTION 330687978	1561203876	1561203876	https://www.zhihu.com/question/330687978	詹姆斯能排进 NBA 历史前三吗？
+QUESTION 338292681	1564715229	1564715229	https://www.zhihu.com/question/338292681	有哪些球星新秀赛季就有季后赛打，还打得很好的？
+QUESTION 335492981	1563384218	1563384218	https://www.zhihu.com/question/335492981	一个新秀赛季场均30.2分，1板，1助，0.4断，0.2盖的控卫在联盟中会获得怎样评价？
+QUESTION 21223065	1371563240	1371563240	https://www.zhihu.com/question/21223065	NBA 史上突破能力最强的球员是谁？
+QUESTION 337770943	1564477691	1564477691	https://www.zhihu.com/question/337770943	有哪些 NBA 球员的巅峰特别短，但是让人印象特别深刻？
+QUESTION 337550810	1564388124	1564388124	https://www.zhihu.com/question/337550810	NBA 哪个位置的竞争最激烈，为什么？
+QUESTION 338294113	1564715510	1564715510	https://www.zhihu.com/question/338294113	「抗伤病能力」是否也是球员实力的一部分？
+QUESTION 338294113	1564715510	1564715510	https://www.zhihu.com/question/338294113	「抗伤病能力」是否也是球员实力的一部分？
+QUESTION 337593456	1564397240	1564397240	https://www.zhihu.com/question/337593456	NBA 有哪些非常有趣的球员？
+QUESTION 22805504	1392911900	1392911900	https://www.zhihu.com/question/22805504	CBA 的后卫到底是个什么水平？
+QUESTION 337472587	1564361726	1564361726	https://www.zhihu.com/question/337472587	库里打球真的「脏」吗？
+QUESTION 338120996	1564635181	1564635181	https://www.zhihu.com/question/338120996	如果NBA总决赛抢七落后一分，绝杀球你会给谁？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 333685243	1562464067	1562464067	https://www.zhihu.com/question/333685243	如果雷霆真的要交易威少，你认为威少更适合去哪只球队？
+QUESTION 335330686	1563321795	1563321795	https://www.zhihu.com/question/335330686	如何评论 NBA 球星约基奇？
+QUESTION 266357353	1517219919	1517219919	https://www.zhihu.com/question/266357353	为什么现在很多球迷都根本不认为姚明很强？如何看待这种现象？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 338263179	1564705669	1564705669	https://www.zhihu.com/question/338263179	今年为什么那么多nba球星退出梦之队？
+QUESTION 338278040	1564711991	1564711991	https://www.zhihu.com/question/338278040	NBA超巨是怎么定位的？
+QUESTION 338271108	1564709456	1564709456	https://www.zhihu.com/question/338271108	如果老詹在西部再没进过总决赛，历史地位会下降吗？
+QUESTION 333867129	1562558503	1562558503	https://www.zhihu.com/question/333867129	乔丹虽然厉害，但詹姆斯也是传奇，为何这么多人黑他？
+QUESTION 334983292	1563149359	1563149359	https://www.zhihu.com/question/334983292	为什么现在 NBA 没有新秀的模板是科比？
+QUESTION 337409541	1564317024	1564317024	https://www.zhihu.com/question/337409541	为什么感觉科比在总决赛没有力挽狂澜的表现？大家怎么看呢？
+QUESTION 334894487	1563092277	1563092277	https://www.zhihu.com/question/334894487	有没有人能和巅峰姚明五五开？
+QUESTION 338270156	1564709032	1564709032	https://www.zhihu.com/question/338270156	一提到后卫出身的内线，你最先想到哪位NBA球员？
+QUESTION 338097816	1564627213	1564627213	https://www.zhihu.com/question/338097816	安东尼和德雷蒙德·格林，谁的历史地位更高？
+QUESTION 337493093	1564368788	1564368788	https://www.zhihu.com/question/337493093	维金斯被高估了吗？
