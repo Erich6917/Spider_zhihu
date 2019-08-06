@@ -1,0 +1,589 @@
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 326791614	1559100368	1559100368	https://www.zhihu.com/question/326791614	请问桥牌各位大佬什么是六级询问叫?
+QUESTION 322769881	1556886278	1556886278	https://www.zhihu.com/question/322769881	万智牌和桥牌哪个难度更大啊？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 323899111	1557559225	1557559225	https://www.zhihu.com/question/323899111	如何在生活中找到桥牌圈子？
+QUESTION 330498706	1561103366	1561103366	https://www.zhihu.com/question/330498706	桥牌和德扑是不是有很多方面的类似?
+QUESTION 332181659	1561720802	1561720802	https://www.zhihu.com/question/332181659	怎么写桥牌?第六排写啥？
+QUESTION 330649954	1561186853	1561186853	https://www.zhihu.com/question/330649954	桥牌 2方块开叫 怎么应叫桥牌?
+QUESTION 330649954	1561186853	1561186853	https://www.zhihu.com/question/330649954	桥牌 2方块开叫 怎么应叫桥牌?
+QUESTION 330649954	1561186853	1561186853	https://www.zhihu.com/question/330649954	桥牌 2方块开叫 怎么应叫桥牌?
+QUESTION 330649954	1561186853	1561186853	https://www.zhihu.com/question/330649954	桥牌 2方块开叫 怎么应叫桥牌?
+QUESTION 330498706	1561103366	1561103366	https://www.zhihu.com/question/330498706	桥牌和德扑是不是有很多方面的类似?
+QUESTION 58149768	1491541455	1491541455	https://www.zhihu.com/question/58149768	有哪些可以在线玩的桥牌游戏（不是和机器人打的那种，和真人玩的）？
+QUESTION 328104514	1559804998	1559804998	https://www.zhihu.com/question/328104514	麻烦编两副对打的桥 并解释怎么打 谢谢?
+QUESTION 328104514	1559804998	1559804998	https://www.zhihu.com/question/328104514	麻烦编两副对打的桥 并解释怎么打 谢谢?
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 326791614	1559100368	1559100368	https://www.zhihu.com/question/326791614	请问桥牌各位大佬什么是六级询问叫?
+QUESTION 322769881	1556886278	1556886278	https://www.zhihu.com/question/322769881	万智牌和桥牌哪个难度更大啊？
+QUESTION 51978068	1477410358	1477410358	https://www.zhihu.com/question/51978068	桥牌的叫牌体系和桥牌语言具体有哪些内容？牌型点对一副牌的影响到底有多大？
+QUESTION 326791614	1559100368	1559100368	https://www.zhihu.com/question/326791614	请问桥牌各位大佬什么是六级询问叫?
+QUESTION 322769881	1556886278	1556886278	https://www.zhihu.com/question/322769881	万智牌和桥牌哪个难度更大啊？
+QUESTION 323899111	1557559225	1557559225	https://www.zhihu.com/question/323899111	如何在生活中找到桥牌圈子？
+QUESTION 48421944	1468327268	1468327268	https://www.zhihu.com/question/48421944	现在最新的桥牌ai算法是什么呢？
+QUESTION 323899111	1557559225	1557559225	https://www.zhihu.com/question/323899111	如何在生活中找到桥牌圈子？
+QUESTION 307938923	1546537957	1546537957	https://www.zhihu.com/question/307938923	桥牌中一黑桃是怎样的一个叫品？
+QUESTION 310366353	1548507460	1548507460	https://www.zhihu.com/question/310366353	在你以往的桥牌对局中，有哪些令你感到印象深刻or不可思议的牌例？
+QUESTION 315180376	1552099120	1552099120	https://www.zhihu.com/question/315180376	庄家避免自己的副牌花色赢墩被对方将吃的主要方法是什么？
+QUESTION 319559036	1554886576	1554886576	https://www.zhihu.com/question/319559036	这该怎么叫牌？
+QUESTION 322118931	1556452581	1556452581	https://www.zhihu.com/question/322118931	黑桃是将牌，西（w）首攻Hk然后转打S8，南（s）如何赢12墩？
+QUESTION 323899111	1557559225	1557559225	https://www.zhihu.com/question/323899111	如何在生活中找到桥牌圈子？
+QUESTION 323899111	1557559225	1557559225	https://www.zhihu.com/question/323899111	如何在生活中找到桥牌圈子？
+QUESTION 322769881	1556886278	1556886278	https://www.zhihu.com/question/322769881	万智牌和桥牌哪个难度更大啊？
+QUESTION 323147747	1557125626	1557125626	https://www.zhihu.com/question/323147747	在凤投会与巴菲特打桥牌是什么体验？
+QUESTION 322769881	1556886278	1556886278	https://www.zhihu.com/question/322769881	万智牌和桥牌哪个难度更大啊？
+QUESTION 319559036	1554886576	1554886576	https://www.zhihu.com/question/319559036	这该怎么叫牌？
+QUESTION 319559036	1554886576	1554886576	https://www.zhihu.com/question/319559036	这该怎么叫牌？
+QUESTION 319559036	1554886576	1554886576	https://www.zhihu.com/question/319559036	这该怎么叫牌？
+QUESTION 319267959	1554710070	1554710070	https://www.zhihu.com/question/319267959	桥牌在有将时大小:将牌是黑桃，然后NESW四家依次打出H3,D4,C5,D6,那么这一墩应该算谁赢呢?
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 317344166	1553452149	1553452149	https://www.zhihu.com/question/317344166	我的目的是让思维习惯性的富有逻辑和高度严谨，因为游戏比教材有趣，所以问问，打桥牌能否替代看逻辑学教材？
+QUESTION 317344166	1553452149	1553452149	https://www.zhihu.com/question/317344166	我的目的是让思维习惯性的富有逻辑和高度严谨，因为游戏比教材有趣，所以问问，打桥牌能否替代看逻辑学教材？
+QUESTION 317344166	1553452149	1553452149	https://www.zhihu.com/question/317344166	我的目的是让思维习惯性的富有逻辑和高度严谨，因为游戏比教材有趣，所以问问，打桥牌能否替代看逻辑学教材？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 317344166	1553452149	1553452149	https://www.zhihu.com/question/317344166	我的目的是让思维习惯性的富有逻辑和高度严谨，因为游戏比教材有趣，所以问问，打桥牌能否替代看逻辑学教材？
+QUESTION 49029468	1469781561	1469781561	https://www.zhihu.com/question/49029468	和自己的另一半搭档打桥牌是怎么样的体验？
+QUESTION 47354660	1465712183	1465712183	https://www.zhihu.com/question/47354660	要打好桥牌，需要懂那些技巧？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 310364983	1548506482	1548506482	https://www.zhihu.com/question/310364983	联手30个大牌点，却只能眼睁睁看敌人打7C定约是种什么感受？
+QUESTION 282429116	1529893144	1529893144	https://www.zhihu.com/question/282429116	学习桥牌你都有那些心得？
+QUESTION 34767908	1439884574	1439884574	https://www.zhihu.com/question/34767908	中国的顶尖桥牌水平和世界顶尖桥牌水平差距有多大？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 40341204	1455349002	1455349002	https://www.zhihu.com/question/40341204	某睿桥牌在桥牌圈里面的影响力大吗？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 20483265	1347849652	1347849652	https://www.zhihu.com/question/20483265	国内桥牌圈子主要是一些什么样的人组成的？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 48421944	1468327268	1468327268	https://www.zhihu.com/question/48421944	现在最新的桥牌ai算法是什么呢？
+QUESTION 308460189	1546947422	1546947422	https://www.zhihu.com/question/308460189	桥牌与逻辑思维都学什么？
+QUESTION 25031914	1409282608	1409282608	https://www.zhihu.com/question/25031914	你从麻将、扑克中悟出了哪些人生道理？
+QUESTION 268527677	1520684556	1520684556	https://www.zhihu.com/question/268527677	德扑、桥牌、麻将、斗地主哪个更经典，知名度更高？
+QUESTION 306535712	1545407360	1545407360	https://www.zhihu.com/question/306535712	玛尔加尼斯为什么被叫做二王？
+QUESTION 303990893	1543416744	1543416744	https://www.zhihu.com/question/303990893	为什么有时候拿了一手低花6-7张的长套或者5张高花套也要开叫无将？
+QUESTION 268527677	1520684556	1520684556	https://www.zhihu.com/question/268527677	德扑、桥牌、麻将、斗地主哪个更经典，知名度更高？
+QUESTION 276342453	1525754481	1525754481	https://www.zhihu.com/question/276342453	桥牌中，打不成 7NT 的联手大牌点最大可能是多少？
+QUESTION 284768634	1531283634	1531283634	https://www.zhihu.com/question/284768634	打贴点制桥牌有什么坏处吗？
+QUESTION 304164281	1543557599	1543557599	https://www.zhihu.com/question/304164281	「桥牌」是什么？
+QUESTION 299796099	1540360707	1540360707	https://www.zhihu.com/question/299796099	为什么叫3NT后同伴叫5NT（CCBA自然叫牌体系）？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 299796099	1540360707	1540360707	https://www.zhihu.com/question/299796099	为什么叫3NT后同伴叫5NT（CCBA自然叫牌体系）？
+QUESTION 300792533	1540997088	1540997088	https://www.zhihu.com/question/300792533	下图首攻怎样打？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 299796099	1540360707	1540360707	https://www.zhihu.com/question/299796099	为什么叫3NT后同伴叫5NT（CCBA自然叫牌体系）？
+QUESTION 299796099	1540360707	1540360707	https://www.zhihu.com/question/299796099	为什么叫3NT后同伴叫5NT（CCBA自然叫牌体系）？
+QUESTION 299403633	1540101201	1540101201	https://www.zhihu.com/question/299403633	象棋和桥牌还有口才与演讲是哪个更好选修课的话？
+QUESTION 298774265	1539685605	1539685605	https://www.zhihu.com/question/298774265	如何理解宁在成局定约中宕掉，也不止步于部分定约？
+QUESTION 298774265	1539685605	1539685605	https://www.zhihu.com/question/298774265	如何理解宁在成局定约中宕掉，也不止步于部分定约？
+QUESTION 298774265	1539685605	1539685605	https://www.zhihu.com/question/298774265	如何理解宁在成局定约中宕掉，也不止步于部分定约？
+QUESTION 298774265	1539685605	1539685605	https://www.zhihu.com/question/298774265	如何理解宁在成局定约中宕掉，也不止步于部分定约？
+QUESTION 298774265	1539685605	1539685605	https://www.zhihu.com/question/298774265	如何理解宁在成局定约中宕掉，也不止步于部分定约？
+QUESTION 298774265	1539685605	1539685605	https://www.zhihu.com/question/298774265	如何理解宁在成局定约中宕掉，也不止步于部分定约？
+QUESTION 297187483	1538655306	1538655306	https://www.zhihu.com/question/297187483	在自然叫牌体系中，如果拿了一手28点以上的均型牌该如何开叫？
+QUESTION 297187483	1538655306	1538655306	https://www.zhihu.com/question/297187483	在自然叫牌体系中，如果拿了一手28点以上的均型牌该如何开叫？
+QUESTION 297187483	1538655306	1538655306	https://www.zhihu.com/question/297187483	在自然叫牌体系中，如果拿了一手28点以上的均型牌该如何开叫？
+QUESTION 297187483	1538655306	1538655306	https://www.zhihu.com/question/297187483	在自然叫牌体系中，如果拿了一手28点以上的均型牌该如何开叫？
+QUESTION 296433967	1538121082	1538121082	https://www.zhihu.com/question/296433967	桥牌思想与数学思想有何联系？
+QUESTION 296433967	1538121082	1538121082	https://www.zhihu.com/question/296433967	桥牌思想与数学思想有何联系？
+QUESTION 276342453	1525754481	1525754481	https://www.zhihu.com/question/276342453	桥牌中，打不成 7NT 的联手大牌点最大可能是多少？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 296025783	1537860152	1537860152	https://www.zhihu.com/question/296025783	桥牌社团管理与发展？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 292332612	1535433622	1535433622	https://www.zhihu.com/question/292332612	桥牌遇上猪一样的搭档是一种什么体验？
+QUESTION 64484551	1503740924	1503740924	https://www.zhihu.com/question/64484551	桥牌拥有什么样的魔力让你奋斗不息？
+QUESTION 52799396	1479581057	1479581057	https://www.zhihu.com/question/52799396	如果升级（也叫双升，拖拉机）的规则改成庄家的对家一上来就展示所有手牌，由庄家代打，会对庄家更有利吗？
+QUESTION 292332612	1535433622	1535433622	https://www.zhihu.com/question/292332612	桥牌遇上猪一样的搭档是一种什么体验？
+QUESTION 293283915	1535994078	1535994078	https://www.zhihu.com/question/293283915	桥牌真的对孩子智力有帮助嘛？
+QUESTION 293283915	1535994078	1535994078	https://www.zhihu.com/question/293283915	桥牌真的对孩子智力有帮助嘛？
+QUESTION 293283915	1535994078	1535994078	https://www.zhihu.com/question/293283915	桥牌真的对孩子智力有帮助嘛？
+QUESTION 293283915	1535994078	1535994078	https://www.zhihu.com/question/293283915	桥牌真的对孩子智力有帮助嘛？
+QUESTION 34767908	1439884574	1439884574	https://www.zhihu.com/question/34767908	中国的顶尖桥牌水平和世界顶尖桥牌水平差距有多大？
+QUESTION 39739576	1453453123	1453453123	https://www.zhihu.com/question/39739576	如何评价CCBA自然叫牌体系？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 22174582	1386022159	1386022159	https://www.zhihu.com/question/22174582	想送一份比较特别的桥牌为主题的礼物给未来岳父（狂热型桥牌爱好者），桥牌书籍除外，请问有什么好推荐？
+QUESTION 31524757	1434976931	1434976931	https://www.zhihu.com/question/31524757	中国还有人玩桥牌吗?
+QUESTION 292332612	1535433622	1535433622	https://www.zhihu.com/question/292332612	桥牌遇上猪一样的搭档是一种什么体验？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 290426116	1534334632	1534334632	https://www.zhihu.com/question/290426116	概率题：桥牌比赛中，52张牌发给东西南北四家，每家13张牌，求北家分到的13张牌中四种花色都有的概率？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 286150415	1532100071	1532100071	https://www.zhihu.com/question/286150415	桥牌等长度法则是什么？
+QUESTION 287798602	1533031984	1533031984	https://www.zhihu.com/question/287798602	怎么玩桥牌？
+QUESTION 287798602	1533031984	1533031984	https://www.zhihu.com/question/287798602	怎么玩桥牌？
+QUESTION 287798602	1533031984	1533031984	https://www.zhihu.com/question/287798602	怎么玩桥牌？
+QUESTION 284768634	1531283634	1531283634	https://www.zhihu.com/question/284768634	打贴点制桥牌有什么坏处吗？
+QUESTION 284768634	1531283634	1531283634	https://www.zhihu.com/question/284768634	打贴点制桥牌有什么坏处吗？
+QUESTION 282429116	1529893144	1529893144	https://www.zhihu.com/question/282429116	学习桥牌你都有那些心得？
+QUESTION 284768634	1531283634	1531283634	https://www.zhihu.com/question/284768634	打贴点制桥牌有什么坏处吗？
+QUESTION 284768634	1531283634	1531283634	https://www.zhihu.com/question/284768634	打贴点制桥牌有什么坏处吗？
+QUESTION 284768634	1531283634	1531283634	https://www.zhihu.com/question/284768634	打贴点制桥牌有什么坏处吗？
+QUESTION 282429116	1529893144	1529893144	https://www.zhihu.com/question/282429116	学习桥牌你都有那些心得？
+QUESTION 282429116	1529893144	1529893144	https://www.zhihu.com/question/282429116	学习桥牌你都有那些心得？
+QUESTION 280753176	1528792643	1528792643	https://www.zhihu.com/question/280753176	桥牌牌号9 局况EW 定约及定约人N-4S 得墩7 南北得分东西得分各是多少？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 275820739	1525402112	1525402112	https://www.zhihu.com/question/275820739	人工智能能打败桥牌吗？
+QUESTION 270498969	1522409333	1522409333	https://www.zhihu.com/question/270498969	在你玩牌类游戏的历史中，摸到过哪些神级好牌/烂牌？
+QUESTION 25031914	1409282608	1409282608	https://www.zhihu.com/question/25031914	你从麻将、扑克中悟出了哪些人生道理？
+QUESTION 276342453	1525754481	1525754481	https://www.zhihu.com/question/276342453	桥牌中，打不成 7NT 的联手大牌点最大可能是多少？
+QUESTION 275820739	1525402112	1525402112	https://www.zhihu.com/question/275820739	人工智能能打败桥牌吗？
+QUESTION 276342453	1525754481	1525754481	https://www.zhihu.com/question/276342453	桥牌中，打不成 7NT 的联手大牌点最大可能是多少？
+QUESTION 276342453	1525754481	1525754481	https://www.zhihu.com/question/276342453	桥牌中，打不成 7NT 的联手大牌点最大可能是多少？
+QUESTION 276342453	1525754481	1525754481	https://www.zhihu.com/question/276342453	桥牌中，打不成 7NT 的联手大牌点最大可能是多少？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 275820739	1525402112	1525402112	https://www.zhihu.com/question/275820739	人工智能能打败桥牌吗？
+QUESTION 275820739	1525402112	1525402112	https://www.zhihu.com/question/275820739	人工智能能打败桥牌吗？
+QUESTION 275820739	1525402112	1525402112	https://www.zhihu.com/question/275820739	人工智能能打败桥牌吗？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 273617958	1523941596	1523941596	https://www.zhihu.com/question/273617958	求推荐一些比较好的扑克牌生产厂家？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 271237786	1522967845	1522967845	https://www.zhihu.com/question/271237786	練習橋牌的app在哪裡能找到？
+QUESTION 20864256	1363694840	1363694840	https://www.zhihu.com/question/20864256	桥牌的规则是什么？
+QUESTION 46972827	1464741720	1464741720	https://www.zhihu.com/question/46972827	请问桥牌和东北的三打一相似吗？
+QUESTION 271237786	1522967845	1522967845	https://www.zhihu.com/question/271237786	練習橋牌的app在哪裡能找到？
+QUESTION 271492021	1523170122	1523170122	https://www.zhihu.com/question/271492021	哪个地区的人打牌叫Q为kun（queen）？
+QUESTION 271492021	1523170122	1523170122	https://www.zhihu.com/question/271492021	哪个地区的人打牌叫Q为kun（queen）？
+QUESTION 271237786	1522967845	1522967845	https://www.zhihu.com/question/271237786	練習橋牌的app在哪裡能找到？
+QUESTION 271237786	1522967845	1522967845	https://www.zhihu.com/question/271237786	練習橋牌的app在哪裡能找到？
+QUESTION 271237786	1522967845	1522967845	https://www.zhihu.com/question/271237786	練習橋牌的app在哪裡能找到？
+QUESTION 271237786	1522967845	1522967845	https://www.zhihu.com/question/271237786	練習橋牌的app在哪裡能找到？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 270498969	1522409333	1522409333	https://www.zhihu.com/question/270498969	在你玩牌类游戏的历史中，摸到过哪些神级好牌/烂牌？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 270498969	1522409333	1522409333	https://www.zhihu.com/question/270498969	在你玩牌类游戏的历史中，摸到过哪些神级好牌/烂牌？
+QUESTION 270498969	1522409333	1522409333	https://www.zhihu.com/question/270498969	在你玩牌类游戏的历史中，摸到过哪些神级好牌/烂牌？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 270498969	1522409333	1522409333	https://www.zhihu.com/question/270498969	在你玩牌类游戏的历史中，摸到过哪些神级好牌/烂牌？
+QUESTION 264460117	1513933615	1513933615	https://www.zhihu.com/question/264460117	在桥牌中，米切尔移位赛制是怎么样的？
+QUESTION 270498969	1522409333	1522409333	https://www.zhihu.com/question/270498969	在你玩牌类游戏的历史中，摸到过哪些神级好牌/烂牌？
+QUESTION 60181053	1495468068	1495468068	https://www.zhihu.com/question/60181053	请问浦东哪里有正规桥牌培训班？谢谢？
+QUESTION 36277477	1444239466	1444239466	https://www.zhihu.com/question/36277477	国内与桥牌相关的工作有什么？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 268527677	1520684556	1520684556	https://www.zhihu.com/question/268527677	德扑、桥牌、麻将、斗地主哪个更经典，知名度更高？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 53747973	1481988121	1481988121	https://www.zhihu.com/question/53747973	桥牌坐庄考试题，求解答？
+QUESTION 266921469	1518165125	1518165125	https://www.zhihu.com/question/266921469	桥牌怎么玩？是不是就是一副牌的升级？我看百度简直就脑子看不懂？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 265234588	1515321164	1515321164	https://www.zhihu.com/question/265234588	桥牌中的基础技术、中高级技术、高级技术分别有些什么？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 63028637	1501145126	1501145126	https://www.zhihu.com/question/63028637	ASDAN和铁未来比较那个更权威？
+QUESTION 263463100	1512148663	1512148663	https://www.zhihu.com/question/263463100	为什么桥牌中将牌4-4配合往往优于5-3配合？
+QUESTION 263463100	1512148663	1512148663	https://www.zhihu.com/question/263463100	为什么桥牌中将牌4-4配合往往优于5-3配合？
+QUESTION 263463100	1512148663	1512148663	https://www.zhihu.com/question/263463100	为什么桥牌中将牌4-4配合往往优于5-3配合？
+QUESTION 263463100	1512148663	1512148663	https://www.zhihu.com/question/263463100	为什么桥牌中将牌4-4配合往往优于5-3配合？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 64484551	1503740924	1503740924	https://www.zhihu.com/question/64484551	桥牌拥有什么样的魔力让你奋斗不息？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 65613139	1505899351	1505899351	https://www.zhihu.com/question/65613139	基础桥牌 求解答？
+QUESTION 22174582	1386022159	1386022159	https://www.zhihu.com/question/22174582	想送一份比较特别的桥牌为主题的礼物给未来岳父（狂热型桥牌爱好者），桥牌书籍除外，请问有什么好推荐？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 36887524	1445842964	1445842964	https://www.zhihu.com/question/36887524	有没有桥牌大神解答一下?
+QUESTION 52036046	1477560979	1477560979	https://www.zhihu.com/question/52036046	有没有会桥牌的大神？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 49212762	1470227706	1470227706	https://www.zhihu.com/question/49212762	为什么双升没有交叉将吃？
+QUESTION 62858320	1500858440	1500858440	https://www.zhihu.com/question/62858320	玩扑克牌时，为什么拖拉机或者联牌里面QKA可以，KA2就不可以呢？
+QUESTION 63585491	1502174201	1502174201	https://www.zhihu.com/question/63585491	桥牌比赛中分男女组别是不是性别歧视？
+QUESTION 63475496	1501976556	1501976556	https://www.zhihu.com/question/63475496	高考时桥牌自主招生的信息，哪些大学会有桥牌自主招生？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 63028637	1501145126	1501145126	https://www.zhihu.com/question/63028637	ASDAN和铁未来比较那个更权威？
+QUESTION 62858320	1500858440	1500858440	https://www.zhihu.com/question/62858320	玩扑克牌时，为什么拖拉机或者联牌里面QKA可以，KA2就不可以呢？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 58149768	1491541455	1491541455	https://www.zhihu.com/question/58149768	有哪些可以在线玩的桥牌游戏（不是和机器人打的那种，和真人玩的）？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 25554385	1411822962	1411822962	https://www.zhihu.com/question/25554385	为什么聂棋圣一直在BBO上逛？
+QUESTION 52799396	1479581057	1479581057	https://www.zhihu.com/question/52799396	如果升级（也叫双升，拖拉机）的规则改成庄家的对家一上来就展示所有手牌，由庄家代打，会对庄家更有利吗？
+QUESTION 38322511	1449576663	1449576663	https://www.zhihu.com/question/38322511	桥牌残局求解？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 20445185	1346036837	1346036837	https://www.zhihu.com/question/20445185	网球大满贯赛事来源于桥牌术语「grand slam」，为什么翻译成「满贯」？
+QUESTION 38322511	1449576663	1449576663	https://www.zhihu.com/question/38322511	桥牌残局求解？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 58368952	1491938368	1491938368	https://www.zhihu.com/question/58368952	桥牌扣叫问题——什么是在3NT以下的水平扣叫一新花色？
+QUESTION 58368952	1491938368	1491938368	https://www.zhihu.com/question/58368952	桥牌扣叫问题——什么是在3NT以下的水平扣叫一新花色？
+QUESTION 58368952	1491938368	1491938368	https://www.zhihu.com/question/58368952	桥牌扣叫问题——什么是在3NT以下的水平扣叫一新花色？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 57078584	1489460936	1489460936	https://www.zhihu.com/question/57078584	桥牌中“实质不同”的牌局数大约在哪个量级上？
+QUESTION 53737742	1481968488	1481968488	https://www.zhihu.com/question/53737742	求大神给一个解法！！？？
+QUESTION 53558788	1481534755	1481534755	https://www.zhihu.com/question/53558788	国内国外有什么比较著名的桥牌比赛？
+QUESTION 34767908	1439884574	1439884574	https://www.zhihu.com/question/34767908	中国的顶尖桥牌水平和世界顶尖桥牌水平差距有多大？
+QUESTION 53737742	1481968488	1481968488	https://www.zhihu.com/question/53737742	求大神给一个解法！！？？
+QUESTION 58368952	1491938368	1491938368	https://www.zhihu.com/question/58368952	桥牌扣叫问题——什么是在3NT以下的水平扣叫一新花色？
+QUESTION 58149768	1491541455	1491541455	https://www.zhihu.com/question/58149768	有哪些可以在线玩的桥牌游戏（不是和机器人打的那种，和真人玩的）？
+QUESTION 58149768	1491541455	1491541455	https://www.zhihu.com/question/58149768	有哪些可以在线玩的桥牌游戏（不是和机器人打的那种，和真人玩的）？
+QUESTION 58149768	1491541455	1491541455	https://www.zhihu.com/question/58149768	有哪些可以在线玩的桥牌游戏（不是和机器人打的那种，和真人玩的）？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 53558788	1481534755	1481534755	https://www.zhihu.com/question/53558788	国内国外有什么比较著名的桥牌比赛？
+QUESTION 51031194	1474888209	1474888209	https://www.zhihu.com/question/51031194	如何评价新睿桥牌这款app？
+QUESTION 52810122	1479623215	1479623215	https://www.zhihu.com/question/52810122	一个桥牌测试？求大神解答！！
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 20864256	1363694840	1363694840	https://www.zhihu.com/question/20864256	桥牌的规则是什么？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 55573341	1486553460	1486553460	https://www.zhihu.com/question/55573341	黑桃A图案中为什么有梅花？
+QUESTION 55573341	1486553460	1486553460	https://www.zhihu.com/question/55573341	黑桃A图案中为什么有梅花？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 47140753	1465172101	1465172101	https://www.zhihu.com/question/47140753	如何看待世界桥牌协会提出的新的VP表对队式赛策略的影响？
+QUESTION 49212762	1470227706	1470227706	https://www.zhihu.com/question/49212762	为什么双升没有交叉将吃？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 53737742	1481968488	1481968488	https://www.zhihu.com/question/53737742	求大神给一个解法！！？？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 53737742	1481968488	1481968488	https://www.zhihu.com/question/53737742	求大神给一个解法！！？？
+QUESTION 53842577	1482215791	1482215791	https://www.zhihu.com/question/53842577	这个桥牌怎么打……？
+QUESTION 51031194	1474888209	1474888209	https://www.zhihu.com/question/51031194	如何评价新睿桥牌这款app？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 53558788	1481534755	1481534755	https://www.zhihu.com/question/53558788	国内国外有什么比较著名的桥牌比赛？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 31524757	1434976931	1434976931	https://www.zhihu.com/question/31524757	中国还有人玩桥牌吗?
+QUESTION 52799396	1479581057	1479581057	https://www.zhihu.com/question/52799396	如果升级（也叫双升，拖拉机）的规则改成庄家的对家一上来就展示所有手牌，由庄家代打，会对庄家更有利吗？
+QUESTION 52799396	1479581057	1479581057	https://www.zhihu.com/question/52799396	如果升级（也叫双升，拖拉机）的规则改成庄家的对家一上来就展示所有手牌，由庄家代打，会对庄家更有利吗？
+QUESTION 52799396	1479581057	1479581057	https://www.zhihu.com/question/52799396	如果升级（也叫双升，拖拉机）的规则改成庄家的对家一上来就展示所有手牌，由庄家代打，会对庄家更有利吗？
+QUESTION 52683933	1479292700	1479292700	https://www.zhihu.com/question/52683933	能否简单讲一下桥牌的打法？
+QUESTION 52738966	1479436886	1479436886	https://www.zhihu.com/question/52738966	桥牌怎么玩？
+QUESTION 20864256	1363694840	1363694840	https://www.zhihu.com/question/20864256	桥牌的规则是什么？
+QUESTION 35845553	1442898145	1442898145	https://www.zhihu.com/question/35845553	如何看待 2015 年 8 月 24 日开始的桥牌革命？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 48724499	1469066562	1469066562	https://www.zhihu.com/question/48724499	现实中的两个人，怎么打桥牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 48132371	1467608351	1467608351	https://www.zhihu.com/question/48132371	請教這種情況用SAYC的最佳叫法？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 51066851	1474976819	1474976819	https://www.zhihu.com/question/51066851	如何看待桥牌进入2018年亚运会？
+QUESTION 33558709	1438091040	1438091040	https://www.zhihu.com/question/33558709	桥牌为什么火不起来了?
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 22852263	1393329329	1393329329	https://www.zhihu.com/question/22852263	怎样的桥牌社招新海报能够吸引你？
+QUESTION 48132371	1467608351	1467608351	https://www.zhihu.com/question/48132371	請教這種情況用SAYC的最佳叫法？
+QUESTION 49212762	1470227706	1470227706	https://www.zhihu.com/question/49212762	为什么双升没有交叉将吃？
+QUESTION 34666636	1439795949	1439795949	https://www.zhihu.com/question/34666636	桥牌中的中国式飞牌和中国有什么关系？
+QUESTION 48132371	1467608351	1467608351	https://www.zhihu.com/question/48132371	請教這種情況用SAYC的最佳叫法？
+QUESTION 45485685	1462402648	1462402648	https://www.zhihu.com/question/45485685	有哪些好的桥牌学习途径？最近在看微信公众号：bridge_thought，感觉学得太慢，求推荐其他方法
+QUESTION 40256547	1455080203	1455080203	https://www.zhihu.com/question/40256547	求问此桥牌开叫什么？
+QUESTION 40632600	1456113081	1456113081	https://www.zhihu.com/question/40632600	求大神分析，这局桥牌为什么负分？
+QUESTION 48132371	1467608351	1467608351	https://www.zhihu.com/question/48132371	請教這種情況用SAYC的最佳叫法？
+QUESTION 48724499	1469066562	1469066562	https://www.zhihu.com/question/48724499	现实中的两个人，怎么打桥牌？
+QUESTION 48132371	1467608351	1467608351	https://www.zhihu.com/question/48132371	請教這種情況用SAYC的最佳叫法？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 40256547	1455080203	1455080203	https://www.zhihu.com/question/40256547	求问此桥牌开叫什么？
+QUESTION 48132371	1467608351	1467608351	https://www.zhihu.com/question/48132371	請教這種情況用SAYC的最佳叫法？
+QUESTION 47354660	1465712183	1465712183	https://www.zhihu.com/question/47354660	要打好桥牌，需要懂那些技巧？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 45485685	1462402648	1462402648	https://www.zhihu.com/question/45485685	有哪些好的桥牌学习途径？最近在看微信公众号：bridge_thought，感觉学得太慢，求推荐其他方法
+QUESTION 38002537	1448791824	1448791824	https://www.zhihu.com/question/38002537	和桥牌相关的一个英文翻译问题，“bridge hands“ 怎么翻译？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 39689378	1453319807	1453319807	https://www.zhihu.com/question/39689378	求桥牌高手，解答坐庄？
+QUESTION 40789802	1456491000	1456491000	https://www.zhihu.com/question/40789802	ccba体系到底是什么样的？为什么前辈中有的嗤之以鼻，有的不可置否呢？
+QUESTION 40046680	1454327875	1454327875	https://www.zhihu.com/question/40046680	这是什么叫法？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 41424284	1458076195	1458076195	https://www.zhihu.com/question/41424284	桥牌用的扑克为什么更宽一些？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 41237966	1457623308	1457623308	https://www.zhihu.com/question/41237966	桥牌和围棋的 AI 哪个更难设计？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 40119565	1454552203	1454552203	https://www.zhihu.com/question/40119565	围棋，桥牌，电子竞技之类运动有没有尿检？
+QUESTION 40119565	1454552203	1454552203	https://www.zhihu.com/question/40119565	围棋，桥牌，电子竞技之类运动有没有尿检？
+QUESTION 40046680	1454327875	1454327875	https://www.zhihu.com/question/40046680	这是什么叫法？
+QUESTION 40789802	1456491000	1456491000	https://www.zhihu.com/question/40789802	ccba体系到底是什么样的？为什么前辈中有的嗤之以鼻，有的不可置否呢？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 40632600	1456113081	1456113081	https://www.zhihu.com/question/40632600	求大神分析，这局桥牌为什么负分？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 40119565	1454552203	1454552203	https://www.zhihu.com/question/40119565	围棋，桥牌，电子竞技之类运动有没有尿检？
+QUESTION 40119565	1454552203	1454552203	https://www.zhihu.com/question/40119565	围棋，桥牌，电子竞技之类运动有没有尿检？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 40046680	1454327875	1454327875	https://www.zhihu.com/question/40046680	这是什么叫法？
+QUESTION 39739576	1453453123	1453453123	https://www.zhihu.com/question/39739576	如何评价CCBA自然叫牌体系？
+QUESTION 39413028	1452582334	1452582334	https://www.zhihu.com/question/39413028	桥牌怎么算，这样算对吗？
+QUESTION 40046680	1454327875	1454327875	https://www.zhihu.com/question/40046680	这是什么叫法？
+QUESTION 40046680	1454327875	1454327875	https://www.zhihu.com/question/40046680	这是什么叫法？
+QUESTION 40046680	1454327875	1454327875	https://www.zhihu.com/question/40046680	这是什么叫法？
+QUESTION 39739576	1453453123	1453453123	https://www.zhihu.com/question/39739576	如何评价CCBA自然叫牌体系？
+QUESTION 39739576	1453453123	1453453123	https://www.zhihu.com/question/39739576	如何评价CCBA自然叫牌体系？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 39689378	1453319807	1453319807	https://www.zhihu.com/question/39689378	求桥牌高手，解答坐庄？
+QUESTION 39739576	1453453123	1453453123	https://www.zhihu.com/question/39739576	如何评价CCBA自然叫牌体系？
+QUESTION 39739576	1453453123	1453453123	https://www.zhihu.com/question/39739576	如何评价CCBA自然叫牌体系？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 39413028	1452582334	1452582334	https://www.zhihu.com/question/39413028	桥牌怎么算，这样算对吗？
+QUESTION 39304495	1452271670	1452271670	https://www.zhihu.com/question/39304495	桥牌基础理论题，求大神解答！？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 38322511	1449576663	1449576663	https://www.zhihu.com/question/38322511	桥牌残局求解？
+QUESTION 38322511	1449576663	1449576663	https://www.zhihu.com/question/38322511	桥牌残局求解？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 34518074	1439426069	1439426069	https://www.zhihu.com/question/34518074	桥牌中的维也纳妙招和维也纳有什么关系？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 37772388	1448199915	1448199915	https://www.zhihu.com/question/37772388	为什么桥牌能够“称雄”牌类竞？桥牌的魅力在哪？桥牌到底难不难？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 31840104	1435801247	1435801247	https://www.zhihu.com/question/31840104	为什么BBO上这么多的土耳其人？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 36887524	1445842964	1445842964	https://www.zhihu.com/question/36887524	有没有桥牌大神解答一下?
+QUESTION 30974118	1433464475	1433464475	https://www.zhihu.com/question/30974118	在桥牌历史中，对作弊的监管和惩罚体系是如何建立起来的？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 31840104	1435801247	1435801247	https://www.zhihu.com/question/31840104	为什么BBO上这么多的土耳其人？
+QUESTION 36216437	1444063714	1444063714	https://www.zhihu.com/question/36216437	如何评价中国队在2015年百慕大杯上的表现?
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 35845553	1442898145	1442898145	https://www.zhihu.com/question/35845553	如何看待 2015 年 8 月 24 日开始的桥牌革命？
+QUESTION 35845553	1442898145	1442898145	https://www.zhihu.com/question/35845553	如何看待 2015 年 8 月 24 日开始的桥牌革命？
+QUESTION 35845553	1442898145	1442898145	https://www.zhihu.com/question/35845553	如何看待 2015 年 8 月 24 日开始的桥牌革命？
+QUESTION 35845553	1442898145	1442898145	https://www.zhihu.com/question/35845553	如何看待 2015 年 8 月 24 日开始的桥牌革命？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 33558709	1438091040	1438091040	https://www.zhihu.com/question/33558709	桥牌为什么火不起来了?
+QUESTION 33819288	1438437107	1438437107	https://www.zhihu.com/question/33819288	桥牌应该怎样入门？
+QUESTION 33558709	1438091040	1438091040	https://www.zhihu.com/question/33558709	桥牌为什么火不起来了?
+QUESTION 35424290	1441616710	1441616710	https://www.zhihu.com/question/35424290	世界上都有哪些国家有桥牌协会？
+QUESTION 35405570	1441556489	1441556489	https://www.zhihu.com/question/35405570	怎样评价复式麻将？
+QUESTION 35405570	1441556489	1441556489	https://www.zhihu.com/question/35405570	怎样评价复式麻将？
+QUESTION 35405570	1441556489	1441556489	https://www.zhihu.com/question/35405570	怎样评价复式麻将？
+QUESTION 34767908	1439884574	1439884574	https://www.zhihu.com/question/34767908	中国的顶尖桥牌水平和世界顶尖桥牌水平差距有多大？
+QUESTION 35136722	1440819145	1440819145	https://www.zhihu.com/question/35136722	如何解释桥牌是什么？
+QUESTION 25031914	1409282608	1409282608	https://www.zhihu.com/question/25031914	你从麻将、扑克中悟出了哪些人生道理？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 34767908	1439884574	1439884574	https://www.zhihu.com/question/34767908	中国的顶尖桥牌水平和世界顶尖桥牌水平差距有多大？
+QUESTION 34767908	1439884574	1439884574	https://www.zhihu.com/question/34767908	中国的顶尖桥牌水平和世界顶尖桥牌水平差距有多大？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 31569838	1435111471	1435111471	https://www.zhihu.com/question/31569838	桥牌方面的问题，求大神解答！！?
+QUESTION 31837380	1435786716	1435786716	https://www.zhihu.com/question/31837380	如何提高桥牌防守？
+QUESTION 34666636	1439795949	1439795949	https://www.zhihu.com/question/34666636	桥牌中的中国式飞牌和中国有什么关系？
+QUESTION 34666636	1439795949	1439795949	https://www.zhihu.com/question/34666636	桥牌中的中国式飞牌和中国有什么关系？
+QUESTION 34666636	1439795949	1439795949	https://www.zhihu.com/question/34666636	桥牌中的中国式飞牌和中国有什么关系？
+QUESTION 31569838	1435111471	1435111471	https://www.zhihu.com/question/31569838	桥牌方面的问题，求大神解答！！?
+QUESTION 34518074	1439426069	1439426069	https://www.zhihu.com/question/34518074	桥牌中的维也纳妙招和维也纳有什么关系？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 33819288	1438437107	1438437107	https://www.zhihu.com/question/33819288	桥牌应该怎样入门？
+QUESTION 29592755	1429103267	1429103267	https://www.zhihu.com/question/29592755	桥牌求解？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 33558709	1438091040	1438091040	https://www.zhihu.com/question/33558709	桥牌为什么火不起来了?
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 25013588	1409150702	1409150702	https://www.zhihu.com/question/25013588	万里的桥牌水平怎么样？
+QUESTION 25013588	1409150702	1409150702	https://www.zhihu.com/question/25013588	万里的桥牌水平怎么样？
+QUESTION 31837380	1435786716	1435786716	https://www.zhihu.com/question/31837380	如何提高桥牌防守？
+QUESTION 31844689	1435809992	1435809992	https://www.zhihu.com/question/31844689	Bridge Master Level 2 A-22怎么解？
+QUESTION 31837380	1435786716	1435786716	https://www.zhihu.com/question/31837380	如何提高桥牌防守？
+QUESTION 31837380	1435786716	1435786716	https://www.zhihu.com/question/31837380	如何提高桥牌防守？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 20755938	1359645159	1359645159	https://www.zhihu.com/question/20755938	如果重新做一个桥牌游戏平台（网页版），大家希望有些什么功能，或者其他的建议？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 31024391	1433597709	1433597709	https://www.zhihu.com/question/31024391	桥牌的精确叫牌法的核心是什么？怎样短时间内掌握这种方法？
+QUESTION 31549019	1435046752	1435046752	https://www.zhihu.com/question/31549019	桥牌挤牌的方式共有多少种？
+QUESTION 31524757	1434976931	1434976931	https://www.zhihu.com/question/31524757	中国还有人玩桥牌吗?
+QUESTION 31524757	1434976931	1434976931	https://www.zhihu.com/question/31524757	中国还有人玩桥牌吗?
+QUESTION 22174582	1386022159	1386022159	https://www.zhihu.com/question/22174582	想送一份比较特别的桥牌为主题的礼物给未来岳父（狂热型桥牌爱好者），桥牌书籍除外，请问有什么好推荐？
+QUESTION 25554385	1411822962	1411822962	https://www.zhihu.com/question/25554385	为什么聂棋圣一直在BBO上逛？
+QUESTION 31203195	1434012801	1434012801	https://www.zhihu.com/question/31203195	求桥牌大神指教？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 29742763	1429590101	1429590101	https://www.zhihu.com/question/29742763	参加“京华杯”北大清华棋牌对抗赛是怎样的体验？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20483265	1347849652	1347849652	https://www.zhihu.com/question/20483265	国内桥牌圈子主要是一些什么样的人组成的？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 30367269	1431593446	1431593446	https://www.zhihu.com/question/30367269	你所知道的最冷的桥牌知识是什么？
+QUESTION 29410833	1428520539	1428520539	https://www.zhihu.com/question/29410833	桥牌史上有哪些经典牌例？
+QUESTION 29410833	1428520539	1428520539	https://www.zhihu.com/question/29410833	桥牌史上有哪些经典牌例？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 24532389	1405687612	1405687612	https://www.zhihu.com/question/24532389	为什么我玩单机桥牌时还要控制电脑一方，如何取消？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 27869904	1422558770	1422558770	https://www.zhihu.com/question/27869904	桥牌叫牌体系是如何设计的？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 24588272	1406102680	1406102680	https://www.zhihu.com/question/24588272	桥牌在 NT 情况下哪个花色最大?
+QUESTION 21909426	1383021049	1383021049	https://www.zhihu.com/question/21909426	在世界范围内，强梅花弱无将体系和强无将弱梅花体系哪个更流行？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 27231737	1419406126	1419406126	https://www.zhihu.com/question/27231737	【桥牌】求帮助老师的板书写的是什么？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 25013588	1409150702	1409150702	https://www.zhihu.com/question/25013588	万里的桥牌水平怎么样？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 22852263	1393329329	1393329329	https://www.zhihu.com/question/22852263	怎样的桥牌社招新海报能够吸引你？
+QUESTION 22852263	1393329329	1393329329	https://www.zhihu.com/question/22852263	怎样的桥牌社招新海报能够吸引你？
+QUESTION 26508271	1415276688	1415276688	https://www.zhihu.com/question/26508271	桥牌中“八飞九不飞（8 ever 9 never）”是什么原理？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 26351234	1414416843	1414416843	https://www.zhihu.com/question/26351234	桥牌最大的难点是什么？和升级有哪些异同点，升级水平还可以，再去学桥牌难吗？
+QUESTION 20756453	1359686412	1359686412	https://www.zhihu.com/question/20756453	在BBO上面，BBO大师分赛的赛制大致有几种？这些赛事都有些什么优缺点？
+QUESTION 22722373	1392169837	1392169837	https://www.zhihu.com/question/22722373	桥牌小白，请教几个问题？
+QUESTION 24588272	1406102680	1406102680	https://www.zhihu.com/question/24588272	桥牌在 NT 情况下哪个花色最大?
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 22722373	1392169837	1392169837	https://www.zhihu.com/question/22722373	桥牌小白，请教几个问题？
+QUESTION 24588272	1406102680	1406102680	https://www.zhihu.com/question/24588272	桥牌在 NT 情况下哪个花色最大?
+QUESTION 24588272	1406102680	1406102680	https://www.zhihu.com/question/24588272	桥牌在 NT 情况下哪个花色最大?
+QUESTION 24562754	1405933003	1405933003	https://www.zhihu.com/question/24562754	桥牌自然叫牌法开叫1C如何应交？应叫方11到13点，C大于或等于5张。
+QUESTION 24562754	1405933003	1405933003	https://www.zhihu.com/question/24562754	桥牌自然叫牌法开叫1C如何应交？应叫方11到13点，C大于或等于5张。
+QUESTION 24562754	1405933003	1405933003	https://www.zhihu.com/question/24562754	桥牌自然叫牌法开叫1C如何应交？应叫方11到13点，C大于或等于5张。
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 22722373	1392169837	1392169837	https://www.zhihu.com/question/22722373	桥牌小白，请教几个问题？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 23119463	1395389278	1395389278	https://www.zhihu.com/question/23119463	打桥牌如何可以优雅的输牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22852263	1393329329	1393329329	https://www.zhihu.com/question/22852263	怎样的桥牌社招新海报能够吸引你？
+QUESTION 22852263	1393329329	1393329329	https://www.zhihu.com/question/22852263	怎样的桥牌社招新海报能够吸引你？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22843873	1393256636	1393256636	https://www.zhihu.com/question/22843873	为何打麻将往往动钱才过瘾，而棋类则不用？
+QUESTION 22722373	1392169837	1392169837	https://www.zhihu.com/question/22722373	桥牌小白，请教几个问题？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 20483265	1347849652	1347849652	https://www.zhihu.com/question/20483265	国内桥牌圈子主要是一些什么样的人组成的？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 20755938	1359645159	1359645159	https://www.zhihu.com/question/20755938	如果重新做一个桥牌游戏平台（网页版），大家希望有些什么功能，或者其他的建议？
+QUESTION 20755938	1359645159	1359645159	https://www.zhihu.com/question/20755938	如果重新做一个桥牌游戏平台（网页版），大家希望有些什么功能，或者其他的建议？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 22228975	1386572461	1386572461	https://www.zhihu.com/question/22228975	桥牌的计分方式一副一比（Board-A-Match ）是什么意思？
+QUESTION 22174582	1386022159	1386022159	https://www.zhihu.com/question/22174582	想送一份比较特别的桥牌为主题的礼物给未来岳父（狂热型桥牌爱好者），桥牌书籍除外，请问有什么好推荐？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21909426	1383021049	1383021049	https://www.zhihu.com/question/21909426	在世界范围内，强梅花弱无将体系和强无将弱梅花体系哪个更流行？
+QUESTION 21909426	1383021049	1383021049	https://www.zhihu.com/question/21909426	在世界范围内，强梅花弱无将体系和强无将弱梅花体系哪个更流行？
+QUESTION 21909426	1383021049	1383021049	https://www.zhihu.com/question/21909426	在世界范围内，强梅花弱无将体系和强无将弱梅花体系哪个更流行？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 19875063	1318243853	1318243853	https://www.zhihu.com/question/19875063	中国有多少人会桥牌？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 21722917	1380412954	1380412954	https://www.zhihu.com/question/21722917	桥牌、德州扑克、麻将这三种棋牌类游戏对智力的考验哪个比较高？为什么？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21587119	1378147727	1378147727	https://www.zhihu.com/question/21587119	为什么在中国国内桥牌普及度这么低？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 20755938	1359645159	1359645159	https://www.zhihu.com/question/20755938	如果重新做一个桥牌游戏平台（网页版），大家希望有些什么功能，或者其他的建议？
+QUESTION 21021388	1367756418	1367756418	https://www.zhihu.com/question/21021388	零基础应该怎么学桥牌？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 20483265	1347849652	1347849652	https://www.zhihu.com/question/20483265	国内桥牌圈子主要是一些什么样的人组成的？
+QUESTION 20055868	1328751804	1328751804	https://www.zhihu.com/question/20055868	关于桥牌的书籍有哪些推荐？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20466014	1347007390	1347007390	https://www.zhihu.com/question/20466014	围棋、国象、德州撲克，哪一种思考方式对创业较好呢？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 20445185	1346036837	1346036837	https://www.zhihu.com/question/20445185	网球大满贯赛事来源于桥牌术语「grand slam」，为什么翻译成「满贯」？
+QUESTION 20414083	1344669840	1344669840	https://www.zhihu.com/question/20414083	以自己在棋盘上的切身体会来说，什么是战略？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
+QUESTION 19635062	1304926506	1304926506	https://www.zhihu.com/question/19635062	你在桥牌在线 Bridgebaseonline 使用的体系是怎样的？
