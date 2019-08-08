@@ -142,8 +142,7 @@ def main_start_tops_finance(topic_id, title_name, offset):
                 url_questions.flush()
         else:
             print msg
-            return
-
+            return 'ERROR'
 
 
 def test_get_offset(msg):
@@ -161,6 +160,8 @@ def start_create_topic_list():
 
     source_filename = u'dict_topic_types.txt'
     lines = open(os.path.join(source_path, source_filename), 'a+').readlines()
+
+    counter_error = 0
     for line in lines:
         line_arr = line.strip().split(' ')
         topic_id = re.sub('.*/', '', line_arr[0])
@@ -171,7 +172,12 @@ def start_create_topic_list():
         #     os.makedirs(target_path)
 
         print url, title_name, offset
-        main_start_tops_finance(topic_id, title_name, offset)
+        flag_err = main_start_tops_finance(topic_id, title_name, offset)
+        if flag_err:
+            counter_error += 1
+        if counter_error > 2:
+            print 'EXCEPTION STOP.....'
+            return
 
 
 # s2 下载
